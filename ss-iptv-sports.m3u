@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_1" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%201%20HD.png?size=xl&crop=false&format=png",Sport TV 1
+#EXTSIZE: Big
+#EXTBG: #E26317
+http://192.168.100.4:8000/pid/c39db61fd585ebfa446983d0af9d9d637df9678c/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_2" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%202%20%281%29.png?size=xl&crop=false&format=png",Sport TV 2
+#EXTSIZE: Medium
+#EXTBG: #FFA500
+http://192.168.100.4:8000/pid/a3776be8c08f52b3366c83fff09609721e28cd69/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_3" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%203%20%281%29.png?size=xl&crop=false&format=png",Sport TV 3
+#EXTSIZE: Medium
+#EXTBG: #FFA500
+http://192.168.100.4:8000/pid/2cd965d9c087d1d6be889d54d689a6a6083a6280/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_4" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/SPORT%20TV%204%20HD.png?size=xl&crop=false&format=png",Sport TV 4
+#EXTSIZE: Small
+#EXTBG: #FFA500
+http://192.168.100.4:8000/pid/4f256982b213a8b3346b01683b82261db8dcd524/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_5" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/SPORT%20TV%205%20HD%20%281%29.png?size=xl&crop=false&format=png",Sport TV 5
+#EXTSIZE: Small
+#EXTBG: #FFA500
+http://192.168.100.4:8000/pid/e4bb9e8c9d080a418047686bd7891f545bc777d4/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Arenavison_1" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 1
+#EXTSIZE: Big
+#EXTBG: #8A2E2E
+http://192.168.100.4:8000/pid/ddb663867ee6e6f37e9543e49030712e1821e690/video.mp4
+#EXTINF:-1 group-title="" tvg-name="Arenavison_2" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 2
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/18ab7b60b79faf3362620a9435ddcdcb4f8020e5/video.mp4
+#EXTINF:-1 group-title="" tvg-name="Arenavison_3" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 3
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/974a62f8f737d84adf1a78c2ea41f219858ad3ac/video.mp4
+#EXTINF:-1 group-title="" tvg-name="Arenavison_4" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 4
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/9953ba235a8c972d0b162c6f3bddc92eaa9ee110/video.mp4
+#EXTINF:-1 group-title="" tvg-name="Arenavison_5" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 5
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/44bd912f22320ff39dae4de5aa6778d3c28461f0/video.mp4
+#EXTINF:-1 group-title="" tvg-name="Arenavison_6" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 6
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/a649e982c6b91bc783b3779ffd03ad6a3be7c696/video.mp4
+#EXTINF:-1 group-title="" tvg-name="Arenavison_7" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 7
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/5b05834daab7f3882645e3871b88eb6c0b74ca1c/video.mp4
+#EXTINF:-1 group-title="" tvg-name="Arenavison_8" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 8
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/3e3f649ffd85942dbfe1d0523c58b510b26c8d09/video.mp4
+#EXTINF:-1 group-title="" tvg-name="Arenavison_9" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 9
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/484f2847fcc055116f8df0ce91f3291bfc2fc8e6/video.mp4
+#EXTINF:-1 group-title="" tvg-name="Arenavison_10" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 10
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/d74728ea1393a78d25e1dccaedc1e72fcffa0f02/video.mp4
+#EXTINF:-1 group-title="" tvg-name="Arenavison_11" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 11
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/cac4426a3b31c7a40d536b6a03da43f83e768ef2/video.mp4
