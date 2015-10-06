@@ -3,6 +3,10 @@
 #EXTSIZE: Big
 #EXTBG: #E26317
 http://192.168.100.4:8000/pid/c39db61fd585ebfa446983d0af9d9d637df9678c/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_1" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%201%20HD.png?size=xl&crop=false&format=png",Sport TV 1
+#EXTSIZE: Big
+#EXTBG: #E26317
+http://192.168.100.4:8000/pid/ef6c2b73a0436e06478790e7f8f27f173159dd59/stream.mp4
 #EXTINF:-1 group-title="" tvg-name="Sport_TV_2" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%202%20%281%29.png?size=xl&crop=false&format=png",Sport TV 2
 #EXTSIZE: Medium
 #EXTBG: #FFA500
@@ -68,4 +72,7 @@ http://192.168.100.4:8000/pid/cac4426a3b31c7a40d536b6a03da43f83e768ef2/video.mp4
 #EXTBG: #A15757
 http://192.168.100.4:8000/pid/983a3e2b00512a85430bbd1300b6c8d4abac11c7/video.mp4
 
-
+#EXTINF:-1 group-title="" tvg-name="SPORTING_TV" tvg-logo="", Sporting Tv
+#EXTSIZE: Big
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/51.m3u8
