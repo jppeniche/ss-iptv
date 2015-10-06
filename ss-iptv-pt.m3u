@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:0,TVI24
+http://kuku.dyndns.tv:8000/live/fernando/fernando/27.ts
+#EXTINF:0,RTP INFORMACAO
+http://kuku.dyndns.tv:8000/live/fernando/fernando/25.ts
+#EXTINF:0,SIC RADICAL
+http://kuku.dyndns.tv:8000/live/fernando/fernando/12.ts
+#EXTINF:0,SIC MULHER
+http://kuku.dyndns.tv:8000/live/fernando/fernando/11.ts
+#EXTINF:0,TVI FICCAO
+http://kuku.dyndns.tv:8000/live/fernando/fernando/14.ts
+#EXTINF:0,+TVI
+http://kuku.dyndns.tv:8000/live/fernando/fernando/100.ts
+#EXTINF:0,RTP MEMORIA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/9.ts
+#EXTINF:0,RTP AFRICA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/6.ts
+#EXTINF:0,PORTO CANAL
+http://kuku.dyndns.tv:8000/live/fernando/fernando/34.ts
+#EXTINF:0,GLOBO
+http://kuku.dyndns.tv:8000/live/fernando/fernando/16.ts
+#EXTINF:0,GLOBO PREMIUM
+http://kuku.dyndns.tv:8000/live/fernando/fernando/15.ts
+#EXTINF:0,ABOLA TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/30.ts
+#EXTINF:0,——DESPORTO————
+http://kuku.dyndns.tv:8000/live/fernando/fernando/29.ts
+#EXTINF:0,SPORTTV 1 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/37.ts
+#EXTINF:0,SPORTTV 2 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/38.ts
+#EXTINF:0,SPORTTV 3 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/39.ts
+#EXTINF:0,SPORTTV 4 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/40.ts
+#EXTINF:0,SPORTTV 5 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/41.ts
+#EXTINF:0,SPORTTV AMERICA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/42.ts
+#EXTINF:0,BTV 1 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/31.ts
+#EXTINF:0,BTV2 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/33.ts
+#EXTINF:0,SPORTING TV HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/36.ts
+#EXTINF:0,REAL MADRID TV HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/51.ts
+#EXTINF:0,PFC
+http://kuku.dyndns.tv:8000/live/fernando/fernando/45.ts
+#EXTINF:0,GOL TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/44.ts
+#EXTINF:0,NBA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/35.ts
+#EXTINF:0,EUROSPORT HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/48.ts
+#EXTINF:0,EUROSPORT 2
+http://kuku.dyndns.tv:8000/live/fernando/fernando/49.ts
+#EXTINF:0,EUROSPORT NEWS
+http://kuku.dyndns.tv:8000/live/fernando/fernando/47.ts
+#EXTINF:0,FUEL TV HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/46.ts
+#EXTINF:0,——CINEMA & SERIES————
+http://kuku.dyndns.tv:8000/live/fernando/fernando/54.ts
+#EXTINF:0,TVCINE 1 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/55.ts
+#EXTINF:0,TVCINE 2 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/56.ts
+#EXTINF:0,TVCINE 3 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/57.ts
+#EXTINF:0,TVCINE 4 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/58.ts
+#EXTINF:0,HOLLYWOOD HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/69.ts
+#EXTINF:0,CINEMUNDO
+http://kuku.dyndns.tv:8000/live/fernando/fernando/60.ts
+#EXTINF:0,FOX MOVIES HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/66.ts
+#EXTINF:0,FOX HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/64.ts
+#EXTINF:0,FOX LIFE
+http://kuku.dyndns.tv:8000/live/fernando/fernando/67.ts
+#EXTINF:0,FOX CRIME HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/65.ts
+#EXTINF:0,AXN HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/61.ts
+#EXTINF:0,AXN WHITE HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/63.ts
+#EXTINF:0,AXN BLACK HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/62.ts
+#EXTINF:0,TV SERIES
+http://kuku.dyndns.tv:8000/live/fernando/fernando/59.ts
+#EXTINF:0,SYFY HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/72.ts
+#EXTINF:0,MOV HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/70.ts
+#EXTINF:0,——INFANTIS————
+http://kuku.dyndns.tv:8000/live/fernando/fernando/74.ts
+#EXTINF:0,DISNEY CHANNEL
+http://kuku.dyndns.tv:8000/live/fernando/fernando/77.ts
+#EXTINF:0,SIC K
+http://kuku.dyndns.tv:8000/live/fernando/fernando/80.ts
+#EXTINF:0,CANAL PANDA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/76.ts
+#EXTINF:0,NICKELODEON
+http://kuku.dyndns.tv:8000/live/fernando/fernando/79.ts
+#EXTINF:0,DISNEY JUNIOR
+http://kuku.dyndns.tv:8000/live/fernando/fernando/78.ts
+#EXTINF:0,CARTOON NETWORK
+http://kuku.dyndns.tv:8000/live/fernando/fernando/75.ts
+#EXTINF:0,——DOCUMENTARIOS————
+http://kuku.dyndns.tv:8000/live/fernando/fernando/88.ts
+#EXTINF:0,DISCOVERY CHANNEL
+http://kuku.dyndns.tv:8000/live/fernando/fernando/92.ts
+#EXTINF:0,NAT GEOGRAPHIC HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/93.ts
+#EXTINF:0,NAT GEO WILD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/94.ts
+#EXTINF:0,ODISSEIA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/91.ts
+#EXTINF:0,CANAL HISTORIA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/90.ts
+#EXTINF:0,TRAVEL CHANNEL
+http://kuku.dyndns.tv:8000/live/fernando/fernando/95.ts
+#EXTINF:0,TV RECORD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/18.ts
+#EXTINF:0,TV GALICIA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/20.ts
+#EXTINF:0,TPA (ANG)
+http://kuku.dyndns.tv:8000/live/fernando/fernando/17.ts
+#EXTINF:0,FASHION TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/89.ts
+#EXTINF:0,CBS REALITY
+http://kuku.dyndns.tv:8000/live/fernando/fernando/71.ts
+#EXTINF:0,FX
+http://kuku.dyndns.tv:8000/live/fernando/fernando/68.ts
+#EXTINF:0,E! ENTERTAINMENT
+http://kuku.dyndns.tv:8000/live/fernando/fernando/73.ts
+#EXTINF:0,CAÇA E PESCA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/53.ts
+#EXTINF:0,CACAVISION
+http://kuku.dyndns.tv:8000/live/fernando/fernando/43.ts
+#EXTINF:0,TOROS TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/52.ts
+#EXTINF:0,MOTORS TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/50.ts
+#EXTINF:0,——MUSICA————
+http://kuku.dyndns.tv:8000/live/fernando/fernando/81.ts
+#EXTINF:0,VH1 CLASSIC
+http://kuku.dyndns.tv:8000/live/fernando/fernando/85.ts
+#EXTINF:0,VH1
+http://kuku.dyndns.tv:8000/live/fernando/fernando/84.ts
+#EXTINF:0,MEZZO
+http://kuku.dyndns.tv:8000/live/fernando/fernando/87.ts
+#EXTINF:0,MCM POP
+http://kuku.dyndns.tv:8000/live/fernando/fernando/83.ts
+#EXTINF:0,CLUBLAND
+http://kuku.dyndns.tv:8000/live/fernando/fernando/82.ts
+#EXTINF:0,AFRO MUSIC HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/86.ts
+#EXTINF:0,——NOTICIAS————
+http://kuku.dyndns.tv:8000/live/fernando/fernando/21.ts
+#EXTINF:0,EURONEWS
+http://kuku.dyndns.tv:8000/live/fernando/fernando/23.ts
+#EXTINF:0,RECORD NEWS
+http://kuku.dyndns.tv:8000/live/fernando/fernando/28.ts
+#EXTINF:0,CANÇAO NOVA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/19.ts
+#EXTINF:0,ECONOMICO TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/22.ts
+#EXTINF:0,RTP 1
+http://kuku.dyndns.tv:8000/live/fernando/fernando/2.ts
+#EXTINF:0,RTP INTERNACIONAL
+http://kuku.dyndns.tv:8000/live/fernando/fernando/7.ts
+#EXTINF:0,RTP MADEIRA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/8.ts
+#EXTINF:0,RTP ACORES
+http://kuku.dyndns.tv:8000/live/fernando/fernando/5.ts
+#EXTINF:0,=====XXX=====
+http://kuku.dyndns.tv:8000/live/fernando/fernando/96.ts
+#EXTINF:0,HOT (XXX)
+http://kuku.dyndns.tv:8000/live/fernando/fernando/99.ts
+#EXTINF:0,PLAYBOY (XXX)
+http://kuku.dyndns.tv:8000/live/fernando/fernando/97.ts
+#EXTINF:0,VENUS (XXX)
+http://kuku.dyndns.tv:8000/live/fernando/fernando/98.ts
+#EXTINF:0,RTP 1 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/3.ts
+#EXTINF:0,RTP 2
+http://kuku.dyndns.tv:8000/live/fernando/fernando/4.ts
+#EXTINF:0,SIC
+http://kuku.dyndns.tv:8000/live/fernando/fernando/10.ts
+#EXTINF:0,TVI
+http://kuku.dyndns.tv:8000/live/fernando/fernando/13.ts
+#EXTINF:0,SIC NOTICIAS
+http://kuku.dyndns.tv:8000/live/fernando/fernando/26.ts
+#EXTINF:0,CMTV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/24.ts
