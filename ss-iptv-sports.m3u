@@ -11,6 +11,10 @@ http://192.168.100.4:8000/pid/ef6c2b73a0436e06478790e7f8f27f173159dd59/stream.mp
 #EXTSIZE: Medium
 #EXTBG: #FFA500
 http://192.168.100.4:8000/pid/a3776be8c08f52b3366c83fff09609721e28cd69/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_2" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%202%20%281%29.png?size=xl&crop=false&format=png",Sport TV 2
+#EXTSIZE: Medium
+#EXTBG: #FFA500
+http://192.168.100.4:8000/pid/24660dc5f5a642f7f5df8873ddac481bc4702115/stream.mp4
 #EXTINF:-1 group-title="" tvg-name="Sport_TV_3" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%203%20%281%29.png?size=xl&crop=false&format=png",Sport TV 3
 #EXTSIZE: Medium
 #EXTBG: #FFA500
@@ -23,6 +27,10 @@ http://192.168.100.4:8000/pid/4f256982b213a8b3346b01683b82261db8dcd524/stream.mp
 #EXTSIZE: Small
 #EXTBG: #FFA500
 http://192.168.100.4:8000/pid/e4bb9e8c9d080a418047686bd7891f545bc777d4/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_5" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/SPORT%20TV%205%20HD%20%281%29.png?size=xl&crop=false&format=png",Sport TV 5
+#EXTSIZE: Small
+#EXTBG: #FFA500
+http://192.168.100.4:8000/pid/ddb6a548f40c83790bc700105fcfc5f3762214ad/stream.mp4
 #EXTINF:-1 group-title="" tvg-name="Arenavison_1" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 1
 #EXTSIZE: Big
 #EXTBG: #8A2E2E
@@ -70,9 +78,16 @@ http://192.168.100.4:8000/pid/cac4426a3b31c7a40d536b6a03da43f83e768ef2/video.mp4
 #EXTINF:-1 group-title="" tvg-name="SKY_SPORTS_F1" tvg-logo="", SKY SPORTS F1 HD
 #EXTSIZE: Big
 #EXTBG: #A15757
-http://192.168.100.4:8000/pid/983a3e2b00512a85430bbd1300b6c8d4abac11c7/video.mp4
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/78.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="SPORTING_TV" tvg-logo="", Sporting Tv
 #EXTSIZE: Big
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/51.m3u8
+
+#EXTINF:-1,SPORTV
+http://37.203.209.34:443/mobile/bob05sd/IPTVGLOBAL.m3u8
+#EXTINF:-1,SPORTV 3 
+http://37.203.209.34:443/mobile/bob06sd/IPTVGLOBAL.m3u8
+#EXTINF:-1,SPORTV 3 
+http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
