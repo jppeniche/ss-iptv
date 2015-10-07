@@ -71,10 +71,6 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/18.m3u8
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/19.m3u8
-#EXTINF:-1 group-title="" tvg-name="RTP_MEMORIA" tvg-logo="", RTP Memória
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/20.m3u8
 #EXTINF:-1 group-title="" tvg-name="SIC" tvg-logo="", 20
 #EXTSIZE: Small
 #EXTBG: #A15757
@@ -87,11 +83,11 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/21.m3u8
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/22.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 23
+#EXTINF:-1 group-title="" tvg-name="!" tvg-logo="", !
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/23.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 24
+#EXTINF:-1 group-title="" tvg-name="TPA" tvg-logo="", TPA
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/24.m3u8
