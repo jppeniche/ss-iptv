@@ -1,40 +1,40 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-name="Sport_TV_1" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%201%20HD.png?size=xl&crop=false&format=png",Sport TV 1
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_1" tvg-logo="",Sport TV 1
 #EXTSIZE: Big
 #EXTBG: #E26317
-http://192.168.100.4:8000/pid/c39db61fd585ebfa446983d0af9d9d637df9678c/stream.mp4
-#EXTINF:-1 group-title="" tvg-name="Sport_TV_1" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%201%20HD.png?size=xl&crop=false&format=png",Sport TV 1
-#EXTSIZE: Big
-#EXTBG: #E26317
-http://192.168.100.4:8000/pid/ef6c2b73a0436e06478790e7f8f27f173159dd59/stream.mp4
-#EXTINF:-1 group-title="" tvg-name="Sport_TV_2" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%202%20%281%29.png?size=xl&crop=false&format=png",Sport TV 2
-#EXTSIZE: Medium
-#EXTBG: #FFA500
-http://192.168.100.4:8000/pid/a3776be8c08f52b3366c83fff09609721e28cd69/stream.mp4
-#EXTINF:-1 group-title="" tvg-name="Sport_TV_2" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%202%20%281%29.png?size=xl&crop=false&format=png",Sport TV 2
-#EXTSIZE: Medium
-#EXTBG: #FFA500
-http://192.168.100.4:8000/pid/24660dc5f5a642f7f5df8873ddac481bc4702115/stream.mp4
-#EXTINF:-1 group-title="" tvg-name="Sport_TV_3" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/Sport%20TV%203%20%281%29.png?size=xl&crop=false&format=png",Sport TV 3
-#EXTSIZE: Medium
-#EXTBG: #FFA500
-http://192.168.100.4:8000/pid/2cd965d9c087d1d6be889d54d689a6a6083a6280/stream.mp4
-#EXTINF:-1 group-title="" tvg-name="Sport_TV_4" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/SPORT%20TV%204%20HD.png?size=xl&crop=false&format=png",Sport TV 4
+http://192.168.100.4:8000/pid/cfeb62e9c104e669a639e74966ad9e6f4b1939b6/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_2" tvg-logo="",Sport TV 2
 #EXTSIZE: Small
 #EXTBG: #FFA500
-http://192.168.100.4:8000/pid/4f256982b213a8b3346b01683b82261db8dcd524/stream.mp4
+http://192.168.100.4:8000/pid/ed5acde0ca3f6092b278e4e705cdd1002ebb1ff2/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_3" tvg-logo="",Sport TV 3
+#EXTSIZE: Small
+#EXTBG: #FFA500
+http://192.168.100.4:8000/pid/9cc147cb9e58eb6db7c3445e50a24e62d22be9f1/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Sport_TV_4" tvg-logo="",Sport TV 4
+#EXTSIZE: Small
+#EXTBG: #FFA500
+http://192.168.100.4:8000/pid/0e9bac041c943b759e65c28631d79376b5392460/stream.mp4
 #EXTINF:-1 group-title="" tvg-name="Sport_TV_5" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/SPORT%20TV%205%20HD%20%281%29.png?size=xl&crop=false&format=png",Sport TV 5
 #EXTSIZE: Small
 #EXTBG: #FFA500
-http://192.168.100.4:8000/pid/e4bb9e8c9d080a418047686bd7891f545bc777d4/stream.mp4
-#EXTINF:-1 group-title="" tvg-name="Sport_TV_5" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/SPORT%20TV%205%20HD%20%281%29.png?size=xl&crop=false&format=png",Sport TV 5
-#EXTSIZE: Small
-#EXTBG: #FFA500
-http://192.168.100.4:8000/pid/ddb6a548f40c83790bc700105fcfc5f3762214ad/stream.mp4
+http://192.168.100.4:8000/pid/bf41112287550c64b2e18e81706e10356dbb8bbc/stream.mp4
 #EXTINF:-1 group-title="" tvg-name="Arenavison_1" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 1
 #EXTSIZE: Big
 #EXTBG: #8A2E2E
 http://192.168.100.4:8000/pid/ddb663867ee6e6f37e9543e49030712e1821e690/video.mp4
+
+#EXTINF:-1 group-title="" tvg-name="BTV_1_HD" tvg-logo="",Benfica TV 1 HD
+#EXTSIZE: Big
+#EXTBG: #8A2E2E
+http://192.168.100.4:8000/pid/253369b57f2a45e1489e5bb7eab4daf0a4cde415/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="BTV_2" tvg-logo="",Benfica TV 2
+#EXTSIZE: Big
+#EXTBG: #8A2E2E
+http://192.168.100.4:8000/pid/c1646f459c86ab24533650333957a57b457d80c1/stream.mp4
+
+
+
 #EXTINF:-1 group-title="" tvg-name="Arenavison_2" tvg-logo="https://cld.pt/dl/thumb/7ae47601-81c9-4ec7-82eb-5c518b38cc8e/Logos%20ARNO/ARENAVISION%203%20%281%29.png?size=webl&crop=true&format=png", ArenaVision 2
 #EXTSIZE: Small
 #EXTBG: #A15757
@@ -75,11 +75,22 @@ http://192.168.100.4:8000/pid/d74728ea1393a78d25e1dccaedc1e72fcffa0f02/video.mp4
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://192.168.100.4:8000/pid/cac4426a3b31c7a40d536b6a03da43f83e768ef2/video.mp4
-#EXTINF:-1 group-title="" tvg-name="SKY_SPORTS_F1" tvg-logo="", SKY SPORTS F1 HD
-#EXTSIZE: Big
+#EXTINF:-1 group-title="" tvg-name="Sky_Sports_F1" tvg-logo="",Sky Sports F1
+#EXTSIZE: Medium
 #EXTBG: #A15757
-http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/78.m3u8
-
+http://192.168.100.4:8000/pid/02c14347959f78d8bf18f898c56f429ab5a44c7b/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Motors_TV" tvg-logo="",Motors TV
+#EXTSIZE: Medium
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/84c27a15472ee950e0567667dfd270cc81b01498/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Movistar_F1" tvg-logo="",Movistar F1
+#EXTSIZE: Medium
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/98b327d19a16be09070212124826e9209cb97540/stream.mp4
+#EXTINF:-1 group-title="" tvg-name="Movistar_MotoGP" tvg-logo="",Movistar MotoGP
+#EXTSIZE: Medium
+#EXTBG: #A15757
+http://192.168.100.4:8000/pid/7c01784bfeba11565fce3626e155da1fcdb45976/stream.mp4
 #EXTINF:-1 group-title="" tvg-name="SPORTING_TV" tvg-logo="", Sporting Tv
 #EXTSIZE: Big
 #EXTBG: #A15757
