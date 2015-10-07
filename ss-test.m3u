@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 group-title="" tvg-name="SPORTING_TV" tvg-logo="", Sporting Tv
+#EXTSIZE: Big
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/51.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 1
+#EXTSIZE: Big
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/1.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 2
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/2.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 3
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/3.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 4
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/4.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 5
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/6.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 6
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/6.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 7
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/7.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 8
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/8.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 2
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/9.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 2
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/9.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 10
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/10.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 11
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/11.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 12
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/12.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 13
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/13.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 14
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/14.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 15
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/15.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 16
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/16.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 17
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/17.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 18
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/18.m3u8
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 19
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/19.m3u8
