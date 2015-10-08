@@ -163,33 +163,10 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/59.m3u8
 #EXTSIZE: Small
 #EXTBG: #A16767
 http://kuku.dyndns.tv:8000/live/fernando/fernando/60.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 63
-#EXTSIZE: Small
-#EXTBG: #A16767
-http://kuku.dyndns.tv:8000/live/fernando/fernando/63.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 64
-#EXTSIZE: Small
-#EXTBG: #A16767
-http://kuku.dyndns.tv:8000/live/fernando/fernando/64.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 65
-#EXTSIZE: Small
-#EXTBG: #A16767
-http://kuku.dyndns.tv:8000/live/fernando/fernando/65.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 66
-#EXTSIZE: Small
-#EXTBG: #A16767
-http://kuku.dyndns.tv:8000/live/fernando/fernando/66.m3u8
 #EXTINF:-1 group-title="Desporto" tvg-name="pfc.pt" tvg-logo="", PFC
 #EXTSIZE: Small
 #EXTBG: #A16767
 http://kuku.dyndns.tv:8000/live/fernando/fernando/67.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 68
-#EXTSIZE: Small
-#EXTBG: #A16767
-http://kuku.dyndns.tv:8000/live/fernando/fernando/68.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 69
-#EXTSIZE: Small
-#EXTBG: #A16767
 #EXTINF:-1 group-title="Desporto" tvg-name="eurosport.pt" tvg-logo="", Eurosport
 #EXTSIZE: Small
 #EXTBG: #A17777
@@ -266,12 +243,12 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/154.m3u8
 http://kuku.dyndns.tv:8000/live/fernando/fernando/155.m3u8
 #EXTINF:-1 group-title="Adultos" tvg-name="Hot.pt" tvg-logo="", HOTHD
 http://kuku.dyndns.tv:8000/live/fernando/fernando/158.m3u8
-#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste159
-http://kuku.dyndns.tv:8000/live/fernando/fernando/159.m3u8
-#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste160
-http://kuku.dyndns.tv:8000/live/fernando/fernando/160.m3u8
-#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste161
-http://kuku.dyndns.tv:8000/live/fernando/fernando/161.m3u8
-#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste162
-http://kuku.dyndns.tv:8000/live/fernando/fernando/162.m3u8
+#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste163
+http://kuku.dyndns.tv:8000/live/fernando/fernando/163.m3u8
+#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste164
+http://kuku.dyndns.tv:8000/live/fernando/fernando/164.m3u8
+#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste165
+http://kuku.dyndns.tv:8000/live/fernando/fernando/165.m3u8
+#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste166
+http://kuku.dyndns.tv:8000/live/fernando/fernando/166.m3u8
 
