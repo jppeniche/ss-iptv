@@ -3,6 +3,10 @@
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/3.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="rtp1.pt" tvg-logo="", RTP 1
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-name="RTPAcores.pt" tvg-logo="", RTP Açores
 #EXTSIZE: Small
 #EXTBG: #A15757
@@ -251,4 +255,6 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/168.m3u8
 http://kuku.dyndns.tv:8000/live/fernando/fernando/169.m3u8
 #EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste170
 http://kuku.dyndns.tv:8000/live/fernando/fernando/170.m3u8
+
+
 
