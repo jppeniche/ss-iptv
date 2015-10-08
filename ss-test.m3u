@@ -1,248 +1,168 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-name="SPORTING_TV" tvg-logo="", Sporting Tv
-#EXTSIZE: Big
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/51.m3u8
-#EXTINF:-1 group-title="" tvg-name="RTP_1" tvg-logo="", RTP 1 SD
-#EXTSIZE: Big
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/1.m3u8
-#EXTINF:-1 group-title="" tvg-name="RTP_1" tvg-logo="", RTP 1 SD
+#EXTINF:-1 group-title="Portugal" tvg-name="rtp1.pt" tvg-logo="", RTP 1
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/3.m3u8
-#EXTINF:-1 group-title="" tvg-name="RTP_1" tvg-logo="", RTP 1 SD
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/4.m3u8
-#EXTINF:-1 group-title="" tvg-name="RTP_ACORES" tvg-logo="", RTP Açores
+#EXTINF:-1 group-title="Portugal" tvg-name="RTPAcores.pt" tvg-logo="", RTP Açores
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/6.m3u8
-#EXTINF:-1 group-title="" tvg-name="RTP_ACORES" tvg-logo="", RTP Açores
+#EXTINF:-1 group-title="Portugal" tvg-name="RTP_ACORES" tvg-logo="", RTP Açores
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/6.m3u8
-#EXTINF:-1 group-title="" tvg-name="RTP_AFRICA" tvg-logo="", RTP África
+#EXTINF:-1 group-title="Portugal" tvg-name="RTP_AFRICA" tvg-logo="", RTP África
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/7.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 8
+#EXTINF:-1 group-title="Portugal" tvg-name="RTPi.pt" tvg-logo="", RTPi
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/8.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="RTP_MADEIRA", RTP Madeira
+#EXTINF:-1 group-title="Portugal" tvg-name="RTPMadeira.pt" tvg-logo="", RTP Madeira
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/9.m3u8
-#EXTINF:-1 group-title="" tvg-name="RTP_MEMORIA" tvg-logo="", RTP Memória
+#EXTINF:-1 group-title="Portugal" tvg-name="rtpmemoria.pt" tvg-logo="", RTP Memória
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/10.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC" tvg-logo="", SIC
+#EXTINF:-1 group-title="Portugal" tvg-name="sic.pt" tvg-logo="", SIC
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/11.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC_MULHER" tvg-logo="", SIC Mulher
+#EXTINF:-1 group-title="Portugal" tvg-name="sicmulher.pt" tvg-logo="", SIC Mulher
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/13.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC_RADICAL" tvg-logo="", SIC Radical
+#EXTINF:-1 group-title="" tvg-name="sicradical.pt" tvg-logo="", SIC Radical
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/14.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 15
+#EXTINF:-1 group-title="Portugal" tvg-name="tvi.pt" tvg-logo="", TVI
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/15.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 16
+#EXTINF:-1 group-title="Portugal" tvg-name="TVIdirect.pt" tvg-logo="", TVIDIR
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/16.m3u8
-#EXTINF:-1 group-title="" tvg-name="TVI_FICCAO" tvg-logo="", TVI Ficção
+#EXTINF:-1 group-title="Portugal" tvg-name="TVIFiccao.pt" tvg-logo="", TVI Ficção
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/17.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 18
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/18.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 19
+#EXTINF:-1 group-title="Portugal" tvg-name="CanalQ.pt" tvg-logo="", Canal Q
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/19.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC" tvg-logo="", 20
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/20.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC_MULHER" tvg-logo="", 21
+#EXTINF:-1 group-title="Portugal" tvg-name="TVGloboPortugal.pt" tvg-logo="", TVGLOBO
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/21.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC_RADICAL" tvg-logo="", 22
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/22.m3u8
-#EXTINF:-1 group-title="" tvg-name="!" tvg-logo="", !
+#EXTINF:-1 group-title="Brasil" tvg-name="!" tvg-logo="", !
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/23.m3u8
-#EXTINF:-1 group-title="" tvg-name="TPA" tvg-logo="", TPA
+#EXTINF:-1 group-title="Portugal" tvg-name="TPA" tvg-logo="", TPA
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/24.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 25
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/25.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 26
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/26.m3u8
-#EXTINF:-1 group-title="" tvg-name="TV_GALICIA" tvg-logo="", TV Galicia
+#EXTINF:-1 group-title="Espanha" tvg-name="TVGalicia.pt" tvg-logo="", TV Galicia
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/27.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC" tvg-logo="", 28
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/28.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC_MULHER" tvg-logo="", 29
+#EXTINF:-1 group-title="Portugal" tvg-name="eentertainment.pt" tvg-logo="", E! Entertainment
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/29.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 30
+#EXTINF:-1 group-title="Portugal" tvg-name="" tvg-logo="EuroChannel.pt", EuroChannel
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/30.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 31
+#EXTINF:-1 group-title="Portugal" tvg-name="CMTV.pt" tvg-logo="", CMTV HD
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/31.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 32
+#EXTINF:-1 group-title="Portugal" tvg-name="france24.fr" tvg-logo="", France 24
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/32.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 33
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/33.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 34
+#EXTINF:-1 group-title="Portugal" tvg-name="rtp3.pt" tvg-logo="", RTP3
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/34.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 35
+#EXTINF:-1 group-title="Portugal" tvg-name="sicnoticias.pt" tvg-logo="", SIC Notícias
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/35.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 36
+#EXTINF:-1 group-title="Portugal" tvg-name="TVI24.pt" tvg-logo="", TVI 24
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/36.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 37
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/37.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 38
+#EXTINF:-1 group-title="Inglaterra" tvg-name="BBCentertainment.pt" tvg-logo="", BBC Entertainment
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/38.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 39
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/39.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 40
+#EXTINF:-1 group-title="EUA" tvg-name="cnn" tvg-logo="", CNN
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/40.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 41
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/41.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 42
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/42.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 43
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/43.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 44
+#EXTINF:-1 group-title="Portugal" tvg-name="ABolaTV.pt" tvg-logo="", A Bola TV
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/44.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 45
+#EXTINF:-1 group-title="Desporto" tvg-name="BenficaTV.pt" tvg-logo="", Benfica TV
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/45.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 46
+#EXTINF:-1 group-title="Desporto" tvg-name="BenficaTV.pt" tvg-logo="", Benfica TV
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/46.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 47
+#EXTINF:-1 group-title="Desporto" tvg-name="BenficaTV2.pt" tvg-logo="", Benfica TV 2
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/47.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 48
+#EXTINF:-1 group-title="Portugal" tvg-name="PortoCanal.pt" tvg-logo="", Porto Canal
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/48.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 49
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/49.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 50
+#EXTINF:-1 group-title="Portugal" tvg-name="FuelTV.pt" tvg-logo="", Fuel TV
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/50.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 51
+#EXTINF:-1 group-title="Desporto" tvg-name="SPORTINGTV.pt" tvg-logo="", SPORTINGTV
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/51.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 52
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv1.pt" tvg-logo="", SPTVHD
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/52.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 53
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/53.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 54
-#EXTSIZE: Small
-#EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/54.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 55
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv2.pt" tvg-logo="", SPTV2HD
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/55.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 56
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv3.pt" tvg-logo="", SPTV3HD
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/56.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 57
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv4.pt" tvg-logo="", SPTV4HD
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/57.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 58
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv4.pt" tvg-logo="", SPTV4HD
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/58.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 59
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv5.pt" tvg-logo="", SPTV5HD
 #EXTSIZE: Small
 #EXTBG: #A15757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/59.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 60
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttvamericas.pt" tvg-logo="", SPTVAmericasHD
 #EXTSIZE: Small
 #EXTBG: #A16767
 http://kuku.dyndns.tv:8000/live/fernando/fernando/60.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 61
-#EXTSIZE: Small
-#EXTBG: #A16767
-http://kuku.dyndns.tv:8000/live/fernando/fernando/61.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 62
-#EXTSIZE: Small
-#EXTBG: #A16767
-http://kuku.dyndns.tv:8000/live/fernando/fernando/62.m3u8
 #EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 63
 #EXTSIZE: Small
 #EXTBG: #A16767
@@ -259,7 +179,7 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/65.m3u8
 #EXTSIZE: Small
 #EXTBG: #A16767
 http://kuku.dyndns.tv:8000/live/fernando/fernando/66.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 67
+#EXTINF:-1 group-title="Desporto" tvg-name="pfc.pt" tvg-logo="", PFC
 #EXTSIZE: Small
 #EXTBG: #A16767
 http://kuku.dyndns.tv:8000/live/fernando/fernando/67.m3u8
@@ -270,279 +190,88 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/68.m3u8
 #EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 69
 #EXTSIZE: Small
 #EXTBG: #A16767
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 70
+#EXTINF:-1 group-title="Desporto" tvg-name="eurosport.pt" tvg-logo="", Eurosport
 #EXTSIZE: Small
 #EXTBG: #A17777
 http://kuku.dyndns.tv:8000/live/fernando/fernando/70.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 71
+#EXTINF:-1 group-title="Desporto" tvg-name="eurosport2.pt" tvg-logo="", Eurosport 2
 #EXTSIZE: Small
 #EXTBG: #A17777
 http://kuku.dyndns.tv:8000/live/fernando/fernando/71.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 72
+#EXTINF:-1 group-title="Desporto" tvg-name="MotorsTV.pt" tvg-logo="", Motors TV
 #EXTSIZE: Small
 #EXTBG: #A17777
 http://kuku.dyndns.tv:8000/live/fernando/fernando/72.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 73
+#EXTINF:-1 group-title="Desporto" tvg-name="RealMadridTV.pt" tvg-logo="", Real Madrid TV
 #EXTSIZE: Small
 #EXTBG: #A17777
 http://kuku.dyndns.tv:8000/live/fernando/fernando/73.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 74
-#EXTSIZE: Small
-#EXTBG: #A17777
-http://kuku.dyndns.tv:8000/live/fernando/fernando/74.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 75
+#EXTINF:-1 group-title="Desporto" tvg-name="nfl" tvg-logo="", NFL Network
 #EXTSIZE: Small
 #EXTBG: #A17777
 http://kuku.dyndns.tv:8000/live/fernando/fernando/77.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 76
-#EXTSIZE: Small
-#EXTBG: #A17777
-http://kuku.dyndns.tv:8000/live/fernando/fernando/76.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 77
-#EXTSIZE: Small
-#EXTBG: #A17777
-http://kuku.dyndns.tv:8000/live/fernando/fernando/77.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 78
-#EXTSIZE: Small
-#EXTBG: #A17777
-http://kuku.dyndns.tv:8000/live/fernando/fernando/78.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 79
-#EXTSIZE: Small
-#EXTBG: #A17777
-http://kuku.dyndns.tv:8000/live/fernando/fernando/79.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 80
-#EXTSIZE: Small
-#EXTBG: #A18888
-http://kuku.dyndns.tv:8000/live/fernando/fernando/80.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 81
-#EXTSIZE: Small
-#EXTBG: #A18888
-http://kuku.dyndns.tv:8000/live/fernando/fernando/81.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 82
-#EXTSIZE: Small
-#EXTBG: #A18888
-http://kuku.dyndns.tv:8000/live/fernando/fernando/82.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 83
+#EXTINF:-1 group-title="Desporto" tvg-name="beINSport1.fr" tvg-logo="", BeIN Sports 1
 #EXTSIZE: Small
 #EXTBG: #A18888
 http://kuku.dyndns.tv:8000/live/fernando/fernando/83.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 84
-#EXTSIZE: Small
-#EXTBG: #A18888
-http://kuku.dyndns.tv:8000/live/fernando/fernando/84.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 85
+#EXTINF:-1 group-title="Filmes&Series" tvg-name="tvc1.pt" tvg-logo="", TVC1
 #EXTSIZE: Small
 #EXTBG: #A18888
 http://kuku.dyndns.tv:8000/live/fernando/fernando/88.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 86
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv2.pt" tvg-logo="", SPTV2HD
 #EXTSIZE: Small
 #EXTBG: #A18888
-http://kuku.dyndns.tv:8000/live/fernando/fernando/86.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 87
-#EXTSIZE: Small
-#EXTBG: #A18888
-http://kuku.dyndns.tv:8000/live/fernando/fernando/87.m3u8
-#EXTINF:0 group-title="" tvg-name="" tvg-logo="", 88
-#EXTSIZE: Small
-#EXTBG: #A18888
-http://kuku.dyndns.tv:8000/live/fernando/fernando/88.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 89
-#EXTSIZE: Small
-#EXTBG: #A18888
-http://kuku.dyndns.tv:8000/live/fernando/fernando/89.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 90
-#EXTSIZE: Small
-#EXTBG: #A19999
-http://kuku.dyndns.tv:9000/live/fernando/fernando/90.m3u9
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 91
-#EXTSIZE: Small
-#EXTBG: #A19999
-http://kuku.dyndns.tv:9000/live/fernando/fernando/91.m3u9
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 92
-#EXTSIZE: Small
-#EXTBG: #A19999
-http://kuku.dyndns.tv:9000/live/fernando/fernando/92.m3u9
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 93
-#EXTSIZE: Small
-#EXTBG: #A19999
-http://kuku.dyndns.tv:9000/live/fernando/fernando/93.m3u9
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 94
-#EXTSIZE: Small
-#EXTBG: #A19999
-http://kuku.dyndns.tv:9000/live/fernando/fernando/94.m3u9
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 95
-#EXTSIZE: Small
-#EXTBG: #A19999
-http://kuku.dyndns.tv:9000/live/fernando/fernando/99.m3u9
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 96
-#EXTSIZE: Small
-#EXTBG: #A19999
-http://kuku.dyndns.tv:9000/live/fernando/fernando/96.m3u9
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 97
-#EXTSIZE: Small
-#EXTBG: #A19999
-http://kuku.dyndns.tv:9000/live/fernando/fernando/97.m3u9
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 98
-#EXTSIZE: Small
-#EXTBG: #A19999
-http://kuku.dyndns.tv:9000/live/fernando/fernando/98.m3u9
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 99
-#EXTSIZE: Small
-#EXTBG: #A19999
-http://kuku.dyndns.tv:9000/live/fernando/fernando/99.m3u9
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 100
-#EXTSIZE: Small
-#EXTBG: #A110101010
-http://kuku.dyndns.tv:10000/live/fernando/fernando/100.m3u10
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 101
-#EXTSIZE: Small
-#EXTBG: #A110101010
-http://kuku.dyndns.tv:10000/live/fernando/fernando/101.m3u10
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 102
-#EXTSIZE: Small
-#EXTBG: #A110101010
-http://kuku.dyndns.tv:10000/live/fernando/fernando/102.m3u10
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 103
-#EXTSIZE: Small
-#EXTBG: #A110101010
-http://kuku.dyndns.tv:10000/live/fernando/fernando/103.m3u10
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 104
-#EXTSIZE: Small
-#EXTBG: #A110101010
-http://kuku.dyndns.tv:10000/live/fernando/fernando/104.m3u10
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 105
-#EXTSIZE: Small
-#EXTBG: #A110101010
-http://kuku.dyndns.tv:10000/live/fernando/fernando/105.m3u10
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 106
-#EXTSIZE: Small
-#EXTBG: #A110101010
-http://kuku.dyndns.tv:10000/live/fernando/fernando/106.m3u10
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 107
-#EXTSIZE: Small
-#EXTBG: #A110101010
-http://kuku.dyndns.tv:10000/live/fernando/fernando/107.m3u10
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 108
-#EXTSIZE: Small
-#EXTBG: #A110101010
-http://kuku.dyndns.tv:10000/live/fernando/fernando/108.m3u10
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 109
-#EXTSIZE: Small
-#EXTBG: #A110101010
-http://kuku.dyndns.tv:10000/live/fernando/fernando/109.m3u10
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 110
-#EXTSIZE: Small
-#EXTBG: #A110101010
-http://kuku.dyndns.tv:10000/live/fernando/fernando/110.m3u10
-#EXTINF:-1 group-title="" tvg-name="SIC_MULHER" tvg-logo="",111
+
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="",Kids
 #EXTSIZE: Small
 #EXTBG: #A115757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/111.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC_MULHER" tvg-logo="",112
+#EXTINF:-1 group-title="Miúdos" tvg-name="BabyTV.pt" tvg-logo="",Baby TV
 #EXTSIZE: Small
 #EXTBG: #A115757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/112.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC_MULHER" tvg-logo="",113
+#EXTINF:-1 group-title="Míudos" tvg-name="cartoon.pt" tvg-logo="",Cartoon Network
 #EXTSIZE: Small
 #EXTBG: #A115757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/113.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC_MULHER" tvg-logo="",114
+#EXTINF:-1 group-title="Miudos" tvg-name="canalpanda.pt" tvg-logo="",Panda
 #EXTSIZE: Small
 #EXTBG: #A115757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/114.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 115
+#EXTINF:-1 group-title="Míudos" tvg-name="PandaBiggs.pt" tvg-logo="",Panda
 #EXTSIZE: Small
 #EXTBG: #A115757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/115.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 116
+#EXTINF:-1 group-title="Míudos" tvg-name="disneychannel.pt" tvg-logo="", Disney Channel
 #EXTSIZE: Small
 #EXTBG: #A115757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/116.m3u8
-#EXTINF:-1 group-title="" tvg-name="TVI_FICCAO" tvg-logo="", 117
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/117.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 118
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/118.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 119
+#EXTINF:-1 group-title="Míudos" tvg-name="SicK.pt" tvg-logo="", SIC K
 #EXTSIZE: Small
 #EXTBG: #A115757
 http://kuku.dyndns.tv:8000/live/fernando/fernando/119.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC" tvg-logo="", 120
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/120.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC_MULHER" tvg-logo="", 121
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/121.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC_RADICAL" tvg-logo="", 122
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/122.m3u8
-#EXTINF:-1 group-title="" tvg-name="!" tvg-logo="", !
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/123.m3u8
-#EXTINF:-1 group-title="" tvg-name="TPA" tvg-logo="", TPA
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/124.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 125
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/125.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", TESTE 126
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/126.m3u8
-#EXTINF:-1 group-title="" tvg-name="TV_GALICIA" tvg-logo="", TV Galicia
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/127.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC" tvg-logo="", 128
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/128.m3u8
-#EXTINF:-1 group-title="" tvg-name="SIC_MULHER" tvg-logo="", 129
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/129.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 130
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/130.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 131
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/131.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 132
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/132.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 133
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/133.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 134
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/134.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 135
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/135.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 136
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/136.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 137
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/137.m3u8
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", 138
-#EXTSIZE: Small
-#EXTBG: #A115757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/138.m3u8
+#EXTINF:-1 group-title="Espanha" tvg-name="cazaepesca.pt" tvg-logo="", CACAPESCA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/145.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="HistoryChannel.pt" tvg-logo="", Canal de História
+http://kuku.dyndns.tv:8000/live/fernando/fernando/146.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="discoverychannel.pt" tvg-logo="", Discovery
+http://kuku.dyndns.tv:8000/live/fernando/fernando/149.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="nationalgeographic.pt" tvg-logo="", National Geographic Channel
+http://kuku.dyndns.tv:8000/live/fernando/fernando/150.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="NatGeoWild.pt" tvg-logo="", Nat Geo Wild
+http://kuku.dyndns.tv:8000/live/fernando/fernando/151.m3u8
+#EXTINF:-1 group-title="Adultos" tvg-name="" tvg-logo="", Adulto 1
+http://kuku.dyndns.tv:8000/live/fernando/fernando/154.m3u8
+#EXTINF:-1 group-title="Adultos" tvg-name="PrivateTV.ero" tvg-logo="", PrivateTV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/155.m3u8
+#EXTINF:-1 group-title="Adultos" tvg-name="Hot.pt" tvg-logo="", HOTHD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/158.m3u8
+#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste159
+http://kuku.dyndns.tv:8000/live/fernando/fernando/159.m3u8
+#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste160
+http://kuku.dyndns.tv:8000/live/fernando/fernando/160.m3u8
+#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste161
+http://kuku.dyndns.tv:8000/live/fernando/fernando/161.m3u8
+#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste162
+http://kuku.dyndns.tv:8000/live/fernando/fernando/162.m3u8
+
