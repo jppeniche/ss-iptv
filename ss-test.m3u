@@ -279,4 +279,25 @@ http://bstream.universostream.org:8000/live/scipioni/dfg4589/1052.m3u8
 http://bstream.universostream.org:8000/live/scipioni/dfg4589/1053.m3u8
 #EXTINF:-1, group-title="Adultos" tvg-name="",XXX 14
 http://bstream.universostream.org:8000/live/scipioni/dfg4589/1054.m3u8
-
+#EXTINF:-1,group-title="Adultos" tvg-name="",bsx24 
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+#EXTİNF:0,group-title="Adultos" tvg-name="",Dorcel
+http://178.253.194.68:1935/liveloworigin/dorcel.stream/playlist.m3u8
+#EXTİNF:0,group-title="Adultos" tvg-name="", Brazzers TV
+http://178.253.194.68:1935/liveloworigin/brazzers.stream/playlist.m3u8
+#EXTINF:0,group-title="Adultos" tvg-name="",PINK EROTIC 
+http://178.253.194.68:1935/liveloworigin/pinkerotic.stream/playlist.m3u8
+#EXTINF:0,group-title="Adultos" tvg-name="",PINK EROTIC 2 
+http://178.253.194.68:1935/liveloworigin/pinkerotic2.stream/playlist.m3u8
+#EXTINF:0,group-title="Adultos" tvg-name="",PINK EROTIC 3
+http://178.253.194.68:1935/liveloworigin/pinkerotic3.stream/playlist.m3u8
+#EXTINF:0,group-title="Adultos" tvg-name="",PINK EROTIC 4 
+http://178.253.194.68:1935/liveloworigin/pinkerotic4.stream/playlist.m3u8
+#EXTINF:0,group-title="Adultos" tvg-name="",PINK EROTIC 5
+http://178.253.194.68:1935/liveloworigin/pinkerotic5.stream/playlist.m3u8
+#EXTINF:0,group-title="Adultos" tvg-name="",PINK EROTIC 6
+http://178.253.194.68:1935/liveloworigin/pinkerotic6.stream/playlist.m3u8
+#EXTINF:0,group-title="Adultos" tvg-name="",PINK EROTIC 7 
+http://178.253.194.68:1935/liveloworigin/pinkerotic7.stream/playlist.m3u8
+#EXTINF:0,group-title="Adultos" tvg-name="",PINK EROTIC 8
+http://178.253.194.68:1935/liveloworigin/pinkerotic8.stream/playlist.m3u8
