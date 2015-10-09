@@ -281,3 +281,7 @@ http://bstream.universostream.org:8000/live/scipioni/dfg4589/1053.m3u8
 http://bstream.universostream.org:8000/live/scipioni/dfg4589/1054.m3u8
 #EXTINF:-1 group-title="Adultos" tvg-name="",bsx24 
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+#EXTINF:-1,Eurosport
+http://fango.sytes.net:8000/live/halil/halil/77.m3u8
+#EXTINF:-1,Eurosport2
+http://fango.sytes.net:8000/live/halil/halil/78.m3u8
