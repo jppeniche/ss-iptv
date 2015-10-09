@@ -138,7 +138,7 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/51.m3u8
 #EXTINF:-1 group-title="Desporto" tvg-name="sporttv1.pt" tvg-logo="", SPTVHD
 #EXTSIZE: Small
 #EXTBG: #A15757
-http://kuku.dyndns.tv:8000/live/fernando/fernando/52.ts
+http://kuku.dyndns.tv:8000/live/fernando/fernando/52.m2u8
 #EXTINF:-1 group-title="Desporto" tvg-name="sporttv2.pt" tvg-logo="", SPTV2HD
 #EXTSIZE: Small
 #EXTBG: #A15757
@@ -251,6 +251,6 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/168.m3u8
 http://kuku.dyndns.tv:8000/live/fernando/fernando/169.m3u8
 #EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste170
 http://kuku.dyndns.tv:8000/live/fernando/fernando/170.m3u8
-
-
+#EXTINF:-1 group-title="teste" tvg-name="" tvg-logo="", teste170
+http://50.7.69.138:9080/hls/bein1hd.m3u8
 
