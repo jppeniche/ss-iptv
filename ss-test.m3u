@@ -1,289 +1,246 @@
 
 #EXTM3U
-#EXTINF:0,BeIN Sports 1 FR
-http://178.33.88.129:888/udp/239.102.0.20:1234
-#EXTINF:0,BeIN Sports 2 FR
-http://178.33.88.129:888/udp/239.102.0.21:1234
-#EXTINF:0,BeIN Sports 3 FR
-http://178.33.88.129:888/udp/239.102.0.22:1234
-#EXTINF:0,canal+ decaler
-http://178.33.88.129:888/udp/239.102.0.56:1234
-#EXTINF:0,Canal+ sport
-http://178.33.88.129:888/udp/239.102.0.55:1234
-#EXTINF:0,Canal+ familly
-http://178.33.88.129:888/udp/239.102.0.57:1234
-#EXTINF:0,Canal+ emotion
-http://178.33.88.129:888/udp/239.102.0.105:1234
-#EXTINF:0,ocs choc
-http://178.33.88.129:888/udp/239.102.0.75:1234
-#EXTINF:0,Cine1
-http://178.33.88.129:888/udp/239.102.0.78:1234
-#EXTINF:0,Discovery sc
-http://178.33.88.129:888/udp/239.102.0.79:1234
-#EXTINF:0,Teva
-http://178.33.88.129:888/udp/239.102.0.80:1234
-#EXTINF:0,Serie club
-http://178.33.88.129:888/udp/239.102.0.82:1234
-#EXTINF:0,Voyage
-http://178.33.88.129:888/udp/239.102.0.85:1234
-#EXTINF:0,Discovery
-http://178.33.88.129:888/udp/239.102.0.90:1234
-#EXTINF:0,ushuaia tv
-http://178.33.88.129:888/udp/239.102.0.91:1234
-#EXTINF:0,planete+ thalassa
-http://178.33.88.129:888/udp/239.102.0.92:1234
-#EXTINF:0,Tv5 monde
-http://178.33.88.129:888/udp/239.102.0.104:1234
-#EXTINF:0,Cine cartoon
-http://178.33.88.129:888/udp/239.102.0.89:1234
-#EXTINF:0,Rmc decouverte
-http://178.33.88.129:888/udp/239.102.0.146:1234
+#EXTINF:-1 group-title="Portugal" tvg-name="rtp1.pt" tvg-logo="", RTP 1
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/3.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="RTPAcores.pt" tvg-logo="", RTP Açores
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/6.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="RTP_ACORES" tvg-logo="", RTP Açores
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/6.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="RTP_AFRICA" tvg-logo="", RTP África
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/7.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="RTPi.pt" tvg-logo="", RTPi
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/8.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="RTPMadeira.pt" tvg-logo="", RTP Madeira
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/9.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="rtpmemoria.pt" tvg-logo="", RTP Memória
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/10.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="sic.pt" tvg-logo="", SIC
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/11.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="sicmulher.pt" tvg-logo="", SIC Mulher
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/13.m3u8
+#EXTINF:-1 group-title="" tvg-name="sicradical.pt" tvg-logo="", SIC Radical
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/14.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="tvi.pt" tvg-logo="", TVI
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/15.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="TVIdirect.pt" tvg-logo="", TVIDIR
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/16.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="TVIFiccao.pt" tvg-logo="", TVI Ficção
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/17.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="CanalQ.pt" tvg-logo="", Canal Q
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/19.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="TVGloboPortugal.pt" tvg-logo="", TVGLOBO
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/21.m3u8
+#EXTINF:-1 group-title="Brasil" tvg-name="!" tvg-logo="", !
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/23.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="TPA" tvg-logo="", TPA
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/24.m3u8
+#EXTINF:-1 group-title="Espanha" tvg-name="TVGalicia.pt" tvg-logo="", TV Galicia
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/27.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="eentertainment.pt" tvg-logo="", E! Entertainment
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/29.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="" tvg-logo="EuroChannel.pt", EuroChannel
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/30.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="CMTV.pt" tvg-logo="", CMTV HD
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/31.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="france24.fr" tvg-logo="", France 24
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/32.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="rtp3.pt" tvg-logo="", RTP3
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/34.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="sicnoticias.pt" tvg-logo="", SIC Notícias
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/35.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="TVI24.pt" tvg-logo="", TVI 24
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/36.m3u8
+#EXTINF:-1 group-title="Inglaterra" tvg-name="BBCentertainment.pt" tvg-logo="", BBC Entertainment
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/38.m3u8
+#EXTINF:-1 group-title="EUA" tvg-name="cnn" tvg-logo="", CNN
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/40.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="ABolaTV.pt" tvg-logo="", A Bola TV
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/44.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="BenficaTV.pt" tvg-logo="", Benfica TV
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/45.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="BenficaTV.pt" tvg-logo="", Benfica TV
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/46.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="BenficaTV2.pt" tvg-logo="", Benfica TV 2
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/47.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="PortoCanal.pt" tvg-logo="", Porto Canal
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/48.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="FuelTV.pt" tvg-logo="", Fuel TV
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/50.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="SPORTINGTV.pt" tvg-logo="", SPORTINGTV
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/51.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv1.pt" tvg-logo="", SPTVHD
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/52.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv2.pt" tvg-logo="", SPTV2HD
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/55.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv3.pt" tvg-logo="", SPTV3HD
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/56.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv4.pt" tvg-logo="", SPTV4HD
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/57.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv4.pt" tvg-logo="", SPTV4HD
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/58.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv5.pt" tvg-logo="", SPTV5HD
+#EXTSIZE: Small
+#EXTBG: #A15757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/59.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttvamericas.pt" tvg-logo="", SPTVAmericasHD
+#EXTSIZE: Small
+#EXTBG: #A16767
+http://kuku.dyndns.tv:8000/live/fernando/fernando/60.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="pfc.pt" tvg-logo="", PFC
+#EXTSIZE: Small
+#EXTBG: #A16767
+http://kuku.dyndns.tv:8000/live/fernando/fernando/67.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="eurosport.pt" tvg-logo="", Eurosport
+#EXTSIZE: Small
+#EXTBG: #A17777
+http://kuku.dyndns.tv:8000/live/fernando/fernando/70.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="eurosport2.pt" tvg-logo="", Eurosport 2
+#EXTSIZE: Small
+#EXTBG: #A17777
+http://kuku.dyndns.tv:8000/live/fernando/fernando/71.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="MotorsTV.pt" tvg-logo="", Motors TV
+#EXTSIZE: Small
+#EXTBG: #A17777
+http://kuku.dyndns.tv:8000/live/fernando/fernando/72.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="RealMadridTV.pt" tvg-logo="", Real Madrid TV
+#EXTSIZE: Small
+#EXTBG: #A17777
+http://kuku.dyndns.tv:8000/live/fernando/fernando/73.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="nfl" tvg-logo="", NFL Network
+#EXTSIZE: Small
+#EXTBG: #A17777
+http://kuku.dyndns.tv:8000/live/fernando/fernando/77.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="beINSport1.fr" tvg-logo="", BeIN Sports 1
+#EXTSIZE: Small
+#EXTBG: #A18888
+http://kuku.dyndns.tv:8000/live/fernando/fernando/83.m3u8
+#EXTINF:-1 group-title="Filmes&Series" tvg-name="tvc1.pt" tvg-logo="", TVC1
+#EXTSIZE: Small
+#EXTBG: #A18888
+http://kuku.dyndns.tv:8000/live/fernando/fernando/88.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-name="sporttv2.pt" tvg-logo="", SPTV2HD
+#EXTSIZE: Small
+#EXTBG: #A18888
 
-#EXTINF:-1,AD 1 SPORTS
-http://178.33.88.130:888/udp/239.102.0.28:1234
-#EXTINF:-1,RIADIA 1
-http://178.33.88.130:888/udp/239.102.0.50:1234
-#EXTINF:-1,CANAL PLUS SPORT
-http://178.33.88.130:888/udp/239.102.0.55:1234
-#EXTINF:-1,TF1
-http://178.33.88.130:888/udp/239.102.0.56:1234
-#EXTINF:-1,CARTOON NET
-http://178.33.88.130:888/udp/239.102.0.57:1234
-#EXTINF:-1,Service01
-http://178.33.88.130:888/udp/239.102.0.74:1234
-#EXTINF:-1,MTV FR
-http://178.33.88.130:888/udp/239.102.0.75:1234
-#EXTINF:-1,DISCOVRY SCIENCE
-http://178.33.88.130:888/udp/239.102.0.79:1234
-#EXTINF:-1,TEVE
-http://178.33.88.130:888/udp/239.102.0.80:1234
-#EXTINF:-1,SERIE CLUB HD
-http://178.33.88.130:888/udp/239.102.0.82:1234
-#EXTINF:-1,VOYAGE
-http://178.33.88.130:888/udp/239.102.0.85:1234
-#EXTINF:-1,DISNEY HD
-http://178.33.88.130:888/udp/239.102.0.88:1234
-#EXTINF:-1,CN
-http://178.33.88.130:888/udp/239.102.0.89:1234
-#EXTINF:-1,DISCOVRY WORLD
-http://178.33.88.130:888/udp/239.102.0.90:1234
-#EXTINF:-1,USHUAIA TV
-http://178.33.88.130:888/udp/239.102.0.91:1234
-#EXTINF:-1,PLANETE+THALASSA
-http://178.33.88.130:888/udp/239.102.0.92:1234
-#EXTINF:-1,KBK (KHABAR DZ)
-http://178.33.88.130:888/udp/239.102.0.94:1234
-#EXTINF:-1,MESRAWIA
-http://178.33.88.130:888/udp/239.102.0.95:1234
-#EXTINF:-1,START 2
-http://178.33.88.130:888/udp/239.102.0.100:1234
-#EXTINF:-1,BEUR TV
-http://178.33.88.130:888/udp/239.102.0.101:1234
-#EXTINF:-1,CINEMA MAFIA
-http://178.33.88.130:888/udp/239.102.0.102:1234
-#EXTINF:-1,MTV
-http://178.33.88.130:888/udp/239.102.0.103:1234
-#EXTINF:-1,TV5 MONDE
-http://178.33.88.130:888/udp/239.102.0.104:1234
-#EXTINF:-1,HAYAT MOBACHER
-http://178.33.88.130:888/udp/239.102.0.108:1234
-#EXTINF:-1,CINEMA
-http://178.33.88.130:888/udp/239.102.0.109:1234
-#EXTINF:-1,MILODY
-http://178.33.88.130:888/udp/239.102.0.110:1234
-#EXTINF:-1,M
-http://178.33.88.130:888/udp/239.102.0.113:1234
-#EXTINF:-1,ELKAHERA
-http://178.33.88.130:888/udp/239.102.0.116:1234
-#EXTINF:-1,SOUDAN
-http://178.33.88.130:888/udp/239.102.0.121:1234
-#EXTINF:-1,D
-http://178.33.88.130:888/udp/239.102.0.122:1234
-#EXTINF:-1,TAYEM
-http://178.33.88.130:888/udp/239.102.0.123:1234
-#EXTINF:-1,IMAGINE MOVIES
-http://178.33.88.130:888/udp/239.102.0.126:1234
-#EXTINF:-1,CHOUROUK TV HD
-http://178.33.88.130:888/udp/239.102.0.127:1234
-#EXTINF:-1,ENNAHR LAKI
-http://178.33.88.130:888/udp/239.102.0.129:1234
-#EXTINF:-1,RAK TV
-http://178.33.88.130:888/udp/239.102.0.131:1234
-#EXTINF:-1,ENNAHR TV (ALGERIE)
-http://178.33.88.130:888/udp/239.102.0.132:1234
-#EXTINF:-1,MOGA COMEDY
-http://178.33.88.130:888/udp/239.102.0.133:1234
-#EXTINF:-1,ELWATAN (ALGERIE)
-http://178.33.88.130:888/udp/239.102.0.134:1234
-#EXTINF:-1,RISALLA
-http://178.33.88.130:888/udp/239.102.0.135:1234
-#EXTINF:-1,ELAOUALA (MAROC)
-http://178.33.88.130:888/udp/239.102.0.137:1234
-#EXTINF:-1,ELAKSA
-http://178.33.88.130:888/udp/239.102.0.138:1234
-#EXTINF:-1,TALITA (MAROC)
-http://178.33.88.130:888/udp/239.102.0.141:1234
-#EXTINF:-1,ARDIA (ALGERIE)
-http://178.33.88.130:888/udp/239.102.0.142:1234
-#EXTINF:-1,KOKI (KIDS)
-http://178.33.88.130:888/udp/239.102.0.143:1234
-#EXTINF:-1,MADJAD
-http://178.33.88.130:888/udp/239.102.0.144:1234
-#EXTINF:-1,SINEMA
-http://178.33.88.130:888/udp/239.102.0.145:1234
-#EXTINF:-1,AL INSAN
-http://178.33.88.130:888/udp/239.102.0.147:1234
-#EXTINF:-1,DAR
-http://178.33.88.130:888/udp/239.102.0.149:1234
-#EXTINF:-1,TAHA
-http://178.33.88.130:888/udp/239.102.0.151:1234
-#EXTINF:-1,ELKORAN EL KARIM
-http://178.33.88.130:888/udp/239.102.0.152:1234
-#EXTINF:-1,SONA NABAWIA
-http://178.33.88.130:888/udp/239.102.0.153:1234
-#EXTINF:-1,ELYOUM
-http://178.33.88.130:888/udp/239.102.0.155:1234
-#EXTINF:-1,GEAR ONE
-http://178.33.88.130:888/udp/239.102.0.156:1234
-#EXTINF:-1,CHOUROUK TV (ALGERIE)
-http://178.33.88.130:888/udp/239.102.0.157:1234
-#EXTINF:-1,DJAZIRA MOBASHER
-http://178.33.88.130:888/udp/239.102.0.158:1234
-#EXTINF:-1,AZHARI
-http://178.33.88.130:888/udp/239.102.0.159:1234
-#EXTINF:-1,PANORAMA KOBRI
-http://178.33.88.130:888/udp/239.102.0.160:1234
-#EXTINF:-1,ELKAHIRA WA ELNAS
-http://178.33.88.130:888/udp/239.102.0.161:1234
-#EXTINF:-1,TOUNISIA 2
-http://178.33.88.130:888/udp/239.102.0.164:1234
-#EXTINF:-1,TOUNISI
-http://178.33.88.130:888/udp/239.102.0.165:1234
-#EXTINF:-1,HANABAAL
-http://178.33.88.130:888/udp/239.102.0.166:1234
-#EXTINF:-1,NASSMA
-http://178.33.88.130:888/udp/239.102.0.167:1234
-#EXTINF:-1,ELDJANOUBIA
-http://178.33.88.130:888/udp/239.102.0.168:1234
-#EXTINF:-1,DIMOCRATIA
-http://178.33.88.130:888/udp/239.102.0.169:1234
-#EXTINF:-1,ZAITOUNA
-http://178.33.88.130:888/udp/239.102.0.170:1234
-#EXTINF:-1,TNN
-http://178.33.88.130:888/udp/239.102.0.171:1234
-#EXTINF:-1,TOUNASNA
-http://178.33.88.130:888/udp/239.102.0.172:1234
-#EXTINF:-1,M
-http://178.33.88.130:888/udp/239.102.0.174:1234
-#EXTINF:-1,ELIRAKIA
-http://178.33.88.130:888/udp/239.102.0.175:1234
-#EXTINF:-1,ELHAYAT
-http://178.33.88.130:888/udp/239.102.0.176:1234
-#EXTINF:-1,CBC DERAMA
-http://178.33.88.130:888/udp/239.102.0.177:1234
-#EXTINF:-1,CBC
-http://178.33.88.130:888/udp/239.102.0.178:1234
-#EXTINF:-1,FREE TV
-http://178.33.88.130:888/udp/239.102.0.179:1234
-#EXTINF:-1,FATAFEAT
-http://178.33.88.130:888/udp/239.102.0.180:1234
-#EXTINF:-1,FOX MOVIES
-http://178.33.88.130:888/udp/239.102.0.181:1234
-#EXTINF:-1,LBC
-http://178.33.88.130:888/udp/239.102.0.182:1234
-#EXTINF:-1,MAZZIKA
-http://178.33.88.130:888/udp/239.102.0.183:1234
-#EXTINF:-1,MASRIA
-http://178.33.88.130:888/udp/239.102.0.185:1234
-#EXTINF:-1,ROTANA MUSIC
-http://178.33.88.130:888/udp/239.102.0.186:1234
-#EXTINF:-1,ROTANA CLASIC
-http://178.33.88.130:888/udp/239.102.0.187:1234
-#EXTINF:-1,ROTANA CINEMA
-http://178.33.88.130:888/udp/239.102.0.188:1234
-#EXTINF:-1,ROTANA KHALIDJAIA
-http://178.33.88.130:888/udp/239.102.0.189:1234
-#EXTINF:-1,T KOMIDI
-http://178.33.88.130:888/udp/239.102.0.190:1234
-#EXTINF:-1,ALWAN
-http://178.33.88.130:888/udp/239.102.0.191:1234
-#EXTINF:-1,LIVING 2
-http://178.33.88.130:888/udp/239.102.0.192:1234
-#EXTINF:-1,BARAIM
-http://178.33.88.130:888/udp/239.102.0.194:1234
-#EXTINF:-1,NNN ou NMM
-http://178.33.88.130:888/udp/239.102.0.195:1234
-#EXTINF:-1,ABOUDABI DRAMA
-http://178.33.88.130:888/udp/239.102.0.196:1234
-#EXTINF:-1,ABOUDABI
-http://178.33.88.130:888/udp/239.102.0.197:1234
-#EXTINF:-1,ELMAGHRIBIA ARDIA
-http://178.33.88.130:888/udp/239.102.0.198:1234
-#EXTINF:-1,ELMADJAD
-http://178.33.88.130:888/udp/239.102.0.200:1234
-#EXTINF:-1,PANORAMA DRAMA
-http://178.33.88.130:888/udp/239.102.0.202:1234
-#EXTINF:-1,TV3 (ALGERIE)
-http://178.33.88.130:888/udp/239.102.0.203:1234
-#EXTINF:-1,ARABIKA
-http://178.33.88.130:888/udp/239.102.0.204:1234
-#EXTINF:-1,CAIRO CINEMA
-http://178.33.88.130:888/udp/239.102.0.205:1234
-#EXTINF:-1,CAIRO DRAMA
-http://178.33.88.130:888/udp/239.102.0.206:1234
-#EXTINF:-1,CN ARABIC
-http://178.33.88.130:888/udp/239.102.0.207:1234
-#EXTINF:-1,NIL COMIDY
-http://178.33.88.130:888/udp/239.102.0.209:1234
-#EXTINF:-1,NIL DRAMA
-http://178.33.88.130:888/udp/239.102.0.210:1234
-#EXTINF:-1,NIL TV
-http://178.33.88.130:888/udp/239.102.0.211:1234
-#EXTINF:-1,NIL FAMILY
-http://178.33.88.130:888/udp/239.102.0.212:1234
-#EXTINF:-1,SOURIA DRAMA
-http://178.33.88.130:888/udp/239.102.0.213:1234
-#EXTINF:-1,TOUYOUR EL DJANA
-http://178.33.88.130:888/udp/239.102.0.215:1234
-#EXTINF:-1,NATIONAL GEOGRAFIC AD
-http://178.33.88.130:888/udp/239.102.0.216:1234
-#EXTINF:-1,AGHANINA
-http://178.33.88.130:888/udp/239.102.0.217:1234
-#EXTINF:-1,ADJYAL
-http://178.33.88.130:888/udp/239.102.0.218:1234
-#EXTINF:-1,MH
-http://178.33.88.130:888/udp/239.102.0.219:1234
-#EXTINF:-1,ELISKANDARIA
-http://178.33.88.130:888/udp/239.102.0.220:1234
-#EXTINF:-1,ELHORA
-http://178.33.88.130:888/udp/239.102.0.224:1234
-#EXTINF:-1,TV A3 (Algerie)
-http://178.33.88.130:888/udp/239.102.0.225:1234
-#EXTINF:-1,ELHAYAT
-http://178.33.88.130:888/udp/239.102.0.226:1234
-#EXTINF:-1,ELASSIMA
-http://178.33.88.130:888/udp/239.102.0.238:1234
-#EXTINF:-1,ELKODAS
-http://178.33.88.130:888/udp/239.102.0.240:1234
-#EXTINF:-1,INDEX ALGERIE
-http://178.33.88.130:888/udp/239.102.0.242:1234
-#EXTINF:-1,SADISSA MAROC
-http://178.33.88.130:888/udp/239.102.0.243:1234
-#EXTINF:-1,TV5 ALGERIE
-http://178.33.88.130:888/udp/239.102.0.246:1234
-#EXTINF:-1,DZAIR NEWS
-http://178.33.88.130:888/udp/239.102.0.247:1234
-#EXTINF:-1,DZAIR
-http://178.33.88.130:888/udp/239.102.0.248:1234
-#EXTINF:-1,FOX
-http://178.33.88.130:888/udp/239.102.0.249:1234
-#EXTINF:-1,FOUNOUN
-http://178.33.88.130:888/udp/239.102.0.251:1234
-#EXTINF:-1,MEDI 1
-http://178.33.88.130:888/udp/239.102.0.252:1234
-#EXTINF:-1,SAAOUDIA
-http://178.33.88.130:888/udp/239.102.0.253:1234
-#EXTINF:-1,SOUFRA
-http://178.33.88.130:888/udp/239.102.0.162:1234
-#EXTINF:-1,SPACE TOON
-http://178.33.88.130:888/udp/239.102.0.193:1234
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="",Kids
+#EXTSIZE: Small
+#EXTBG: #A115757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/111.m3u8
+#EXTINF:-1 group-title="Miúdos" tvg-name="BabyTV.pt" tvg-logo="",Baby TV
+#EXTSIZE: Small
+#EXTBG: #A115757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/112.m3u8
+#EXTINF:-1 group-title="Míudos" tvg-name="cartoon.pt" tvg-logo="",Cartoon Network
+#EXTSIZE: Small
+#EXTBG: #A115757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/113.m3u8
+#EXTINF:-1 group-title="Miudos" tvg-name="canalpanda.pt" tvg-logo="",Panda
+#EXTSIZE: Small
+#EXTBG: #A115757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/114.m3u8
+#EXTINF:-1 group-title="Míudos" tvg-name="PandaBiggs.pt" tvg-logo="",Panda
+#EXTSIZE: Small
+#EXTBG: #A115757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/115.m3u8
+#EXTINF:-1 group-title="Míudos" tvg-name="disneychannel.pt" tvg-logo="", Disney Channel
+#EXTSIZE: Small
+#EXTBG: #A115757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/116.m3u8
+#EXTINF:-1 group-title="Míudos" tvg-name="SicK.pt" tvg-logo="", SIC K
+#EXTSIZE: Small
+#EXTBG: #A115757
+http://kuku.dyndns.tv:8000/live/fernando/fernando/119.m3u8
+#EXTINF:-1 group-title="Espanha" tvg-name="cazaepesca.pt" tvg-logo="", CACAPESCA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/145.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="HistoryChannel.pt" tvg-logo="", Canal de História
+http://kuku.dyndns.tv:8000/live/fernando/fernando/146.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="discoverychannel.pt" tvg-logo="", Discovery
+http://kuku.dyndns.tv:8000/live/fernando/fernando/149.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="nationalgeographic.pt" tvg-logo="", National Geographic Channel
+http://kuku.dyndns.tv:8000/live/fernando/fernando/150.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-name="NatGeoWild.pt" tvg-logo="", Nat Geo Wild
+http://kuku.dyndns.tv:8000/live/fernando/fernando/151.m3u8
+#EXTINF:-1 group-title="Adultos" tvg-name="" tvg-logo="", Adulto 1
+http://kuku.dyndns.tv:8000/live/fernando/fernando/154.m3u8
+#EXTINF:-1 group-title="Adultos" tvg-name="PrivateTV.ero" tvg-logo="", PrivateTV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/155.m3u8
+#EXTINF:-1 group-title="Adultos" tvg-name="Hot.pt" tvg-logo="", HOTHD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/158.m3u8
