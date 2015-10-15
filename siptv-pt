@@ -20,6 +20,8 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/10.ts
 http://kuku.dyndns.tv:8000/live/fernando/fernando/11.ts
 #EXTINF:-1, SIC
 http://kuku.dyndns.tv:8000/live/fernando/fernando/12.ts
+#EXTINF:-1, SIC Radical
+http://kuku.dyndns.tv:8000/live/fernando/fernando/15.ts
 #EXTINF:-1, TVI
 http://kuku.dyndns.tv:8000/live/fernando/fernando/16.ts
 #EXTINF:-1, TVI Ficção
@@ -40,8 +42,6 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/29.ts
 http://kuku.dyndns.tv:8000/live/fernando/fernando/30.ts
 #EXTINF:-1, France 24
 http://kuku.dyndns.tv:8000/live/fernando/fernando/31.ts
-#EXTINF:-1, FOX Internacional
-http://kuku.dyndns.tv:8000/live/fernando/fernando/32.ts
 #EXTINF:-1, SIC Noticias
 http://kuku.dyndns.tv:8000/live/fernando/fernando/34.ts
 #EXTINF:-1, TVI 24
