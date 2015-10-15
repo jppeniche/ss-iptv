@@ -52,6 +52,10 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/36.ts
 http://kuku.dyndns.tv:8000/live/fernando/fernando/37.ts
 #EXTINF:-1, Bolsa Internacional
 http://kuku.dyndns.tv:8000/live/fernando/fernando/38.ts
+#EXTINF:-1, Sky News
+http://kuku.dyndns.tv:8000/live/fernando/fernando/40.ts
+#EXTINF:-1, A Bola TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/42.ts
 #EXTINF:-1, BTV 1
 http://kuku.dyndns.tv:8000/live/fernando/fernando/43.ts
 #EXTINF:-1, BTV 1
@@ -71,11 +75,15 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/51.ts
 #EXTINF:-1, SPORT TV 3
 http://kuku.dyndns.tv:8000/live/fernando/fernando/53.ts
 #EXTINF:-1, SPORT TV 4
+http://kuku.dyndns.tv:8000/live/fernando/fernando/54.ts
+#EXTINF:-1, SPORT TV 4
 http://kuku.dyndns.tv:8000/live/fernando/fernando/55.ts
 #EXTINF:-1, SPORT TV 5
 http://kuku.dyndns.tv:8000/live/fernando/fernando/56.ts
 #EXTINF:-1, SPOR TV Américas
 http://kuku.dyndns.tv:8000/live/fernando/fernando/57.ts
+#EXTINF:-1, BARÇA TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/58.ts
 #EXTINF:-1, Tôros TV
 http://kuku.dyndns.tv:8000/live/fernando/fernando/61.ts
 #EXTINF:-1, Eurosport
@@ -120,7 +128,7 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/84.ts
 http://kuku.dyndns.tv:8000/live/fernando/fernando/85.ts
 #EXTINF:-1, Hollywood TV
 http://kuku.dyndns.tv:8000/live/fernando/fernando/86.ts
-#EXTINF:-1, Fernando 87
+#EXTINF:-1, MOV HD
 http://kuku.dyndns.tv:8000/live/fernando/fernando/87.ts
 #EXTINF:-1, AMC
 http://kuku.dyndns.tv:8000/live/fernando/fernando/88.ts
@@ -206,9 +214,9 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/134.ts
 http://kuku.dyndns.tv:8000/live/fernando/fernando/135.ts
 #EXTINF:-1, Fernando 136
 http://kuku.dyndns.tv:8000/live/fernando/fernando/136.ts
-#EXTINF:-1, Fernando 137
+#EXTINF:-1, Private.com
 http://kuku.dyndns.tv:8000/live/fernando/fernando/137.ts
-#EXTINF:-1, Fernando 138
+#EXTINF:-1, Playboy TV
 http://kuku.dyndns.tv:8000/live/fernando/fernando/138.ts
 #EXTINF:-1, Fernando 139
 http://kuku.dyndns.tv:8000/live/fernando/fernando/139.ts
