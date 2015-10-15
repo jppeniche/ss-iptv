@@ -1,0 +1,334 @@
+#EXTM3U
+
+#EXTINF:-1, RTP 1
+http://kuku.dyndns.tv:8000/live/fernando/fernando/3.ts
+#EXTINF:-1, RTP 1
+http://kuku.dyndns.tv:8000/live/fernando/fernando/4.ts
+#EXTINF:-1, RTP 2
+http://kuku.dyndns.tv:8000/live/fernando/fernando/5.ts
+#EXTINF:-1, RTP Informação
+http://kuku.dyndns.tv:8000/live/fernando/fernando/6.ts
+#EXTINF:-1, RTP Açores
+http://kuku.dyndns.tv:8000/live/fernando/fernando/7.ts
+#EXTINF:-1, RTP África
+http://kuku.dyndns.tv:8000/live/fernando/fernando/8.ts
+#EXTINF:-1, RTPi
+http://kuku.dyndns.tv:8000/live/fernando/fernando/9.ts
+#EXTINF:-1, RTP Madeira
+http://kuku.dyndns.tv:8000/live/fernando/fernando/10.ts
+#EXTINF:-1, RTP Memória
+http://kuku.dyndns.tv:8000/live/fernando/fernando/11.ts
+#EXTINF:-1, SIC
+http://kuku.dyndns.tv:8000/live/fernando/fernando/12.ts
+#EXTINF:-1, TVI
+http://kuku.dyndns.tv:8000/live/fernando/fernando/16.ts
+#EXTINF:-1, TVI Ficção
+http://kuku.dyndns.tv:8000/live/fernando/fernando/17.ts
+#EXTINF:-1, TVI Reality
+http://kuku.dyndns.tv:8000/live/fernando/fernando/18.ts
+#EXTINF:-1, TV Globo
+http://kuku.dyndns.tv:8000/live/fernando/fernando/22.ts
+#EXTINF:-1, TPA
+http://kuku.dyndns.tv:8000/live/fernando/fernando/23.ts
+#EXTINF:-1, TV Galicia
+http://kuku.dyndns.tv:8000/live/fernando/fernando/26.ts
+#EXTINF:-1, E! Entertainment
+http://kuku.dyndns.tv:8000/live/fernando/fernando/28.ts
+#EXTINF:-1, Euronews PT
+http://kuku.dyndns.tv:8000/live/fernando/fernando/29.ts
+#EXTINF:-1, CM TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/30.ts
+#EXTINF:-1, France 24
+http://kuku.dyndns.tv:8000/live/fernando/fernando/31.ts
+#EXTINF:-1, Fox Internacional
+http://kuku.dyndns.tv:8000/live/fernando/fernando/32.ts
+#EXTINF:-1, Sic Noticias
+http://kuku.dyndns.tv:8000/live/fernando/fernando/34.ts
+#EXTINF:-1, TVI 24
+http://kuku.dyndns.tv:8000/live/fernando/fernando/35.ts
+#EXTINF:-1, Aljazeera
+http://kuku.dyndns.tv:8000/live/fernando/fernando/36.ts
+#EXTINF:-1, BBC
+http://kuku.dyndns.tv:8000/live/fernando/fernando/37.ts
+#EXTINF:-1, Bolsa Internacional
+http://kuku.dyndns.tv:8000/live/fernando/fernando/38.ts
+#EXTINF:-1, BTV 1
+http://kuku.dyndns.tv:8000/live/fernando/fernando/43.ts
+#EXTINF:-1, BTV 1
+http://kuku.dyndns.tv:8000/live/fernando/fernando/44.ts
+#EXTINF:-1, BTV 2
+http://kuku.dyndns.tv:8000/live/fernando/fernando/45.ts
+#EXTINF:-1, Porto Canal
+http://kuku.dyndns.tv:8000/live/fernando/fernando/46.ts
+#EXTINF:-1, Fuel TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/47.ts
+#EXTINF:-1, SPORT TV 1 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/49.ts
+#EXTINF:-1, SPORT TV 1 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/50.ts
+#EXTINF:-1, SPORT TV 2
+http://kuku.dyndns.tv:8000/live/fernando/fernando/51.ts
+#EXTINF:-1, SPORT TV 3
+http://kuku.dyndns.tv:8000/live/fernando/fernando/53.ts
+#EXTINF:-1, SPORT TV 4
+http://kuku.dyndns.tv:8000/live/fernando/fernando/55.ts
+#EXTINF:-1, SPORT TV 5
+http://kuku.dyndns.tv:8000/live/fernando/fernando/56.ts
+#EXTINF:-1, SPOR TV Américas
+http://kuku.dyndns.tv:8000/live/fernando/fernando/57.ts
+#EXTINF:-1, Tôros TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/61.ts
+#EXTINF:-1, Eurosport
+http://kuku.dyndns.tv:8000/live/fernando/fernando/63.ts
+#EXTINF:-1, Motors TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/65.ts
+#EXTINF:-1, Real Madrid TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/67.ts
+#EXTINF:-1, NFL HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/68.ts
+#EXTINF:-1, BeIN 1 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/69.ts
+#EXTINF:-1, TVC1 HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/71.ts
+#EXTINF:-1, TVC2 
+http://kuku.dyndns.tv:8000/live/fernando/fernando/72.ts
+#EXTINF:-1, TVC3
+http://kuku.dyndns.tv:8000/live/fernando/fernando/73.ts
+#EXTINF:-1, TVC4
+http://kuku.dyndns.tv:8000/live/fernando/fernando/74.ts
+#EXTINF:-1, TVSeries
+http://kuku.dyndns.tv:8000/live/fernando/fernando/75.ts
+#EXTINF:-1, Cine MUNDO
+http://kuku.dyndns.tv:8000/live/fernando/fernando/76.ts
+#EXTINF:-1, Fernando 77
+http://kuku.dyndns.tv:8000/live/fernando/fernando/77.ts
+#EXTINF:-1, Fernando 78
+http://kuku.dyndns.tv:8000/live/fernando/fernando/78.ts
+#EXTINF:-1, AXN White
+http://kuku.dyndns.tv:8000/live/fernando/fernando/79.ts
+#EXTINF:-1, Fernando 80
+http://kuku.dyndns.tv:8000/live/fernando/fernando/80.ts
+#EXTINF:-1, Fox
+http://kuku.dyndns.tv:8000/live/fernando/fernando/81.ts
+#EXTINF:-1, Fernando 82
+http://kuku.dyndns.tv:8000/live/fernando/fernando/82.ts
+#EXTINF:-1, Fernando 83
+http://kuku.dyndns.tv:8000/live/fernando/fernando/83.ts
+#EXTINF:-1, Fernando 84
+http://kuku.dyndns.tv:8000/live/fernando/fernando/84.ts
+#EXTINF:-1, FX
+http://kuku.dyndns.tv:8000/live/fernando/fernando/85.ts
+#EXTINF:-1, Hollywood TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/86.ts
+#EXTINF:-1, Fernando 87
+http://kuku.dyndns.tv:8000/live/fernando/fernando/87.ts
+#EXTINF:-1, AMC
+http://kuku.dyndns.tv:8000/live/fernando/fernando/88.ts
+#EXTINF:-1, Fernando 89
+http://kuku.dyndns.tv:8000/live/fernando/fernando/89.ts
+#EXTINF:-1, Fernando 90
+http://kuku.dyndns.tv:8000/live/fernando/fernando/90.ts
+#EXTINF:-1, Fernando 91
+http://kuku.dyndns.tv:8000/live/fernando/fernando/91.ts
+#EXTINF:-1, Fernando 92
+http://kuku.dyndns.tv:8000/live/fernando/fernando/92.ts
+#EXTINF:-1, Fernando 93
+http://kuku.dyndns.tv:8000/live/fernando/fernando/93.ts
+#EXTINF:-1, Fernando 94
+http://kuku.dyndns.tv:8000/live/fernando/fernando/94.ts
+#EXTINF:-1, Fernando 95
+http://kuku.dyndns.tv:8000/live/fernando/fernando/95.ts
+#EXTINF:-1, Fernando 96
+http://kuku.dyndns.tv:8000/live/fernando/fernando/96.ts
+#EXTINF:-1, Disney TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/97.ts
+#EXTINF:-1, Fernando 98
+http://kuku.dyndns.tv:8000/live/fernando/fernando/98.ts
+#EXTINF:-1, Mickledeon
+http://kuku.dyndns.tv:8000/live/fernando/fernando/99.ts
+#EXTINF:-1, SIC K
+http://kuku.dyndns.tv:8000/live/fernando/fernando/100.ts
+#EXTINF:-1, Fernando 101
+http://kuku.dyndns.tv:8000/live/fernando/fernando/101.ts
+#EXTINF:-1, Fernando 102
+http://kuku.dyndns.tv:8000/live/fernando/fernando/102.ts
+#EXTINF:-1, Fernando 103
+http://kuku.dyndns.tv:8000/live/fernando/fernando/103.ts
+#EXTINF:-1, 1HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/104.ts
+#EXTINF:-1, DJING 1
+http://kuku.dyndns.tv:8000/live/fernando/fernando/105.ts
+#EXTINF:-1, DJING 2
+http://kuku.dyndns.tv:8000/live/fernando/fernando/106.ts
+#EXTINF:-1, CLUBLAND
+http://kuku.dyndns.tv:8000/live/fernando/fernando/107.ts
+#EXTINF:-1, eska TV Rock
+http://kuku.dyndns.tv:8000/live/fernando/fernando/108.ts
+#EXTINF:-1, eska Party TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/109.ts
+#EXTINF:-1, eska Best Music TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/110.ts
+#EXTINF:-1, Music VOX TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/111.ts
+#EXTINF:-1, MTV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/113.ts
+#EXTINF:-1, VH1
+http://kuku.dyndns.tv:8000/live/fernando/fernando/114.ts
+#EXTINF:-1, Afro Music
+http://kuku.dyndns.tv:8000/live/fernando/fernando/116.ts
+#EXTINF:-1, M6 Music
+http://kuku.dyndns.tv:8000/live/fernando/fernando/117.ts
+#EXTINF:-1, Music
+http://kuku.dyndns.tv:8000/live/fernando/fernando/120.ts
+#EXTINF:-1, Music RAP
+http://kuku.dyndns.tv:8000/live/fernando/fernando/121.ts
+#EXTINF:-1, VEVO
+http://kuku.dyndns.tv:8000/live/fernando/fernando/122.ts
+#EXTINF:-1, Food Channel
+http://kuku.dyndns.tv:8000/live/fernando/fernando/125.ts
+#EXTINF:-1, 24 Kitchen HD
+http://kuku.dyndns.tv:8000/live/fernando/fernando/126.ts
+#EXTINF:-1, HD Fashion
+http://kuku.dyndns.tv:8000/live/fernando/fernando/128.ts
+#EXTINF:-1, História
+http://kuku.dyndns.tv:8000/live/fernando/fernando/129.ts
+#EXTINF:-1, Fernando 130
+http://kuku.dyndns.tv:8000/live/fernando/fernando/130.ts
+#EXTINF:-1, Fernando 131
+http://kuku.dyndns.tv:8000/live/fernando/fernando/131.ts
+#EXTINF:-1, Fernando 132
+http://kuku.dyndns.tv:8000/live/fernando/fernando/132.ts
+#EXTINF:-1, Fernando 133
+http://kuku.dyndns.tv:8000/live/fernando/fernando/133.ts
+#EXTINF:-1, Fernando 134
+http://kuku.dyndns.tv:8000/live/fernando/fernando/134.ts
+#EXTINF:-1, Fernando 135
+http://kuku.dyndns.tv:8000/live/fernando/fernando/135.ts
+#EXTINF:-1, Fernando 136
+http://kuku.dyndns.tv:8000/live/fernando/fernando/136.ts
+#EXTINF:-1, Fernando 137
+http://kuku.dyndns.tv:8000/live/fernando/fernando/137.ts
+#EXTINF:-1, Fernando 138
+http://kuku.dyndns.tv:8000/live/fernando/fernando/138.ts
+#EXTINF:-1, Fernando 139
+http://kuku.dyndns.tv:8000/live/fernando/fernando/139.ts
+#EXTINF:-1, Fernando 140
+http://kuku.dyndns.tv:8000/live/fernando/fernando/140.ts
+#EXTINF:-1, Fernando 141
+http://kuku.dyndns.tv:8000/live/fernando/fernando/141.ts
+#EXTINF:-1, Fernando 142
+http://kuku.dyndns.tv:8000/live/fernando/fernando/142.ts
+#EXTINF:-1, Fernando 143
+http://kuku.dyndns.tv:8000/live/fernando/fernando/143.ts
+#EXTINF:-1, Fernando 144
+http://kuku.dyndns.tv:8000/live/fernando/fernando/144.ts
+#EXTINF:-1, Fernando 145
+http://kuku.dyndns.tv:8000/live/fernando/fernando/145.ts
+#EXTINF:-1, Fernando 146
+http://kuku.dyndns.tv:8000/live/fernando/fernando/146.ts
+#EXTINF:-1, Fernando 147
+http://kuku.dyndns.tv:8000/live/fernando/fernando/147.ts
+#EXTINF:-1, Fernando 148
+http://kuku.dyndns.tv:8000/live/fernando/fernando/148.ts
+#EXTINF:-1, Fernando 149
+http://kuku.dyndns.tv:8000/live/fernando/fernando/149.ts
+#EXTINF:-1, Fernando 150
+http://kuku.dyndns.tv:8000/live/fernando/fernando/150.ts
+#EXTINF:-1, Fernando 151
+http://kuku.dyndns.tv:8000/live/fernando/fernando/151.ts
+#EXTINF:-1, Fernando 152
+http://kuku.dyndns.tv:8000/live/fernando/fernando/152.ts
+#EXTINF:-1, Fernando 153
+http://kuku.dyndns.tv:8000/live/fernando/fernando/153.ts
+#EXTINF:-1, Fernando 154
+http://kuku.dyndns.tv:8000/live/fernando/fernando/154.ts
+#EXTINF:-1, Fernando 155
+http://kuku.dyndns.tv:8000/live/fernando/fernando/155.ts
+#EXTINF:-1, Fernando 156
+http://kuku.dyndns.tv:8000/live/fernando/fernando/156.ts
+#EXTINF:-1, Fernando 157
+http://kuku.dyndns.tv:8000/live/fernando/fernando/157.ts
+#EXTINF:-1, Fernando 158
+http://kuku.dyndns.tv:8000/live/fernando/fernando/158.ts
+#EXTINF:-1, Fernando 159
+http://kuku.dyndns.tv:8000/live/fernando/fernando/159.ts
+#EXTINF:-1, Fernando 160
+http://kuku.dyndns.tv:8000/live/fernando/fernando/160.ts
+#EXTINF:-1, Fernando 161
+http://kuku.dyndns.tv:8000/live/fernando/fernando/161.ts
+#EXTINF:-1, Fernando 162
+http://kuku.dyndns.tv:8000/live/fernando/fernando/162.ts
+#EXTINF:-1, Fernando 163
+http://kuku.dyndns.tv:8000/live/fernando/fernando/163.ts
+#EXTINF:-1, Fernando 164
+http://kuku.dyndns.tv:8000/live/fernando/fernando/164.ts
+#EXTINF:-1, Fernando 165
+http://kuku.dyndns.tv:8000/live/fernando/fernando/165.ts
+#EXTINF:-1, Fernando 166
+http://kuku.dyndns.tv:8000/live/fernando/fernando/166.ts
+#EXTINF:-1, Fernando 167
+http://kuku.dyndns.tv:8000/live/fernando/fernando/167.ts
+#EXTINF:-1, Fernando 168
+http://kuku.dyndns.tv:8000/live/fernando/fernando/168.ts
+#EXTINF:-1, Fernando 169
+http://kuku.dyndns.tv:8000/live/fernando/fernando/169.ts
+#EXTINF:-1, Fernando 170
+http://kuku.dyndns.tv:8000/live/fernando/fernando/170.ts
+#EXTINF:-1, Fernando 171
+http://kuku.dyndns.tv:8000/live/fernando/fernando/171.ts
+#EXTINF:-1, Fernando 172
+http://kuku.dyndns.tv:8000/live/fernando/fernando/172.ts
+#EXTINF:-1, Fernando 173
+http://kuku.dyndns.tv:8000/live/fernando/fernando/173.ts
+#EXTINF:-1, Fernando 174
+http://kuku.dyndns.tv:8000/live/fernando/fernando/174.ts
+#EXTINF:-1, Fernando 175
+http://kuku.dyndns.tv:8000/live/fernando/fernando/175.ts
+#EXTINF:-1, Fernando 176
+http://kuku.dyndns.tv:8000/live/fernando/fernando/176.ts
+#EXTINF:-1, Fernando 177
+http://kuku.dyndns.tv:8000/live/fernando/fernando/177.ts
+#EXTINF:-1, Fernando 178
+http://kuku.dyndns.tv:8000/live/fernando/fernando/178.ts
+#EXTINF:-1, Fernando 179
+http://kuku.dyndns.tv:8000/live/fernando/fernando/179.ts
+#EXTINF:-1, Fernando 180
+http://kuku.dyndns.tv:8000/live/fernando/fernando/180.ts
+#EXTINF:-1, Fernando 181
+http://kuku.dyndns.tv:8000/live/fernando/fernando/181.ts
+#EXTINF:-1, Fernando 182
+http://kuku.dyndns.tv:8000/live/fernando/fernando/182.ts
+#EXTINF:-1, Fernando 183
+http://kuku.dyndns.tv:8000/live/fernando/fernando/183.ts
+#EXTINF:-1, Fernando 184
+http://kuku.dyndns.tv:8000/live/fernando/fernando/184.ts
+#EXTINF:-1, Fernando 185
+http://kuku.dyndns.tv:8000/live/fernando/fernando/185.ts
+#EXTINF:-1, Fernando 186
+http://kuku.dyndns.tv:8000/live/fernando/fernando/186.ts
+#EXTINF:-1, Fernando 187
+http://kuku.dyndns.tv:8000/live/fernando/fernando/187.ts
+#EXTINF:-1, Fernando 188
+http://kuku.dyndns.tv:8000/live/fernando/fernando/188.ts
+#EXTINF:-1, Fernando 189
+http://kuku.dyndns.tv:8000/live/fernando/fernando/189.ts
+#EXTINF:-1, Fernando 190
+http://kuku.dyndns.tv:8000/live/fernando/fernando/190.ts
+#EXTINF:-1, Fernando 191
+http://kuku.dyndns.tv:8000/live/fernando/fernando/191.ts
+#EXTINF:-1, Fernando 192
+http://kuku.dyndns.tv:8000/live/fernando/fernando/192.ts
+#EXTINF:-1, Fernando 193
+http://kuku.dyndns.tv:8000/live/fernando/fernando/193.ts
+#EXTINF:-1, Fernando 194
+http://kuku.dyndns.tv:8000/live/fernando/fernando/194.ts
+#EXTINF:-1, Fernando 195
+http://kuku.dyndns.tv:8000/live/fernando/fernando/195.ts
+#EXTINF:-1, Fernando 196
+http://kuku.dyndns.tv:8000/live/fernando/fernando/196.ts
+#EXTINF:-1, Fernando 197
+http://kuku.dyndns.tv:8000/live/fernando/fernando/197.ts
+#EXTINF:-1, Fernando 198
+http://kuku.dyndns.tv:8000/live/fernando/fernando/198.ts
+#EXTINF:-1, Fernando 199
+http://kuku.dyndns.tv:8000/live/fernando/fernando/199.ts
