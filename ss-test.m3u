@@ -1,81 +1,43 @@
 #EXTM3U
-#EXTINF:0,TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
-#EXTINF:0,TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-#EXTINF:0,TVI 
-http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
-#EXTINF:0,TVI 24
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
-#EXTINF:0,SIC K
-http://tvdasogra.com:8880/live/rebolinho/jezito/452.m3u8
-#EXTINF:0,SIC RADICAL
-http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/9.m3u8
-#EXTINF:0,SIC MULHER
-http://tvdasogra.com:8880/live/rebolinho/jezito/275.m3u8
-#EXTINF:0,SIC NOTÍCIAS
-http://skyiptv.ddns.net:8000/live/batman/batman/424.ts
-#EXTINF:0,+TVI
-http://tvdasogra.com:8880/live/rebolinho/jezito/456.m3u8
-#EXTINF:0,CMTV
-http://tvdasogra.com:8880/live/rebolinho/jezito/224.m3u8
-#EXTINF:0,A BOLA TV
-http://tvdasogra.com:8880/live/rebolinho/jezito/253.m3u8
-#EXTINF:0,TPA
-http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
-#EXTINF:0,FOX PT
-http://tvdasogra.com:8880/live/rebolinho/jezito/278.m3u8
-#EXTINF:0,FOX LIFE PT
-http://tvdasogra.com:8880/live/rebolinho/jezito/229.m3u8
-#EXTINF:0,FOX CRIME PT
-http://tvdasogra.com:8880/live/rebolinho/jezito/461.m3u8
-#EXTINF:0,WEATHER CHANNEL (can)
-http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
-#EXTINF:0,WEATHER CHANNEL (usa)
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:0,TVC1
-http://tvdasogra.com:8880/live/rebolinho/jezito/262.m3u8
-#EXTINF:0,TVC2
-http://tvdasogra.com:8880/live/rebolinho/jezito/263.m3u8
-#EXTINF:0,TVC3
-http://tvdasogra.com:8880/live/rebolinho/jezito/264.m3u8
-#EXTINF:0,TVC4
-http://tvdasogra.com:8880/live/rebolinho/jezito/265.m3u8
-#EXTINF:0,TVC S
-http://tvdasogra.com:8880/live/rebolinho/jezito/469.m3u8
-#EXTINF:0,CINE MUNDO 
-http://tvdasogra.com:8880/live/rebolinho/jezito/244.m3u8
-#EXTINF:0,SPORTV 1
-http://tvdasogra.com:8880/live/rebolinho/jezito/1.m3u8
-#EXTINF:0,SPORTV 1
-http://tvdasogra.com:8880/live/rebolinho/jezito/453.m3u8
-#EXTINF:0,SPORTV 2
-http://tvdasogra.com:8880/live/rebolinho/jezito/255.m3u8
-#EXTINF:0,SPORTV 3
-http://tvdasogra.com:8880/live/rebolinho/jezito/256.m3u8
-#EXTINF:0,SPORTV 4
-http://tvdasogra.com:8880/live/rebolinho/jezito/257.m3u8
-#EXTINF:0,SPORTV 5
-http://tvdasogra.com:8880/live/rebolinho/jezito/258.m3u8
-#EXTINF:0,SPORTV 5
-http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/24.m3u8
-#EXTINF:0,BTV
-http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
-#EXTINF:0,BTV
-http://tvdasogra.com:8880/live/rebolinho/jezito/463.m3u8
-#EXTINF:0,BTV
-http://tvdasogra.com:8880/live/rebolinho/jezito/259.m3u8
-#EXTINF:0,BTV
-http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/32.m3u8
-#EXTINF:0,BTV
-http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/30.m3u8s
-#EXTINF:0,BTV2
-http://tvdasogra.com:8880/live/rebolinho/jezito/260.m3u8
-#EXTINF:0,BTV2
-http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/31.m3u8
-#EXTINF:0,SPORTING TV
-http://tvdasogra.com:8880/live/rebolinho/jezito/261.m3u8
-#EXTINF:0,SKY SPORT 1 ALEMANHA
-http://tvdasogra.com:8880/live/rebolinho/jezito/480.m3u8
-#EXTINF:0,SKY SPORT 2 ALEMANHA
-http://tvdasogra.com:8880/live/rebolinho/jezito/481.m3u8
+#EXTINF:0,Por:  TVI
+http://xs.best-tv.us:8000/live/ale/ale/1487.ts
+#EXTINF:0,Por: AXN BLACK
+http://xs.best-tv.us:8000/live/ale/ale/1486.ts
+#EXTINF:0,Por: AXN HD
+http://xs.best-tv.us:8000/live/ale/ale/1485.ts
+#EXTINF:0,Por: BENFICA TV 1 HD (test)
+http://xs.best-tv.us:8000/live/ale/ale/1484.ts
+#EXTINF:0,Por: Caça & Pesca (test)
+http://xs.best-tv.us:8000/live/ale/ale/1483.ts
+#EXTINF:0,Por: CM TV
+http://xs.best-tv.us:8000/live/ale/ale/1482.ts
+#EXTINF:0,Por: DISNEY JUNIOR (test)
+http://xs.best-tv.us:8000/live/ale/ale/1481.ts
+#EXTINF:0,Por: Eurosport
+http://xs.best-tv.us:8000/live/ale/ale/1480.ts
+#EXTINF:0,Por: FOX HD
+http://xs.best-tv.us:8000/live/ale/ale/1479.ts
+#EXTINF:0,Por: ODISSEIA
+http://xs.best-tv.us:8000/live/ale/ale/1478.ts
+#EXTINF:0,Por: SIC Mulher
+http://xs.best-tv.us:8000/live/ale/ale/1477.ts
+#EXTINF:0,Por: SIC NOTICIAS
+http://xs.best-tv.us:8000/live/ale/ale/1476.ts
+#EXTINF:0,Por: TVCINE 1
+http://xs.best-tv.us:8000/live/ale/ale/1475.ts
+#EXTINF:0,Por: TVCINE 2
+http://xs.best-tv.us:8000/live/ale/ale/1474.ts
+#EXTINF:0,Por: TVCINE 3
+http://xs.best-tv.us:8000/live/ale/ale/1473.ts
+#EXTINF:0,Por: TVCINE 4
+http://xs.best-tv.us:8000/live/ale/ale/1472.ts
+#EXTINF:0,Por: TVI
+http://xs.best-tv.us:8000/live/ale/ale/1471.ts
+#EXTINF:0,Por: TVI 24
+http://xs.best-tv.us:8000/live/ale/ale/1470.ts
+#EXTINF:0,Por: VEVO 1
+http://xs.best-tv.us:8000/live/ale/ale/1469.ts
+#EXTINF:0,Por: VEVO 2
+http://xs.best-tv.us:8000/live/ale/ale/1468.ts
+#EXTINF:0,Por: VEVO 3
+http://xs.best-tv.us:8000/live/ale/ale/1467.ts
