@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", Portugal x Dinamarca
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="", Rennes x Psg
 #EXTSIZE: Big
 #EXTBG: #A15757
-http://192.168.1.97:8000/pid/6b06d2ed5580e57009d4972a71d260dc1804ac1d/stream.mp4
+http://192.168.1.97:8000/pid/88955e1669c98af20e25376b4f192db26eb6149d/stream.mp4
 #EXTINF:-1 group-title="" tvg-name="" tvg-logo="", Portugal x Dinamarca
 #EXTSIZE: Big
 #EXTBG: #A15757
