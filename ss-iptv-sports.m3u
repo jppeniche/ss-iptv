@@ -9,11 +9,9 @@ http://62.210.238.18:443/live/eurosport/playlist.m3u8
 http://62.210.238.18:443/live/eurosport2/playlist.m3u8
 
 #EXTINF:-1,Eurosport HD  Eng & Rus
-#EXTVLCOPT:audio-track=1 
 http://102As4YTp.us.to/udp/233.7.70.199:5000
 
 #EXTINF:-1,Eurosport NEWS HD  Eng & Rus
-#EXTVLCOPT:audio-track=1 
 http://102As4YTp.us.to/udp/233.7.70.197:5000
 
 
