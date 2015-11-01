@@ -14,7 +14,7 @@ http://102As4YTp.us.to/udp/233.7.70.199:5000
 http://102As4YTp.us.to/udp/233.7.70.197:5000
 
 #EXTINF:1,Eurosport
-http://213.172.65.36:4022/play/101
+http://78.30.254.43:8989/udp/239.0.0.195:4000
 
 #EXTINF:-1,Sport TV 1
 http://192.168.1.97:8000/pid/cfeb62e9c104e669a639e74966ad9e6f4b1939b6/stream.mp4
