@@ -14,10 +14,7 @@ http://102As4YTp.us.to/udp/233.7.70.199:5000
 http://102As4YTp.us.to/udp/233.7.70.197:5000
 
 #EXTINF:1,Eurosport
-http://streamer1.cdniptv.com:7070/hls/super-sport4hd.m3u8
-
-#EXTINF:1,Eurosport
-http://149.255.152.112/eurosport/index.m3u8
+http://213.172.65.36:4022/play/101
 
 #EXTINF:-1,Sport TV 1
 http://192.168.1.97:8000/pid/cfeb62e9c104e669a639e74966ad9e6f4b1939b6/stream.mp4
