@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:0, Eurosport uk
-http://195.154.226.186:1935/liveedge/vesplsh/playlist.m3u8
-#EXTINF:0, Eurosport 2 uk
-http://195.154.226.186:1935/liveedge/vesp2lsh/playlist.m3u8
-#EXTINF:0, Eurosport 
-http://62.210.238.18:443/live/eurosport/playlist.m3u8
-#EXTINF:0, Eurosport 2
-http://62.210.238.18:443/live/eurosport2/playlist.m3u8
-
-#EXTINF:-1,Eurosport HD  Eng & Rus
-http://102As4YTp.us.to/udp/233.7.70.199:5000
-#EXTINF:-1,Eurosport NEWS HD  Eng & Rus
-http://102As4YTp.us.to/udp/233.7.70.197:5000
-
-#EXTINF:1,Eurosport
-http://78.30.254.43:8989/udp/239.0.0.195:4000
+#EXTINF:-1,FR:CANAL+SPORT
+http://cdn.step-tv.com:8000/live/1313/1313/446.ts
+#EXTINF:-1,FR:BEIN_SPORT_HD1
+http://cdn.step-tv.com:8000/live/1313/1313/190.ts
+#EXTINF:-1,FR:BEIN_SPORT_HD2
+http://cdn.step-tv.com:8000/live/1313/1313/191.ts
+#EXTINF:-1,FR:BEIN_SPORT_HD3
+http://cdn.step-tv.com:8000/live/1313/1313/192.ts
 
 #EXTINF:-1,Sport TV 1
 http://192.168.1.97:8000/pid/c39db61fd585ebfa446983d0af9d9d637df9678c/stream.mp4
