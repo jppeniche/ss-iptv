@@ -8,6 +8,49 @@ http://cdn.step-tv.com:8000/live/1313/1313/191.ts
 #EXTINF:-1,FR:BEIN_SPORT_HD3
 http://cdn.step-tv.com:8000/live/1313/1313/192.ts
 
+
+
+#EXTINF:-1,AR:BEIN_SPORT HD1
+http://cdn.step-tv.com:8000/live/1313/1313/26.ts
+#EXTINF:-1,AR:BEIN_SPORT HD2
+http://cdn.step-tv.com:8000/live/1313/1313/27.ts
+#EXTINF:-1,AR:BEIN_SPORT HD3
+http://cdn.step-tv.com:8000/live/1313/1313/28.ts
+#EXTINF:-1,AR:BEIN_SPORT HD4
+http://cdn.step-tv.com:8000/live/1313/1313/29.ts
+#EXTINF:-1,AR:BEIN_SPORT HD5
+http://cdn.step-tv.com:8000/live/1313/1313/30.ts
+#EXTINF:-1,AR:BEIN_SPORT HD6
+http://cdn.step-tv.com:8000/live/1313/1313/31.ts
+#EXTINF:-1,AR:BEIN_SPORT HD7
+http://cdn.step-tv.com:8000/live/1313/1313/32.ts
+#EXTINF:-1,AR:BEIN_SPORT HD8
+http://cdn.step-tv.com:8000/live/1313/1313/33.ts
+#EXTINF:-1,AR:BEIN_SPORT HD9
+http://cdn.step-tv.com:8000/live/1313/1313/34.ts
+#EXTINF:-1,AR:BEIN_SPORT HD10
+http://cdn.step-tv.com:8000/live/1313/1313/35.ts
+#EXTINF:-1,AR:BEIN_SPORT_1
+http://cdn.step-tv.com:8000/live/1313/1313/1209.ts
+#EXTINF:-1,AR:BEIN_SPORT_2
+http://cdn.step-tv.com:8000/live/1313/1313/1210.ts
+#EXTINF:-1,AR:BEIN_SPORT_3
+http://cdn.step-tv.com:8000/live/1313/1313/1211.ts
+#EXTINF:-1,AR:BEIN_SPORT_4
+http://cdn.step-tv.com:8000/live/1313/1313/1212.ts
+#EXTINF:-1,AR:BEIN_SPORT_5
+http://cdn.step-tv.com:8000/live/1313/1313/1213.ts
+#EXTINF:-1,AR:BEIN_SPORT_6
+http://cdn.step-tv.com:8000/live/1313/1313/1214.ts
+#EXTINF:-1,AR:BEIN_SPORT_7
+http://cdn.step-tv.com:8000/live/1313/1313/1215.ts
+#EXTINF:-1,AR:BEIN_SPORT_8
+http://cdn.step-tv.com:8000/live/1313/1313/1216.ts
+#EXTINF:-1,AR:BEIN_SPORT_9
+http://cdn.step-tv.com:8000/live/1313/1313/1217.ts
+#EXTINF:-1,AR:BEIN_SPORT_10
+http://cdn.step-tv.com:8000/live/1313/1313/1218.ts
+
 #EXTINF:-1,Sport TV 1
 http://192.168.1.97:8000/pid/c39db61fd585ebfa446983d0af9d9d637df9678c/stream.mp4
 #EXTINF:-1,Sport TV 2
