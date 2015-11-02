@@ -1,55 +1,56 @@
 #EXTM3U
 #EXTINF:-1,FR:CANAL+SPORT
-http://cdn.step-tv.com:8000/live/1313/1313/446.ts
+http://cdn.step-tv.com:8000/live/1313/1313/446.m3u8
 #EXTINF:-1,FR:BEIN_SPORT_HD1
-http://cdn.step-tv.com:8000/live/1313/1313/190.ts
+http://cdn.step-tv.com:8000/live/1313/1313/190.m3u8
 #EXTINF:-1,FR:BEIN_SPORT_HD2
-http://cdn.step-tv.com:8000/live/1313/1313/191.ts
+http://cdn.step-tv.com:8000/live/1313/1313/191.m3u8
 #EXTINF:-1,FR:BEIN_SPORT_HD3
-http://cdn.step-tv.com:8000/live/1313/1313/192.ts
+http://cdn.step-tv.com:8000/live/1313/1313/192.m3u8
+
 
 
 
 #EXTINF:-1,AR:BEIN_SPORT HD1
-http://cdn.step-tv.com:8000/live/1313/1313/26.ts
+http://cdn.step-tv.com:8000/live/1313/1313/26.m3u8
 #EXTINF:-1,AR:BEIN_SPORT HD2
-http://cdn.step-tv.com:8000/live/1313/1313/27.ts
+http://cdn.step-tv.com:8000/live/1313/1313/27.m3u8
 #EXTINF:-1,AR:BEIN_SPORT HD3
-http://cdn.step-tv.com:8000/live/1313/1313/28.ts
+http://cdn.step-tv.com:8000/live/1313/1313/28.m3u8
 #EXTINF:-1,AR:BEIN_SPORT HD4
-http://cdn.step-tv.com:8000/live/1313/1313/29.ts
+http://cdn.step-tv.com:8000/live/1313/1313/29.m3u8
 #EXTINF:-1,AR:BEIN_SPORT HD5
-http://cdn.step-tv.com:8000/live/1313/1313/30.ts
+http://cdn.step-tv.com:8000/live/1313/1313/30.m3u8
 #EXTINF:-1,AR:BEIN_SPORT HD6
-http://cdn.step-tv.com:8000/live/1313/1313/31.ts
+http://cdn.step-tv.com:8000/live/1313/1313/31.m3u8
 #EXTINF:-1,AR:BEIN_SPORT HD7
-http://cdn.step-tv.com:8000/live/1313/1313/32.ts
+http://cdn.step-tv.com:8000/live/1313/1313/32.m3u8
 #EXTINF:-1,AR:BEIN_SPORT HD8
-http://cdn.step-tv.com:8000/live/1313/1313/33.ts
+http://cdn.step-tv.com:8000/live/1313/1313/33.m3u8
 #EXTINF:-1,AR:BEIN_SPORT HD9
-http://cdn.step-tv.com:8000/live/1313/1313/34.ts
+http://cdn.step-tv.com:8000/live/1313/1313/34.m3u8
 #EXTINF:-1,AR:BEIN_SPORT HD10
-http://cdn.step-tv.com:8000/live/1313/1313/35.ts
+http://cdn.step-tv.com:8000/live/1313/1313/35.m3u8
 #EXTINF:-1,AR:BEIN_SPORT_1
-http://cdn.step-tv.com:8000/live/1313/1313/1209.ts
+http://cdn.step-tv.com:8000/live/1313/1313/1209.m3u8
 #EXTINF:-1,AR:BEIN_SPORT_2
-http://cdn.step-tv.com:8000/live/1313/1313/1210.ts
+http://cdn.step-tv.com:8000/live/1313/1313/1210.m3u8
 #EXTINF:-1,AR:BEIN_SPORT_3
-http://cdn.step-tv.com:8000/live/1313/1313/1211.ts
+http://cdn.step-tv.com:8000/live/1313/1313/1211.m3u8
 #EXTINF:-1,AR:BEIN_SPORT_4
-http://cdn.step-tv.com:8000/live/1313/1313/1212.ts
+http://cdn.step-tv.com:8000/live/1313/1313/1212.m3u8
 #EXTINF:-1,AR:BEIN_SPORT_5
-http://cdn.step-tv.com:8000/live/1313/1313/1213.ts
+http://cdn.step-tv.com:8000/live/1313/1313/1213.m3u8
 #EXTINF:-1,AR:BEIN_SPORT_6
-http://cdn.step-tv.com:8000/live/1313/1313/1214.ts
+http://cdn.step-tv.com:8000/live/1313/1313/1214.m3u8
 #EXTINF:-1,AR:BEIN_SPORT_7
-http://cdn.step-tv.com:8000/live/1313/1313/1215.ts
+http://cdn.step-tv.com:8000/live/1313/1313/1215.m3u8
 #EXTINF:-1,AR:BEIN_SPORT_8
-http://cdn.step-tv.com:8000/live/1313/1313/1216.ts
+http://cdn.step-tv.com:8000/live/1313/1313/1216.m3u8
 #EXTINF:-1,AR:BEIN_SPORT_9
-http://cdn.step-tv.com:8000/live/1313/1313/1217.ts
+http://cdn.step-tv.com:8000/live/1313/1313/1217.m3u8
 #EXTINF:-1,AR:BEIN_SPORT_10
-http://cdn.step-tv.com:8000/live/1313/1313/1218.ts
+http://cdn.step-tv.com:8000/live/1313/1313/1218.m3u8
 
 #EXTINF:-1,Sport TV 1
 http://192.168.1.97:8000/pid/c39db61fd585ebfa446983d0af9d9d637df9678c/stream.mp4
