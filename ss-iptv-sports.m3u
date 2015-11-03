@@ -66,6 +66,10 @@ http://192.168.1.97:8000/pid/e4bb9e8c9d080a418047686bd7891f545bc777d4/stream.mp4
 
 #EXTINF:-1,Bein Sports 1 HD 
 http://192.168.1.97:8000/pid/6aee464bcf506d9b72e57e13acead0ba1ef74cfd/stream.mp4
+#EXTINF:-1,ArenaVision 1
+http://192.168.1.97:8000/pid/f2c756ea5699eb8f90aff26bb8701155a068a195/stream.mp4
+#EXTINF:-1,ArenaVision 2
+http://192.168.1.97:8000/pid/88ad176301222f530b816e5267a769ff29565cec/stream.mp4
 
 
 
