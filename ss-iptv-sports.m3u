@@ -18,6 +18,23 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1
 
 #EXTINF:-1,Bein Sports 1 HD 
 http://192.168.1.97:8000/pid/6aee464bcf506d9b72e57e13acead0ba1ef74cfd/stream.mp4
+#EXTINF:-1,Bein Sports 2 HD 
+http://192.168.1.97:8000/pid/a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995/stream.mp4
+
+#EXTINF:-1,Motors TV
+http://192.168.1.97:8000/pid/84c27a15472ee950e0567667dfd270cc81b01498/stream.mp4
+
+#EXTINF:-1,Movistar F1
+http://192.168.1.97:8000/pid/98b327d19a16be09070212124826e9209cb97540/stream.mp4
+#EXTINF:-1,Movistar MotoGP
+http://192.168.1.97:8000/pid/ed9387ebbf6caac72e04e7b66880fd4b69999069/stream.mp4
+
+
+#EXTINF:-1,BTV 1
+http://192.168.1.97:8000/pid/4e0b64e76d0463e96cefa68bdec74674d9c6f721/stream.mp4
+
+
+
 #EXTINF:-1,ArenaVision 1
 http://192.168.1.97:8000/pid/f2c756ea5699eb8f90aff26bb8701155a068a195/stream.mp4
 #EXTINF:-1,ArenaVision 2
