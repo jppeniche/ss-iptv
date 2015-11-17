@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:0,+18 HD REDLIGHT
+
+http://78.30.254.27:8989/udp/239.0.1.27:4000
+
+#EXTINF:0,+18 NU ART
+
+http://78.30.254.27:8989/udp/239.0.1.156:4000
+
+#EXTINF:0,+18 O LA LA
+
+http://78.30.254.27:8989/udp/238.1.6.200:1234
+
+#EXTINF:0,+18 PLAYBOY
+
+http://78.30.254.27:8989/udp/239.0.0.200:4000
+
+#EXTINF:0,+18 Russian Nights
+
+http://78.30.254.27:8989/udp/239.0.0.198:4000
 #EXTINF:-1,Hot Club
 http://iptv.hopto.org:9705/live/Fcb:AlbTvSystems/skyp:dreamserver.drea/883.ts
 #EXTINF:-1,Hustler HD
