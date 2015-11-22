@@ -1,51 +1,52 @@
 #EXTM3U
 
 
-#EXTINF:-1,Sport TV 1
+#EXTINF:-1 group-title="ArenaVision",Sport TV 1
 http://192.168.1.97:8000/pid/c39db61fd585ebfa446983d0af9d9d637df9678c/stream.mp4
-#EXTINF:-1,Sport TV 2
+#EXTINF:-1 group-title="ArenaVision",Sport TV 2
 http://192.168.1.97:8000/pid/a3776be8c08f52b3366c83fff09609721e28cd69/stream.mp4
-#EXTINF:-1,Sport TV 3
+#EXTINF:-1 group-title="ArenaVision",Sport TV 3
 http://192.168.1.97:8000/pid/2cd965d9c087d1d6be889d54d689a6a6083a6280/stream.mp4
-#EXTINF:-1,Sport TV 4
+#EXTINF:-1 group-title="ArenaVision",Sport TV 4
 http://192.168.1.97:8000/pid/4f256982b213a8b3346b01683b82261db8dcd524/stream.mp4
-#EXTINF:-1,Sport.TV 5
+#EXTINF:-1 group-title="ArenaVision",Sport.TV 5
 http://192.168.1.97:8000/pid/e4bb9e8c9d080a418047686bd7891f545bc777d4/stream.mp4
 
-#EXTINF:-1,SPORT TV AMÉRICAS HD
+#EXTINF:-1 group-title="ArenaVision",SPORT TV AMÉRICAS HD
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
 
-#EXTINF:-1,Bein Sports 1 HD 
+#EXTINF:-1 group-title="Bein Sports",Bein Sports 1 HD 
 http://192.168.1.97:8000/pid/6aee464bcf506d9b72e57e13acead0ba1ef74cfd/stream.mp4
-#EXTINF:-1,Bein Sports 2 HD 
+#EXTINF:-1 group-title="Bein Sports",Bein Sports 2 HD 
 http://192.168.1.97:8000/pid/a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995/stream.mp4
 
 #EXTINF:-1,Motors TV
 http://192.168.1.97:8000/pid/84c27a15472ee950e0567667dfd270cc81b01498/stream.mp4
 
-#EXTINF:-1,Movistar F1
+#EXTINF:-1 group-title="Bein Sports",Movistar F1
 http://192.168.1.97:8000/pid/98b327d19a16be09070212124826e9209cb97540/stream.mp4
-#EXTINF:-1,Movistar MotoGP
+#EXTINF:-1 group-title="Bein Sports",Movistar MotoGP
 http://192.168.1.97:8000/pid/ed9387ebbf6caac72e04e7b66880fd4b69999069/stream.mp4
-
+#EXTINF:-1 group-title="Bein Sports",Sky Sports F1
+http://192.168.1.97:8000/pid/02c14347959f78d8bf18f898c56f429ab5a44c7b/stream.mp4
 
 #EXTINF:-1,BTV 1
 http://192.168.1.97:8000/pid/4e0b64e76d0463e96cefa68bdec74674d9c6f721/stream.mp4
 
-#EXTINF:-1,EUROSPORT
+#EXTINF:-1 group-title="Eurosport",EUROSPORT
 http://192.168.1.97:8000/pid/ca89ed764a7767ae71e937e78d284c5577d8ee5b/stream.mp4
-#EXTINF:-1,Eurosport 2 British
+#EXTINF:-1 group-title="Eurosport",Eurosport 2 British
 http://192.168.1.97:8000/pid/7462d97e96e0f05e4551dbd3fb8a75a2d746c596/stream.mp4
-#EXTINF:-1,Eurosport British
+#EXTINF:-1 group-title="Eurosport",Eurosport British
 http://192.168.1.97:8000/pid/268877735d560d2fe78f44bc763e40e2b23b13e4/stream.mp4
-#EXTINF:-1,Eurosport HD
+#EXTINF:-1 group-title="Eurosport",Eurosport HD
 http://192.168.1.97:8000/pid/9630d8206d0cfe4f24aae70c6b174ced6312c9a2/stream.mp4
-#EXTINF:-1,Eurospоrt 2
+#EXTINF:-1 group-title="Eurosport",Eurospоrt 2
 http://192.168.1.97:8000/pid/a5fd7fc53a54caf022517e7b63b6b0f4cc3b3dcd/stream.mp4
-#EXTINF:-1,Eurospоrt 2 North-East
+#EXTINF:-1 group-title="Eurosport",Eurospоrt 2 North-East
 http://192.168.1.97:8000/pid/4b71476f6930076f6e474a520c206fdfd6c33b20/stream.mp4
-#EXTINF:-1,Eurospоrt 2 North-East HD
+#EXTINF:-1 group-title="Eurosport",Eurospоrt 2 North-East HD
 http://192.168.1.97:8000/pid/9ab089645c4fc0845594c063b3f372e842c806a0/stream.mp4
 
 
