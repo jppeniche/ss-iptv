@@ -16,6 +16,9 @@ http://192.168.1.98:8000/pid/e4bb9e8c9d080a418047686bd7891f545bc777d4/stream.mp4
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
 
+#EXTINF:-1 group-title="ArenaVision",Sporting
+http://192.168.1.98:8000/pid/9a1ccd31fb8775a275dfd2ac773c43e1bf77fb0ff/stream.mp4
+
 #EXTINF:-1 group-title="Bein Sports",Bein Sports 1 HD 
 http://192.168.1.98:8000/pid/6aee464bcf506d9b72e57e13acead0ba1ef74cfd/stream.mp4
 #EXTINF:-1 group-title="Bein Sports",Bein Sports 2 HD 
