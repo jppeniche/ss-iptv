@@ -51,7 +51,7 @@ http://192.168.1.98:8000/pid/9ab089645c4fc0845594c063b3f372e842c806a0/stream.mp4
 
 
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-http://192.168.1.98:8000/pid/ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9/stream.mp4
+http://192.168.1.98:8000/pid/308f85727993f98cf90e857aebc77103a678cf17/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 2
 http://192.168.1.98:8000/pid/88ad176301222f530b816e5267a769ff29565cec/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 3
