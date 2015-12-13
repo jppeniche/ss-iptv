@@ -2,15 +2,15 @@
 
 
 #EXTINF:-1 group-title="Sport TV",Sport TV 1
-http://192.168.1.98:8000/pid/c39db61fd585ebfa446983d0af9d9d637df9678c/stream.mp4
+http://192.168.1.97:8000/pid/c39db61fd585ebfa446983d0af9d9d637df9678c/stream.mp4
 #EXTINF:-1 group-title="Sport TV",Sport TV 2
-http://192.168.1.98:8000/pid/a3776be8c08f52b3366c83fff09609721e28cd69/stream.mp4
+http://192.168.1.97:8000/pid/a3776be8c08f52b3366c83fff09609721e28cd69/stream.mp4
 #EXTINF:-1 group-title="Sport TV",Sport TV 3
-http://192.168.1.98:8000/pid/9cc147cb9e58eb6db7c3445e50a24e62d22be9f1/stream.mp4
+http://192.168.1.97:8000/pid/9cc147cb9e58eb6db7c3445e50a24e62d22be9f1/stream.mp4
 #EXTINF:-1 group-title="Sport TV",Sport TV 4
-http://192.168.1.98:8000/pid/4f256982b213a8b3346b01683b82261db8dcd524/stream.mp4
+http://192.168.1.97:8000/pid/4f256982b213a8b3346b01683b82261db8dcd524/stream.mp4
 #EXTINF:-1 group-title="Sport TV",Sport TV 5
-http://192.168.1.98:8000/pid/e4bb9e8c9d080a418047686bd7891f545bc777d4/stream.mp4
+http://192.168.1.97:8000/pid/e4bb9e8c9d080a418047686bd7891f545bc777d4/stream.mp4
 
 
 #EXTINF:-1 group-title="Sport TV",Sport TV 1 HD
@@ -31,79 +31,79 @@ rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
 #EXTINF:-1 group-title="Bein Sports",Bein Sports 1 HD 
-http://192.168.1.98:8000/pid/6aee464bcf506d9b72e57e13acead0ba1ef74cfd/stream.mp4
+http://192.168.1.97:8000/pid/6aee464bcf506d9b72e57e13acead0ba1ef74cfd/stream.mp4
 #EXTINF:-1 group-title="Bein Sports",Bein Sports 2 HD 
-http://192.168.1.98:8000/pid/a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995/stream.mp4
+http://192.168.1.97:8000/pid/a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995/stream.mp4
 
 #EXTINF:-1,Motors TV
-http://192.168.1.98:8000/pid/84c27a15472ee950e0567667dfd270cc81b01498/stream.mp4
+http://192.168.1.97:8000/pid/84c27a15472ee950e0567667dfd270cc81b01498/stream.mp4
 
 #EXTINF:-1 group-title="Bein Sports",Movistar F1
-http://192.168.1.98:8000/pid/98b327d19a16be09070212124826e9209cb97540/stream.mp4
+http://192.168.1.97:8000/pid/98b327d19a16be09070212124826e9209cb97540/stream.mp4
 #EXTINF:-1 group-title="Bein Sports",Movistar MotoGP
-http://192.168.1.98:8000/pid/ed9387ebbf6caac72e04e7b66880fd4b69999069/stream.mp4
+http://192.168.1.97:8000/pid/ed9387ebbf6caac72e04e7b66880fd4b69999069/stream.mp4
 #EXTINF:-1 group-title="Bein Sports",Sky Sports F1
-http://192.168.1.98:8000/pid/02c14347959f78d8bf18f898c56f429ab5a44c7b/stream.mp4
+http://192.168.1.97:8000/pid/02c14347959f78d8bf18f898c56f429ab5a44c7b/stream.mp4
 
 #EXTINF:-1,BTV 1
-http://192.168.1.98:8000/pid/4e0b64e76d0463e96cefa68bdec74674d9c6f721/stream.mp4
+http://192.168.1.97:8000/pid/4e0b64e76d0463e96cefa68bdec74674d9c6f721/stream.mp4
 
 #EXTINF:-1 group-title="Eurosport",EUROSPORT
-http://192.168.1.98:8000/pid/ca89ed764a7767ae71e937e78d284c5577d8ee5b/stream.mp4
+http://192.168.1.97:8000/pid/ca89ed764a7767ae71e937e78d284c5577d8ee5b/stream.mp4
 #EXTINF:-1 group-title="Eurosport",Eurosport 2 British
-http://192.168.1.98:8000/pid/7462d97e96e0f05e4551dbd3fb8a75a2d746c596/stream.mp4
+http://192.168.1.97:8000/pid/7462d97e96e0f05e4551dbd3fb8a75a2d746c596/stream.mp4
 #EXTINF:-1 group-title="Eurosport",Eurosport British
-http://192.168.1.98:8000/pid/268877735d560d2fe78f44bc763e40e2b23b13e4/stream.mp4
+http://192.168.1.97:8000/pid/268877735d560d2fe78f44bc763e40e2b23b13e4/stream.mp4
 #EXTINF:-1 group-title="Eurosport",Eurosport HD
-http://192.168.1.98:8000/pid/9630d8206d0cfe4f24aae70c6b174ced6312c9a2/stream.mp4
+http://192.168.1.97:8000/pid/9630d8206d0cfe4f24aae70c6b174ced6312c9a2/stream.mp4
 #EXTINF:-1 group-title="Eurosport",Eurospоrt 2
-http://192.168.1.98:8000/pid/a5fd7fc53a54caf022517e7b63b6b0f4cc3b3dcd/stream.mp4
+http://192.168.1.97:8000/pid/a5fd7fc53a54caf022517e7b63b6b0f4cc3b3dcd/stream.mp4
 #EXTINF:-1 group-title="Eurosport",Eurospоrt 2 North-East
-http://192.168.1.98:8000/pid/4b71476f6930076f6e474a520c206fdfd6c33b20/stream.mp4
+http://192.168.1.97:8000/pid/4b71476f6930076f6e474a520c206fdfd6c33b20/stream.mp4
 #EXTINF:-1 group-title="Eurosport",Eurospоrt 2 North-East HD
-http://192.168.1.98:8000/pid/9ab089645c4fc0845594c063b3f372e842c806a0/stream.mp4
+http://192.168.1.97:8000/pid/9ab089645c4fc0845594c063b3f372e842c806a0/stream.mp4
 
 
 
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-http://192.168.1.98:8000/pid/308f85727993f98cf90e857aebc77103a678cf17/stream.mp4
+http://192.168.1.97:8000/pid/308f85727993f98cf90e857aebc77103a678cf17/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 2
-http://192.168.1.98:8000/pid/c5cad0f89b3e87d370ea13b1e15240dca9042a45/stream.mp4
+http://192.168.1.97:8000/pid/c5cad0f89b3e87d370ea13b1e15240dca9042a45/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 3
-http://192.168.1.98:8000/pid/f8dfbeb8ef7d8159729dde3d64e88f11b5bfe8aa/stream.mp4
+http://192.168.1.97:8000/pid/f8dfbeb8ef7d8159729dde3d64e88f11b5bfe8aa/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 4
-http://192.168.1.98:8000/pid/409456bf80cff52de3a4609907bd41518cd1385a/stream.mp4
+http://192.168.1.97:8000/pid/409456bf80cff52de3a4609907bd41518cd1385a/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 5
-http://192.168.1.98:8000/pid/048f2c9d6145a9a40966ef59e546ca92e804abcd/stream.mp4
+http://192.168.1.97:8000/pid/048f2c9d6145a9a40966ef59e546ca92e804abcd/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 6
-http://192.168.1.98:8000/pid/0da0db57ed349b0cad0e9c8eb00b8dc01b18a564/stream.mp4
+http://192.168.1.97:8000/pid/0da0db57ed349b0cad0e9c8eb00b8dc01b18a564/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 7
-http://192.168.1.98:8000/pid/767e8bd9c92c2fbbe5157a2b9b715347dc9932a5/stream.mp4
+http://192.168.1.97:8000/pid/767e8bd9c92c2fbbe5157a2b9b715347dc9932a5/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 8
-http://192.168.1.98:8000/pid/dc11597add4bd7502e14d5ecf339dfecfde5f239/stream.mp4
+http://192.168.1.97:8000/pid/dc11597add4bd7502e14d5ecf339dfecfde5f239/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 9
-http://192.168.1.98:8000/pid/c0d37735330570a39c51eeff66ce9221edd8fcb1/stream.mp4
+http://192.168.1.97:8000/pid/c0d37735330570a39c51eeff66ce9221edd8fcb1/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 10
-http://192.168.1.98:8000/pid/96e6352a9ec7f2fd877e0074d24ba14725cd9417/stream.mp4
+http://192.168.1.97:8000/pid/96e6352a9ec7f2fd877e0074d24ba14725cd9417/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 11
-http://192.168.1.98:8000/pid/e1014007af399cfbdff5ca325e387ee3512e35e7/stream.mp4
+http://192.168.1.97:8000/pid/e1014007af399cfbdff5ca325e387ee3512e35e7/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 12
-http://192.168.1.98:8000/pid/476394bb7914d878d09479063cea83af844cc10d/stream.mp4
+http://192.168.1.97:8000/pid/476394bb7914d878d09479063cea83af844cc10d/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 13
-http://192.168.1.98:8000/pid/c1157bab69d35fe14abf6d36d376271421024f4f/stream.mp4
+http://192.168.1.97:8000/pid/c1157bab69d35fe14abf6d36d376271421024f4f/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 14
-http://192.168.1.98:8000/pid/8c0f73351516903e33494d667a9afdba58fd5a04/stream.mp4
+http://192.168.1.97:8000/pid/8c0f73351516903e33494d667a9afdba58fd5a04/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 15
-http://192.168.1.98:8000/pid/925802be5699823528423dfba7f92fbbf32a53c2/stream.mp4
+http://192.168.1.97:8000/pid/925802be5699823528423dfba7f92fbbf32a53c2/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 16
-http://192.168.1.98:8000/pid/5c461f15b0b18024485ac9fe9bc5e1a44893347b/stream.mp4
+http://192.168.1.97:8000/pid/5c461f15b0b18024485ac9fe9bc5e1a44893347b/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 17
-http://192.168.1.98:8000/pid/2b9ce43b7c4fb351852b07944e87c43448f1ff42/stream.mp4
+http://192.168.1.97:8000/pid/2b9ce43b7c4fb351852b07944e87c43448f1ff42/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 18
-http://192.168.1.98:8000/pid/4c400ece7e7f187eb0e02e83767ff0d2d8116b8e/stream.mp4
+http://192.168.1.97:8000/pid/4c400ece7e7f187eb0e02e83767ff0d2d8116b8e/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 19
-http://192.168.1.98:8000/pid/9831b15ce264112156473fee35e537682ab5b799/stream.mp4
+http://192.168.1.97:8000/pid/9831b15ce264112156473fee35e537682ab5b799/stream.mp4
 #EXTINF:-1 group-title="ArenaVision",ArenaVision 20
-http://192.168.1.98:8000/pid/719565f991bcd94e288999bebd1512f28b788bb7/stream.mp4
+http://192.168.1.97:8000/pid/719565f991bcd94e288999bebd1512f28b788bb7/stream.mp4
 
 
