@@ -1,177 +1,233 @@
-#EXTM3UU
+
+#EXTINF:-1 tvg-id="Duarte IPTV" tvg-logo="http://s9.postimg.org/vbkxfrezj/12105705_1501189766870911_6961792465969690998_n.jpg", 14/01 13:00
+#EXTSIZE: middle
+#EXTBG: 11609e
+http://0.0.0.0:6666
+
+#EXTINF:-1 tvg-id="Duarte IPTV" tvg-logo="http://www.fastandyou.com/uploads/2/3/6/2/23620028/s782333958681989678_p5_i1_w400.jpeg", Canais Premium
+#EXTSIZE: middle
+#EXTBG: 11609e
+http://0.0.0.0:6666
+
+#EXTINF:-1,SPORTTV 1 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/101.ts
+#EXTINF:-1,SPORT.TV 1
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/102.ts
+#EXTINF:-1,SPORT.TV 2 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/415.ts
+#EXTINF:-1,SPORT.TV.2
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/103.ts
+#EXTINF:-1,SPORTTV 3 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/105.ts
+#EXTINF:-1,SPORT.TV.3
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/104.ts
+#EXTINF:-1,Sport.TV4 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/107.ts
+#EXTINF:-1,SPORT.TV.4
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/106.ts
+#EXTINF:-1,Sport.TV5 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/108.ts
+#EXTINF:-1,SPORT.TV.5
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/418.ts
+#EXTINF:-1,Benfica TV  HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/112.ts
+#EXTINF:-1,Benfica TV 1
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/113.ts
+#EXTINF:-1,Benfica TV 2
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/111.ts
+#EXTINF:-1,TVCINE 1
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/89.ts
+#EXTINF:-1,TVCine 1 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/422.ts
+#EXTINF:-1,TVCINE 2
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/90.ts
+#EXTINF:-1,TVCine 2 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/423.ts
+#EXTINF:-1,TVCINE 3
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/91.ts
+#EXTINF:-1,TVCine 3 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/424.ts
+#EXTINF:-1,TVCINE 4
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/92.ts
+#EXTINF:-1,TVCine 4 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/425.ts
+#EXTINF:-1,TVC SERIES
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/426.ts
+#EXTINF:-1,SYFY HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/93.ts
+#EXTINF:-1,AXN White
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/429.ts
+#EXTINF:-1,Fox Crime
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/99.ts
+#EXTINF:-1,SIC K
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/121.ts
+#EXTINF:-1,PANDA BIGGS
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/123.ts
+#EXTINF:-1,Canal Panda
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/120.ts
+#EXTINF:-1,Disney Junior
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/119.ts
+#EXTINF:-1,Nickelodeon
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/122.ts
+#EXTINF:-1,Globo
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/433.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k5454dfc21/134.ts
+#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
+#EXTINF:-1, A&E
+http://200.194.238.226:5000/live/x16t_ae/playlist.m3u8
+#EXTINF:-1, ANIMAL PLANET
+http://200.194.238.226:5000/live/x16t_animal_planet/playlist.m3u8
+#EXTINF:-1, AXN
+http://200.194.238.226:5000/live/x16t_axn_hd/playlist.m3u8
+#EXTINF:-1, BAND SC
+http://200.194.238.226:5000/live/x16t_band/playlist.m3u8
+#EXTINF:-1, BAND SPORTS
+http://200.194.238.226:5000/live/x16t_band_sports_hd/playlist.m3u8
+#EXTINF:-1, CANAL SONY
+http://200.194.238.226:5000/live/x16t_canal_sony_hd/playlist.m3u8
+#EXTINF:-1, CINEMAX
+http://200.194.238.226:5000/live/x16t_cinemax_hd/playlist.m3u8
+#EXTINF:-1, CNBC
+http://origin2.live.web.tv.streamprovider.net:80/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF:-1, CNN
+http://200.194.238.226:5000/live/x16t_cnn/playlist.m3u8
+#EXTINF:-1, COMEDY CENTRAL
+http://200.194.238.226:5000/live/x16t_comedycentral/playlist.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL
+http://200.194.238.226:5000/live/x16t_discovery_hd/playlist.m3u8
+#EXTINF:-1, DISCOVERY H&H
+http://200.194.238.226:5000/live/x16t_discovery_hh_hd/playlist.m3u8
+#EXTINF:-1, DISCOVERY KIDS
+http://200.194.238.226:5000/live/x16t_discovery_kids_hd/playlist.m3u8
+#EXTINF:-1, DISCOVERY THEATER
+http://200.194.238.226:5000/live/x16t_discovery_theater_hd/playlist.m3u8
+#EXTINF:-1, DISCOVERY WORLD
+http://200.194.238.226:5000/live/x16t_discovery_world_hd/playlist.m3u8
+#EXTINF:-1, DISNEY CHANNEL
+http://200.194.238.226:5000/live/x16t_disney_hd/playlist.m3u8
+#EXTINF:-1 , ESPN
+http://200.194.238.226:5000/live/x16t_espn_hd/playlist.m3u8
+#EXTINF:-1, ESPN+
+http://200.194.238.226:5000/live/x16t_espn_plus_hd/playlist.m3u8
+#EXTINF:-1, ESPORTE INTERATIVO
+http://ei.ss-lisa.eiplus.com.br:80/live/evento1.stream_720p/livestream.m3u8
+#EXTINF:-1, ESPORTE INTERATIVO MAXX
+http://ei.ss-lisa.eiplus.com.br:80/live/evento3.stream_720p/livestream.m3u8
+#EXTINF:-1, ESPORTE INTERATIVO MAXX 2
+http://ei.ss-lisa.eiplus.com.br:80/live/evento2.stream_360p/livestream.m3u8
+#EXTINF:-1, FOX
+http://200.194.238.226:5000/live/x16t_fox/playlist.m3u8
+#EXTINF:-1, FOX SPORTS
+http://200.194.238.226:5000/live/x16t_fox_sports_hd/playlist.m3u8
+#EXTINF:-1, FX
+http://200.194.238.226:5000/live/x16t_fx_hd/playlist.m3u8
+#EXTINF:-1, GLOBO NEWS
+http://200.194.238.226:5000/live/x16t_globonews_hd/playlist.m3u8
+#EXTINF:-1, GLOBO SC
+http://200.194.238.226:5000/live/x16t_rbs/playlist.m3u8
+#EXTINF:-1, HBO
+http://200.194.238.226:5000/live/x16t_hbo_hd/playlist.m3u8
+#EXTINF:-1, HBO 2
+http://200.194.238.226:5000/live/x16t_hbo2_hd/playlist.m3u8
+#EXTINF:-1, HBO FAMILY
+http://200.194.238.226:5000/live/x16t_hbo_family_hd/playlist.m3u8
+#EXTINF:-1, HISTORY
+http://200.194.238.226:5000/live/x16t_the_history_hd/playlist.m3u8
+#EXTINF:-1, MEGAPIX
+http://200.194.238.226:5000/live/x16t_megapix/playlist.m3u8
+#EXTINF:-1, MULTISHOW
+http://200.194.238.226:5000/live/x16t_multishow_hd/playlist.m3u8
+#EXTINF:-1, NATIONAL GEOGRAPHIC
+http://200.194.238.226:5000/live/x16t_natgeo_hd/playlist.m3u8
+#EXTINF:-1, NICK JR.
+http://200.194.238.226:5000/live/x16t_nickjr/playlist.m3u8
+#EXTINF:-1, PARAMOUNT CHANNEL
+http://200.194.238.226:5000/live/x16t_paramount_hd/playlist.m3u8
+#EXTINF:-1, RECORD SC
+http://200.194.238.226:5000/live/x16t_ric_hd/playlist.m3u8
+#EXTINF:-1, REDE TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:-1, SBT HD
+http://185.109.161.15:8081/loadbalance/sbt978.stream/playlist.m3u8
+#EXTINF:-1, SBT MA
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
+#EXTINF:-1, SBT PB
+http://70.38.71.93:1935/tvtambau/tvtambau/live.m3u8
+#EXTINF:-1, SBT PE
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-web.sdp/live.m3u8
+#EXTINF:-1, SBT PI
+http://192.99.46.182:1935/pioneira-tv/pioneira-tv/live.m3u8
+#EXTINF:-1, SBT SC
+http://200.194.238.226:5000/live/x16t_sbt_hd/playlist.m3u8
+#EXTINF:-1, SBT SP
+http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
+#EXTINF:-1, SPACE
+http://200.194.238.226:5000/live/x16t_space_hd/playlist.m3u8
+#EXTINF:-1, SPORTV
+http://200.194.238.226:5000/live/x16t_sportv_hd/playlist.m3u8
+#EXTINF:-1, SPORTV 2
+http://200.194.238.226:5000/live/x16t_sportv_2_hd/playlist.m3u8
+#EXTINF:-1, SYFY
+http://200.194.238.226:5000/live/x16t_syfy/playlist.m3u8
+#EXTINF:-1, TELECINE PIPOCA
+http://200.194.238.226:5000/live/x16t_telecine_pipoca_hd/playlist.m3u8
+#EXTINF:-1, TELECINE PREMIUM
+http://200.194.238.226:5000/live/x16t_telecine_premium_hd/playlist.m3u8
+#EXTINF:-1, TELECINE TOUCH
+http://200.194.238.226:5000/live/x16t_telecine_touch_hd/playlist.m3u8
+#EXTINF:-1, TLC
+http://200.194.238.226:5000/live/x16t_tlc_hd/playlist.m3u8
+#EXTINF:-1, TNT
+http://200.194.238.226:5000/live/x16t_tnt_hd/playlist.m3u8
+#EXTINF:-1, TV ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1, TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1, TV CULTURA
+http://31.204.128.112:8081/live/tvcultura/playlist.m3u8
+#EXTINF:-1, TV ESCOLA
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:-1 UNIVERSAL CHANNEL
+http://200.194.238.226:5000/live/x16t_universal_hd/playlist.m3u8
+#EXTINF:-1, VH1
+http://200.194.238.226:5000/live/x16t_vh1_hd/playlist.m3u8
+#EXTINF:-1, WARNER
+http://200.194.238.226:5000/live/x16t_warner_hd/playlist.m3u8
 
 
-#EXTINF:-1,Brazzers TV Europe
-http://192.168.1.98:8000/pid/d65452873138909a5f9ddcf31b4f746d8eb12ea1/stream.mp4
+#EXTINF:-1 tvg-id="Duarte IPTV" tvg-logo="http://imagenesmlm.s3.amazonaws.com/BlogPosts/multinivel-gratis.jpg", Lista Gratuita
+#EXTSIZE: middle
+#EXTBG: 11609e
+http://0.0.0.0:6666
 
-#EXTINF:-1,Candy
-http://192.168.1.98:8000/pid/3bc119a0acfae80ec76c36a21a1c535c6f642bff/stream.mp4
+#EXTINF:-1 tvg-id="rtp.pt",RTP 1
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="rtp.pt" tvg-logo="",RTP 2
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtp3_01.jpg" ,RTP 3
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="",SIC
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/kigcvtdfc21/74.ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="",TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+#EXTINF:-1,RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+#EXTINF:-1,RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+#EXTINF:-1 ,RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
-#EXTINF:-1,CentoXCento 
-http://192.168.1.98:8000/pid/7b95eea2b97faf6f3b3cbc586e2a2a2b4cb05f1d/stream.mp4
-
-#EXTINF:-1,EroX HD
-http://192.168.1.98:8000/pid/372a5280a2d614dac3ac2ec0701cebea0aea48ee/stream.mp4
-
-
-#EXTINF:-1,EroXXX HD
-http://192.168.1.98:8000/pid/b9511ea6be2739814eb9ac95db82572767b0f367/stream.mp4
-#EXTINF:-1,Exotica TV
-http://192.168.1.98:8000/pid/63367c19e45ddd43763ff526bc718083fbd937da/stream.mp4
-#EXTINF:-1,Nuart TV
-http://192.168.1.98:8000/pid/9c7835c8d610cde667f33735551c111b7280b69a/stream.mp4
-#EXTINF:-1,O-la-la
-http://192.168.1.98:8000/pid/e79f4cf5075952f63581dd89c9a365ed89f06f58/stream.mp4
-#EXTINF:-1,PassionXXX
-http://192.168.1.98:8000/pid/79ef7a58ab389e7989b239947043d97ea9c2a87f/stream.mp4
-
-#EXTINF:-1,Pink O TV
-http://192.168.1.98:8000/pid/a11681b9d95aaf86d230d00aec82e728f1148af3/stream.mp4
-#EXTINF:-1,Playboy TV
-http://192.168.1.98:8000/pid/c9b6ac061b56d7c2cca6bcbc54b08cc7754f9c4d/stream.mp4
-#EXTINF:-1,Redlight HD
-http://192.168.1.98:8000/pid/3bf1a9355957947311d0ebae5f14a846aea92b91/stream.mp4
-#EXTINF:-1,Satisfaction HD
-http://192.168.1.98:8000/pid/d68b63154a3bf03b87da3f54570f9ab42e590259/stream.mp4
-#EXTINF:-1,Sextosenso
-http://192.168.1.98:8000/pid/e63e6fb6c66b1f27217ee9774cf3de41aaeec17b/stream.mp4
-#EXTINF:-1,XXL
-http://192.168.1.98:8000/pid/6fc1b0669bc3b9e02e07c2c85772d31540df5027/stream.mp4
-#EXTINF:-1,XXX
-http://192.168.1.98:8000/pid/bdfd5523a9d54474f5572e209352746794adcb83/stream.mp4
-
-
-
-#EXTINF:-1,Hustler HD
-http://192.168.1.98:8000/pid/7743b17c7365e2f49d03fbbd56d69bbacd15d183/stream.mp4
-#EXTINF:-1,Hustler TV
-http://192.168.1.98:8000/pid/f6ae3ad7f592d5cced0dc095ceb520afde2069c4/stream.mp4
-
-#EXTINF:-1,HOT 1
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/5.ts
-
-#EXTINF:-1,HOT 2
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/6.ts
-
-#EXTINF:-1,HOT 3
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/7.ts
-
-#EXTINF:-1,HOT 4
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/8.ts
-
-#EXTINF:-1,HOT 5
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/9.ts
-
-#EXTINF:-1,HOT 6
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/10.ts
-
-#EXTINF:-1,HOT 7
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/11.ts
-
-#EXTINF:-1,HOT 8
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/12.ts
-
-#EXTINF:-1,HOT 9
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/490.ts
-
-#EXTINF:-1,HOT 10
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/491.ts
-
-#EXTINF:-1,HOT 11
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/492.ts
-
-#EXTINF:-1,HOT 12
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/493.ts
-
-#EXTINF:-1,HOT 13
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/494.ts
-
-#EXTINF:-1,HOT 14
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/495.ts
-
-#EXTINF:-1,HOT 15
-
-http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/496.ts
-
-
-#EXTINF:0,+18 HD REDLIGHT
-
-http://78.30.254.27:8989/udp/239.0.1.27:4000
-
-#EXTINF:0,+18 NU ART
-
-http://78.30.254.27:8989/udp/239.0.1.156:4000
-
-#EXTINF:0,+18 O LA LA
-
-http://78.30.254.27:8989/udp/238.1.6.200:1234
-
-#EXTINF:0,+18 PLAYBOY
-
-http://78.30.254.27:8989/udp/239.0.0.200:4000
-
-#EXTINF:0,+18 Russian Nights
-
-http://78.30.254.27:8989/udp/239.0.0.198:4000
-#EXTINF:-1,Hot Club
-http://iptv.hopto.org:9705/live/Fcb:AlbTvSystems/skyp:dreamserver.drea/883.ts
-#EXTINF:-1,Hustler HD
-http://iptv.hopto.org:9705/live/Fcb:AlbTvSystems/skyp:dreamserver.drea/67.ts
-#EXTINF:-1,Private xxx
-http://iptv.hopto.org:9705/live/Fcb:AlbTvSystems/skyp:dreamserver.drea/741.ts
-#EXTINF:-1,PASSIE XXX
-http://iptv.hopto.org:9705/live/Fcb:AlbTvSystems/skyp:dreamserver.drea/198.ts
-#EXTINF:-1,BRAZERS XXX
-http://iptv.hopto.org:9705/live/Fcb:AlbTvSystems/skyp:dreamserver.drea/144.ts
-#EXTINF:-1,XXX: FRENCH LOVER
-http://iptv.hopto.org:9705/live/Fcb:AlbTvSystems/skyp:dreamserver.drea/859.ts
-#EXTINF:0,HOT X1
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/157.m3u8
-#EXTINF:0,HOT X2
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/158.m3u8
-#EXTINF:0,HOT X3
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/166.m3u8
-#EXTINF:0,HOT X4
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/165.m3u8
-#EXTINF:0,HOT X5
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/164.m3u8
-#EXTINF:0,HOT X6
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/163.m3u8
-#EXTINF:0,HOT X7
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/162.m3u8
-#EXTINF:0,HOT X8
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/161.m3u8
-#EXTINF:0,HOT X9
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/167.m3u8 
-#EXTINF:-1,Hotgir
-http://62.210.88.244:8081/hotgirl/hotgirl/playlist.m3u8
-#EXTINF:-1,Brasileirinhas 
-http://62.210.88.244:8081/brasileirinhas/brasileirinhas/playlist.m3u8
-#EXTINF:-1,Hustler TV
-http://62.210.88.244:8081/hustlertv/hustlertv/playlist.m3u8
-#EXTINF:-1,P LAYBOY
-http://62.210.88.244:8081/pboytv/pboytv/playlist.m3u8
-#EXTINF:-1,S  EXY HOT HD 
-http://62.210.88.244:8081/s exhothd/s exhothd/playlist.m3u8
-#EXTINF:-1,S EXZONE HD 
-http://62.210.88.244:8081/s exzone/s exzone/playlist.m3u8
-#EXTINF:-1,Private
-http://62.210.88.244:8081/private/private/playlist.m3u8
-#EXTINF:-1,pb
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.18:1234
-#EXTINF:-1,Venus
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.26.10:1234
+#EXTINF:-1,RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1,RTP AÇORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1,RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.zaask.pt/_assets/static_pages_logos/sic.jpg" ,SIC Noticias
+http://213.13.26.12:1935/live/sicnoticias/hasbahca.m3u8
+#EXTINF:-1,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
+#EXTINF:-1 , ECONOMICO TV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
