@@ -202,125 +202,168 @@ http://iptvtt.ddns.net:8000/live/salvador/salvador/321.ts
 #EXTINF:-1,XXX: SEX STATION
 http://iptvtt.ddns.net:8000/live/salvador/salvador/326.ts
 
-#EXTINF:-1, ABC NEWS
-http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
-#EXTINF:-1, A&E
-http://200.194.238.226:5000/live/x16t_ae/playlist.m3u8
-#EXTINF:-1, ANIMAL PLANET
-http://200.194.238.226:5000/live/x16t_animal_planet/playlist.m3u8
-#EXTINF:-1, AXN
-http://200.194.238.226:5000/live/x16t_axn_hd/playlist.m3u8
-#EXTINF:-1, BAND SC
-http://200.194.238.226:5000/live/x16t_band/playlist.m3u8
-#EXTINF:-1, BAND SPORTS
-http://200.194.238.226:5000/live/x16t_band_sports_hd/playlist.m3u8
-#EXTINF:-1, CANAL SONY
-http://200.194.238.226:5000/live/x16t_canal_sony_hd/playlist.m3u8
-#EXTINF:-1, CINEMAX
-http://200.194.238.226:5000/live/x16t_cinemax_hd/playlist.m3u8
-#EXTINF:-1, CNBC
-http://origin2.live.web.tv.streamprovider.net:80/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
-#EXTINF:-1, CNN
-http://200.194.238.226:5000/live/x16t_cnn/playlist.m3u8
-#EXTINF:-1, COMEDY CENTRAL
-http://200.194.238.226:5000/live/x16t_comedycentral/playlist.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL
-http://200.194.238.226:5000/live/x16t_discovery_hd/playlist.m3u8
-#EXTINF:-1, DISCOVERY H&H
-http://200.194.238.226:5000/live/x16t_discovery_hh_hd/playlist.m3u8
-#EXTINF:-1, DISCOVERY KIDS
-http://200.194.238.226:5000/live/x16t_discovery_kids_hd/playlist.m3u8
-#EXTINF:-1, DISCOVERY THEATER
-http://200.194.238.226:5000/live/x16t_discovery_theater_hd/playlist.m3u8
-#EXTINF:-1, DISCOVERY WORLD
-http://200.194.238.226:5000/live/x16t_discovery_world_hd/playlist.m3u8
-#EXTINF:-1, DISNEY CHANNEL
-http://200.194.238.226:5000/live/x16t_disney_hd/playlist.m3u8
-#EXTINF:-1 , ESPN
-http://200.194.238.226:5000/live/x16t_espn_hd/playlist.m3u8
-#EXTINF:-1, ESPN+
-http://200.194.238.226:5000/live/x16t_espn_plus_hd/playlist.m3u8
-#EXTINF:-1, ESPORTE INTERATIVO
-http://ei.ss-lisa.eiplus.com.br:80/live/evento1.stream_720p/livestream.m3u8
-#EXTINF:-1, ESPORTE INTERATIVO MAXX
-http://ei.ss-lisa.eiplus.com.br:80/live/evento3.stream_720p/livestream.m3u8
-#EXTINF:-1, ESPORTE INTERATIVO MAXX 2
-http://ei.ss-lisa.eiplus.com.br:80/live/evento2.stream_360p/livestream.m3u8
-#EXTINF:-1, FOX
-http://200.194.238.226:5000/live/x16t_fox/playlist.m3u8
-#EXTINF:-1, FOX SPORTS
-http://200.194.238.226:5000/live/x16t_fox_sports_hd/playlist.m3u8
-#EXTINF:-1, FX
-http://200.194.238.226:5000/live/x16t_fx_hd/playlist.m3u8
-#EXTINF:-1, GLOBO NEWS
-http://200.194.238.226:5000/live/x16t_globonews_hd/playlist.m3u8
-#EXTINF:-1, GLOBO SC
-http://200.194.238.226:5000/live/x16t_rbs/playlist.m3u8
-#EXTINF:-1, HBO
-http://200.194.238.226:5000/live/x16t_hbo_hd/playlist.m3u8
-#EXTINF:-1, HBO 2
-http://200.194.238.226:5000/live/x16t_hbo2_hd/playlist.m3u8
-#EXTINF:-1, HBO FAMILY
-http://200.194.238.226:5000/live/x16t_hbo_family_hd/playlist.m3u8
-#EXTINF:-1, HISTORY
-http://200.194.238.226:5000/live/x16t_the_history_hd/playlist.m3u8
-#EXTINF:-1, MEGAPIX
-http://200.194.238.226:5000/live/x16t_megapix/playlist.m3u8
-#EXTINF:-1, MULTISHOW
-http://200.194.238.226:5000/live/x16t_multishow_hd/playlist.m3u8
-#EXTINF:-1, NATIONAL GEOGRAPHIC
-http://200.194.238.226:5000/live/x16t_natgeo_hd/playlist.m3u8
-#EXTINF:-1, NICK JR.
-http://200.194.238.226:5000/live/x16t_nickjr/playlist.m3u8
-#EXTINF:-1, PARAMOUNT CHANNEL
-http://200.194.238.226:5000/live/x16t_paramount_hd/playlist.m3u8
-#EXTINF:-1, RECORD SC
-http://200.194.238.226:5000/live/x16t_ric_hd/playlist.m3u8
-#EXTINF:-1, REDE TV
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-#EXTINF:-1, SBT HD
-http://185.109.161.15:8081/loadbalance/sbt978.stream/playlist.m3u8
-#EXTINF:-1, SBT MA
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
-#EXTINF:-1, SBT PB
-http://70.38.71.93:1935/tvtambau/tvtambau/live.m3u8
-#EXTINF:-1, SBT PE
-http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-web.sdp/live.m3u8
-#EXTINF:-1, SBT PI
-http://192.99.46.182:1935/pioneira-tv/pioneira-tv/live.m3u8
-#EXTINF:-1, SBT SC
-http://200.194.238.226:5000/live/x16t_sbt_hd/playlist.m3u8
-#EXTINF:-1, SBT SP
-http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
-#EXTINF:-1, SPACE
-http://200.194.238.226:5000/live/x16t_space_hd/playlist.m3u8
-#EXTINF:-1, SPORTV
-http://200.194.238.226:5000/live/x16t_sportv_hd/playlist.m3u8
-#EXTINF:-1, SPORTV 2
-http://200.194.238.226:5000/live/x16t_sportv_2_hd/playlist.m3u8
-#EXTINF:-1, SYFY
-http://200.194.238.226:5000/live/x16t_syfy/playlist.m3u8
-#EXTINF:-1, TELECINE PIPOCA
-http://200.194.238.226:5000/live/x16t_telecine_pipoca_hd/playlist.m3u8
-#EXTINF:-1, TELECINE PREMIUM
-http://200.194.238.226:5000/live/x16t_telecine_premium_hd/playlist.m3u8
-#EXTINF:-1, TELECINE TOUCH
-http://200.194.238.226:5000/live/x16t_telecine_touch_hd/playlist.m3u8
-#EXTINF:-1, TLC
-http://200.194.238.226:5000/live/x16t_tlc_hd/playlist.m3u8
-#EXTINF:-1, TNT
-http://200.194.238.226:5000/live/x16t_tnt_hd/playlist.m3u8
-#EXTINF:-1, TV ALL SPORTS
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1, TV APARECIDA
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-#EXTINF:-1, TV CULTURA
-http://31.204.128.112:8081/live/tvcultura/playlist.m3u8
-#EXTINF:-1, TV ESCOLA
-http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
-#EXTINF:-1 UNIVERSAL CHANNEL
-http://200.194.238.226:5000/live/x16t_universal_hd/playlist.m3u8
-#EXTINF:-1, VH1
-http://200.194.238.226:5000/live/x16t_vh1_hd/playlist.m3u8
-#EXTINF:-1, WARNER
-http://200.194.238.226:5000/live/x16t_warner_hd/playlist.m3u8
+#EXTM3U
+#EXTINF:0,RTP1
+http://iptvtt.ddns.net:8000/live/ismael/ismael/1.ts
+#EXTINF:0,RTP2
+http://iptvtt.ddns.net:8000/live/ismael/ismael/2.ts
+#EXTINF:0,RTP 3
+http://iptvtt.ddns.net:8000/live/ismael/ismael/54.ts
+#EXTINF:0,SIC
+http://iptvtt.ddns.net:8000/live/ismael/ismael/3.ts
+#EXTINF:0,TVI
+http://iptvtt.ddns.net:8000/live/ismael/ismael/4.ts
+#EXTINF:0,TVI 24
+http://iptvtt.ddns.net:8000/live/ismael/ismael/29.ts
+#EXTINF:0,SIC Notícias
+http://iptvtt.ddns.net:8000/live/ismael/ismael/32.ts
+#EXTINF:0,CMTV
+http://iptvtt.ddns.net:8000/live/ismael/ismael/27.ts
+#EXTINF:0,Porto Canal
+http://iptvtt.ddns.net:8000/live/ismael/ismael/36.ts
+#EXTINF:0,TVI Reality - A Quinta
+http://iptvtt.ddns.net:8000/live/ismael/ismael/48.ts
+#EXTINF:0,TVI FICÇAO
+http://iptvtt.ddns.net:8000/live/ismael/ismael/63.ts
+#EXTINF:0,SIC Mulher
+http://iptvtt.ddns.net:8000/live/ismael/ismael/53.ts
+#EXTINF:0,SIC Radical
+http://iptvtt.ddns.net:8000/live/ismael/ismael/76.ts
+#EXTINF:0,Sic Caras
+http://iptvtt.ddns.net:8000/live/ismael/ismael/80.ts
+#EXTINF:0,TV GLOBO
+http://iptvtt.ddns.net:8000/live/ismael/ismael/73.ts
+#EXTINF:0,TV GLOBO PREMIUM
+http://iptvtt.ddns.net:8000/live/ismael/ismael/18.ts
+#EXTINF:0,TV record
+http://iptvtt.ddns.net:8000/live/ismael/ismael/26.ts
+#EXTINF:0,SPORT.TV 1 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/5.ts
+#EXTINF:0,SPORT.TV 1 HQ
+http://iptvtt.ddns.net:8000/live/ismael/ismael/96.ts
+#EXTINF:0,SPORT.TV 2 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/6.ts
+#EXTINF:0,SPORT.TV 3 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/7.ts
+#EXTINF:0,SPORT.TV 4 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/8.ts
+#EXTINF:0,SPORT.TV 5 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/9.ts
+#EXTINF:0,BTV 1 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/10.ts
+#EXTINF:0,BTV 1 HQ
+http://iptvtt.ddns.net:8000/live/ismael/ismael/98.ts
+#EXTINF:0,BTV 2 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/11.ts
+#EXTINF:0,PFC
+http://iptvtt.ddns.net:8000/live/ismael/ismael/95.ts
+#EXTINF:0,EuroSport HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/61.ts
+#EXTINF:0,EuroSport 2
+http://iptvtt.ddns.net:8000/live/ismael/ismael/101.ts
+#EXTINF:0,Eurosport News
+http://iptvtt.ddns.net:8000/live/ismael/ismael/87.ts
+#EXTINF:0,SPORTING TV HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/105.ts
+#EXTINF:0,Sporting TV
+http://iptvtt.ddns.net:8000/live/ismael/ismael/65.ts
+#EXTINF:0,Fuel tv
+http://iptvtt.ddns.net:8000/live/ismael/ismael/62.ts
+#EXTINF:0,A Bola
+http://iptvtt.ddns.net:8000/live/ismael/ismael/37.ts
+#EXTINF:0,TVCINE 1 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/21.ts
+#EXTINF:0,TVCINE 2 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/22.ts
+#EXTINF:0,TVCINE 3 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/23.ts
+#EXTINF:0,TVCINE 4 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/24.ts
+#EXTINF:0,Mov HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/102.ts
+#EXTINF:0,CINEMUNDO HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/64.ts
+#EXTINF:0,TVséries HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/25.ts
+#EXTINF:0,HOLLYWOOD HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/103.ts
+#EXTINF:0,HOLLYWOOD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/40.ts
+#EXTINF:0,FOX MOVE HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/17.ts
+#EXTINF:0,Fox Life
+http://iptvtt.ddns.net:8000/live/ismael/ismael/78.ts
+#EXTINF:0,FOX CRIME HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/50.ts
+#EXTINF:0,Fox HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/33.ts
+#EXTINF:0,SYFY
+http://iptvtt.ddns.net:8000/live/ismael/ismael/46.ts
+#EXTINF:0,Axn HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/38.ts
+#EXTINF:0,AXN WHITE HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/49.ts
+#EXTINF:0,AXN BLACK  HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/100.ts
+#EXTINF:0,FOX Comedy
+http://iptvtt.ddns.net:8000/live/ismael/ismael/84.ts
+#EXTINF:0,TLC
+http://iptvtt.ddns.net:8000/live/ismael/ismael/77.ts
+#EXTINF:0,CBS REALITY
+http://iptvtt.ddns.net:8000/live/ismael/ismael/43.ts
+#EXTINF:0,A&E
+http://iptvtt.ddns.net:8000/live/ismael/ismael/81.ts
+#EXTINF:0,DISCOVERY
+http://iptvtt.ddns.net:8000/live/ismael/ismael/60.ts
+#EXTINF:0,Discovery HD Showcase
+http://iptvtt.ddns.net:8000/live/ismael/ismael/93.ts
+#EXTINF:0,CANAL HISTORIA
+http://iptvtt.ddns.net:8000/live/ismael/ismael/52.ts
+#EXTINF:0,National Geographic HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/85.ts
+#EXTINF:0,Nat Geo Wild
+http://iptvtt.ddns.net:8000/live/ismael/ismael/94.ts
+#EXTINF:0,Odisseia
+http://iptvtt.ddns.net:8000/live/ismael/ismael/31.ts
+#EXTINF:0,TRAVEL CHANNEL
+http://iptvtt.ddns.net:8000/live/ismael/ismael/108.ts
+#EXTINF:0,ETV
+http://iptvtt.ddns.net:8000/live/ismael/ismael/57.ts
+#EXTINF:0,Nickelodeon
+http://iptvtt.ddns.net:8000/live/ismael/ismael/15.ts
+#EXTINF:0,Sic Kids
+http://iptvtt.ddns.net:8000/live/ismael/ismael/83.ts
+#EXTINF:0,DISNEY CHANEL
+http://iptvtt.ddns.net:8000/live/ismael/ismael/58.ts
+#EXTINF:0,Disney Junior
+http://iptvtt.ddns.net:8000/live/ismael/ismael/19.ts
+#EXTINF:0,Cartoon Network PT
+http://iptvtt.ddns.net:8000/live/ismael/ismael/79.ts
+#EXTINF:0,Jim Jam
+http://iptvtt.ddns.net:8000/live/ismael/ismael/104.ts
+#EXTINF:0,CANAL PANDA
+http://iptvtt.ddns.net:8000/live/ismael/ismael/35.ts
+#EXTINF:0,VH1
+http://iptvtt.ddns.net:8000/live/ismael/ismael/69.ts
+#EXTINF:0,Mtv Portugal
+http://iptvtt.ddns.net:8000/live/ismael/ismael/75.ts
+#EXTINF:0,AFRO MUSIC
+http://iptvtt.ddns.net:8000/live/ismael/ismael/28.ts
+#EXTINF:0,CAÇA E PESCA
+http://iptvtt.ddns.net:8000/live/ismael/ismael/66.ts
+#EXTINF:0,TOROS
+http://iptvtt.ddns.net:8000/live/ismael/ismael/59.ts
+#EXTINF:0,24 KITCHEN HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/106.ts
+#EXTINF:0,caçavision
+http://iptvtt.ddns.net:8000/live/ismael/ismael/107.ts
+#EXTINF:0,VENUS
+http://iptvtt.ddns.net:8000/live/ismael/ismael/13.ts
+#EXTINF:0,PLBOYHD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/12.ts
+#EXTINF:0,HOT HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/51.ts
+#EXTINF:0,+18
+http://iptvtt.ddns.net:8000/live/ismael/ismael/91.ts
+#EXTINF:0,+18
+http://iptvtt.ddns.net:8000/live/ismael/ismael/92.ts
