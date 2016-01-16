@@ -201,3 +201,126 @@ http://iptvtt.ddns.net:8000/live/salvador/salvador/320.ts
 http://iptvtt.ddns.net:8000/live/salvador/salvador/321.ts
 #EXTINF:-1,XXX: SEX STATION
 http://iptvtt.ddns.net:8000/live/salvador/salvador/326.ts
+
+#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
+#EXTINF:-1, A&E
+http://200.194.238.226:5000/live/x16t_ae/playlist.m3u8
+#EXTINF:-1, ANIMAL PLANET
+http://200.194.238.226:5000/live/x16t_animal_planet/playlist.m3u8
+#EXTINF:-1, AXN
+http://200.194.238.226:5000/live/x16t_axn_hd/playlist.m3u8
+#EXTINF:-1, BAND SC
+http://200.194.238.226:5000/live/x16t_band/playlist.m3u8
+#EXTINF:-1, BAND SPORTS
+http://200.194.238.226:5000/live/x16t_band_sports_hd/playlist.m3u8
+#EXTINF:-1, CANAL SONY
+http://200.194.238.226:5000/live/x16t_canal_sony_hd/playlist.m3u8
+#EXTINF:-1, CINEMAX
+http://200.194.238.226:5000/live/x16t_cinemax_hd/playlist.m3u8
+#EXTINF:-1, CNBC
+http://origin2.live.web.tv.streamprovider.net:80/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF:-1, CNN
+http://200.194.238.226:5000/live/x16t_cnn/playlist.m3u8
+#EXTINF:-1, COMEDY CENTRAL
+http://200.194.238.226:5000/live/x16t_comedycentral/playlist.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL
+http://200.194.238.226:5000/live/x16t_discovery_hd/playlist.m3u8
+#EXTINF:-1, DISCOVERY H&H
+http://200.194.238.226:5000/live/x16t_discovery_hh_hd/playlist.m3u8
+#EXTINF:-1, DISCOVERY KIDS
+http://200.194.238.226:5000/live/x16t_discovery_kids_hd/playlist.m3u8
+#EXTINF:-1, DISCOVERY THEATER
+http://200.194.238.226:5000/live/x16t_discovery_theater_hd/playlist.m3u8
+#EXTINF:-1, DISCOVERY WORLD
+http://200.194.238.226:5000/live/x16t_discovery_world_hd/playlist.m3u8
+#EXTINF:-1, DISNEY CHANNEL
+http://200.194.238.226:5000/live/x16t_disney_hd/playlist.m3u8
+#EXTINF:-1 , ESPN
+http://200.194.238.226:5000/live/x16t_espn_hd/playlist.m3u8
+#EXTINF:-1, ESPN+
+http://200.194.238.226:5000/live/x16t_espn_plus_hd/playlist.m3u8
+#EXTINF:-1, ESPORTE INTERATIVO
+http://ei.ss-lisa.eiplus.com.br:80/live/evento1.stream_720p/livestream.m3u8
+#EXTINF:-1, ESPORTE INTERATIVO MAXX
+http://ei.ss-lisa.eiplus.com.br:80/live/evento3.stream_720p/livestream.m3u8
+#EXTINF:-1, ESPORTE INTERATIVO MAXX 2
+http://ei.ss-lisa.eiplus.com.br:80/live/evento2.stream_360p/livestream.m3u8
+#EXTINF:-1, FOX
+http://200.194.238.226:5000/live/x16t_fox/playlist.m3u8
+#EXTINF:-1, FOX SPORTS
+http://200.194.238.226:5000/live/x16t_fox_sports_hd/playlist.m3u8
+#EXTINF:-1, FX
+http://200.194.238.226:5000/live/x16t_fx_hd/playlist.m3u8
+#EXTINF:-1, GLOBO NEWS
+http://200.194.238.226:5000/live/x16t_globonews_hd/playlist.m3u8
+#EXTINF:-1, GLOBO SC
+http://200.194.238.226:5000/live/x16t_rbs/playlist.m3u8
+#EXTINF:-1, HBO
+http://200.194.238.226:5000/live/x16t_hbo_hd/playlist.m3u8
+#EXTINF:-1, HBO 2
+http://200.194.238.226:5000/live/x16t_hbo2_hd/playlist.m3u8
+#EXTINF:-1, HBO FAMILY
+http://200.194.238.226:5000/live/x16t_hbo_family_hd/playlist.m3u8
+#EXTINF:-1, HISTORY
+http://200.194.238.226:5000/live/x16t_the_history_hd/playlist.m3u8
+#EXTINF:-1, MEGAPIX
+http://200.194.238.226:5000/live/x16t_megapix/playlist.m3u8
+#EXTINF:-1, MULTISHOW
+http://200.194.238.226:5000/live/x16t_multishow_hd/playlist.m3u8
+#EXTINF:-1, NATIONAL GEOGRAPHIC
+http://200.194.238.226:5000/live/x16t_natgeo_hd/playlist.m3u8
+#EXTINF:-1, NICK JR.
+http://200.194.238.226:5000/live/x16t_nickjr/playlist.m3u8
+#EXTINF:-1, PARAMOUNT CHANNEL
+http://200.194.238.226:5000/live/x16t_paramount_hd/playlist.m3u8
+#EXTINF:-1, RECORD SC
+http://200.194.238.226:5000/live/x16t_ric_hd/playlist.m3u8
+#EXTINF:-1, REDE TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:-1, SBT HD
+http://185.109.161.15:8081/loadbalance/sbt978.stream/playlist.m3u8
+#EXTINF:-1, SBT MA
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
+#EXTINF:-1, SBT PB
+http://70.38.71.93:1935/tvtambau/tvtambau/live.m3u8
+#EXTINF:-1, SBT PE
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-web.sdp/live.m3u8
+#EXTINF:-1, SBT PI
+http://192.99.46.182:1935/pioneira-tv/pioneira-tv/live.m3u8
+#EXTINF:-1, SBT SC
+http://200.194.238.226:5000/live/x16t_sbt_hd/playlist.m3u8
+#EXTINF:-1, SBT SP
+http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
+#EXTINF:-1, SPACE
+http://200.194.238.226:5000/live/x16t_space_hd/playlist.m3u8
+#EXTINF:-1, SPORTV
+http://200.194.238.226:5000/live/x16t_sportv_hd/playlist.m3u8
+#EXTINF:-1, SPORTV 2
+http://200.194.238.226:5000/live/x16t_sportv_2_hd/playlist.m3u8
+#EXTINF:-1, SYFY
+http://200.194.238.226:5000/live/x16t_syfy/playlist.m3u8
+#EXTINF:-1, TELECINE PIPOCA
+http://200.194.238.226:5000/live/x16t_telecine_pipoca_hd/playlist.m3u8
+#EXTINF:-1, TELECINE PREMIUM
+http://200.194.238.226:5000/live/x16t_telecine_premium_hd/playlist.m3u8
+#EXTINF:-1, TELECINE TOUCH
+http://200.194.238.226:5000/live/x16t_telecine_touch_hd/playlist.m3u8
+#EXTINF:-1, TLC
+http://200.194.238.226:5000/live/x16t_tlc_hd/playlist.m3u8
+#EXTINF:-1, TNT
+http://200.194.238.226:5000/live/x16t_tnt_hd/playlist.m3u8
+#EXTINF:-1, TV ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1, TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1, TV CULTURA
+http://31.204.128.112:8081/live/tvcultura/playlist.m3u8
+#EXTINF:-1, TV ESCOLA
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:-1 UNIVERSAL CHANNEL
+http://200.194.238.226:5000/live/x16t_universal_hd/playlist.m3u8
+#EXTINF:-1, VH1
+http://200.194.238.226:5000/live/x16t_vh1_hd/playlist.m3u8
+#EXTINF:-1, WARNER
+http://200.194.238.226:5000/live/x16t_warner_hd/playlist.m3u8
