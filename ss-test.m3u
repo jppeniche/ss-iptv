@@ -188,183 +188,147 @@ http://iptvtt.ddns.net:8000/live/salvador/salvador/107.ts
 #EXTINF:-1,PT: CANÇÃO NOVA
 http://iptvtt.ddns.net:8000/live/salvador/salvador/125.ts
 
-
-#EXTINF:0,RTP1
-http://iptvtt.ddns.net:8000/live/ismael/ismael/1.ts
-#EXTINF:0,RTP2
-http://iptvtt.ddns.net:8000/live/ismael/ismael/2.ts
-#EXTINF:0,RTP 3
-http://iptvtt.ddns.net:8000/live/ismael/ismael/54.ts
-#EXTINF:0,SIC
-http://iptvtt.ddns.net:8000/live/ismael/ismael/3.ts
-#EXTINF:0,TVI
-http://iptvtt.ddns.net:8000/live/ismael/ismael/4.ts
-#EXTINF:0,TVI 24
-http://iptvtt.ddns.net:8000/live/ismael/ismael/29.ts
-#EXTINF:0,SIC Notícias
-http://iptvtt.ddns.net:8000/live/ismael/ismael/32.ts
-#EXTINF:0,CMTV
-http://iptvtt.ddns.net:8000/live/ismael/ismael/27.ts
-#EXTINF:0,Porto Canal
-http://iptvtt.ddns.net:8000/live/ismael/ismael/36.ts
-#EXTINF:0,TVI Reality - A Quinta
-http://iptvtt.ddns.net:8000/live/ismael/ismael/48.ts
-#EXTINF:0,TVI FICÇAO
-http://iptvtt.ddns.net:8000/live/ismael/ismael/63.ts
-#EXTINF:0,SIC Mulher
-http://iptvtt.ddns.net:8000/live/ismael/ismael/53.ts
-#EXTINF:0,SIC Radical
-http://iptvtt.ddns.net:8000/live/ismael/ismael/76.ts
-#EXTINF:0,Sic Caras
-http://iptvtt.ddns.net:8000/live/ismael/ismael/80.ts
-#EXTINF:0,TV GLOBO
-http://iptvtt.ddns.net:8000/live/ismael/ismael/73.ts
-#EXTINF:0,TV GLOBO PREMIUM
-http://iptvtt.ddns.net:8000/live/ismael/ismael/18.ts
-#EXTINF:0,TV record
-http://iptvtt.ddns.net:8000/live/ismael/ismael/26.ts
-#EXTINF:0,SPORT.TV 1 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/5.ts
-#EXTINF:0,SPORT.TV 1 HQ
-http://iptvtt.ddns.net:8000/live/ismael/ismael/96.ts
-#EXTINF:0,SPORT.TV 2 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/6.ts
-#EXTINF:0,SPORT.TV 3 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/7.ts
-#EXTINF:0,SPORT.TV 4 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/8.ts
-#EXTINF:0,SPORT.TV 5 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/9.ts
-#EXTINF:0,BTV 1 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/10.ts
-#EXTINF:0,BTV 1 HQ
-http://iptvtt.ddns.net:8000/live/ismael/ismael/98.ts
-#EXTINF:0,BTV 2 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/11.ts
-#EXTINF:0,PFC
-http://iptvtt.ddns.net:8000/live/ismael/ismael/95.ts
-#EXTINF:0,EuroSport HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/61.ts
-#EXTINF:0,EuroSport 2
-http://iptvtt.ddns.net:8000/live/ismael/ismael/101.ts
-#EXTINF:0,Eurosport News
-http://iptvtt.ddns.net:8000/live/ismael/ismael/87.ts
-#EXTINF:0,SPORTING TV HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/105.ts
-#EXTINF:0,Sporting TV
-http://iptvtt.ddns.net:8000/live/ismael/ismael/65.ts
-#EXTINF:0,Fuel tv
-http://iptvtt.ddns.net:8000/live/ismael/ismael/62.ts
-#EXTINF:0,A Bola
-http://iptvtt.ddns.net:8000/live/ismael/ismael/37.ts
-#EXTINF:0,TVCINE 1 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/21.ts
-#EXTINF:0,TVCINE 2 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/22.ts
-#EXTINF:0,TVCINE 3 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/23.ts
-#EXTINF:0,TVCINE 4 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/24.ts
-#EXTINF:0,Mov HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/102.ts
-#EXTINF:0,CINEMUNDO HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/64.ts
-#EXTINF:0,TVséries HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/25.ts
-#EXTINF:0,HOLLYWOOD HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/103.ts
-#EXTINF:0,HOLLYWOOD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/40.ts
-#EXTINF:0,FOX MOVE HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/17.ts
-#EXTINF:0,Fox Life
-http://iptvtt.ddns.net:8000/live/ismael/ismael/78.ts
-#EXTINF:0,FOX CRIME HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/50.ts
-#EXTINF:0,Fox HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/33.ts
-#EXTINF:0,SYFY
-http://iptvtt.ddns.net:8000/live/ismael/ismael/46.ts
-#EXTINF:0,Axn HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/38.ts
-#EXTINF:0,AXN WHITE HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/49.ts
-#EXTINF:0,AXN BLACK  HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/100.ts
-#EXTINF:0,FOX Comedy
-http://iptvtt.ddns.net:8000/live/ismael/ismael/84.ts
-#EXTINF:0,TLC
-http://iptvtt.ddns.net:8000/live/ismael/ismael/77.ts
-#EXTINF:0,CBS REALITY
-http://iptvtt.ddns.net:8000/live/ismael/ismael/43.ts
-#EXTINF:0,A&E
-http://iptvtt.ddns.net:8000/live/ismael/ismael/81.ts
-#EXTINF:0,DISCOVERY
-http://iptvtt.ddns.net:8000/live/ismael/ismael/60.ts
-#EXTINF:0,Discovery HD Showcase
-http://iptvtt.ddns.net:8000/live/ismael/ismael/93.ts
-#EXTINF:0,CANAL HISTORIA
-http://iptvtt.ddns.net:8000/live/ismael/ismael/52.ts
-#EXTINF:0,National Geographic HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/85.ts
-#EXTINF:0,Nat Geo Wild
-http://iptvtt.ddns.net:8000/live/ismael/ismael/94.ts
-#EXTINF:0,Odisseia
-http://iptvtt.ddns.net:8000/live/ismael/ismael/31.ts
-#EXTINF:0,TRAVEL CHANNEL
-http://iptvtt.ddns.net:8000/live/ismael/ismael/108.ts
-#EXTINF:0,ETV
-http://iptvtt.ddns.net:8000/live/ismael/ismael/57.ts
-#EXTINF:0,Nickelodeon
-http://iptvtt.ddns.net:8000/live/ismael/ismael/15.ts
-#EXTINF:0,Sic Kids
-http://iptvtt.ddns.net:8000/live/ismael/ismael/83.ts
-#EXTINF:0,DISNEY CHANEL
-http://iptvtt.ddns.net:8000/live/ismael/ismael/58.ts
-#EXTINF:0,Disney Junior
-http://iptvtt.ddns.net:8000/live/ismael/ismael/19.ts
-#EXTINF:0,Cartoon Network PT
-http://iptvtt.ddns.net:8000/live/ismael/ismael/79.ts
-#EXTINF:0,Jim Jam
-http://iptvtt.ddns.net:8000/live/ismael/ismael/104.ts
-#EXTINF:0,CANAL PANDA
-http://iptvtt.ddns.net:8000/live/ismael/ismael/35.ts
-#EXTINF:0,VH1
-http://iptvtt.ddns.net:8000/live/ismael/ismael/69.ts
-#EXTINF:0,Mtv Portugal
-http://iptvtt.ddns.net:8000/live/ismael/ismael/75.ts
-#EXTINF:0,AFRO MUSIC
-http://iptvtt.ddns.net:8000/live/ismael/ismael/28.ts
-#EXTINF:0,CAÇA E PESCA
-http://iptvtt.ddns.net:8000/live/ismael/ismael/66.ts
-#EXTINF:0,TOROS
-http://iptvtt.ddns.net:8000/live/ismael/ismael/59.ts
-#EXTINF:0,24 KITCHEN HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/106.ts
-#EXTINF:0,caçavision
-http://iptvtt.ddns.net:8000/live/ismael/ismael/107.ts
-
-
-#EXTINF:-1,PT: Benfica TV 1
-http://startimes.mine.nu:8080/live/startimes/10012016/979.m3u8
-#EXTINF:-1,PT: TVCINE 4
-http://startimes.mine.nu:8080/live/startimes/10012016/714.m3u8
-#EXTINF:-1,PT: TVCINE 2
-http://startimes.mine.nu:8080/live/startimes/10012016/712.m3u8
-#EXTINF:-1,PT: TVCINE 1
-http://startimes.mine.nu:8080/live/startimes/10012016/711.m3u8
-#EXTINF:-1,PT: TV SERIES
-http://startimes.mine.nu:8080/live/startimes/10012016/715.m3u8
-#EXTINF:-1,PT: PORTUGAL SPORT TV4
-http://startimes.mine.nu:8080/live/startimes/10012016/709.m3u8
-#EXTINF:-1,PT: SPORT TV3
-http://startimes.mine.nu:8080/live/startimes/10012016/708.m3u8
-#EXTINF:-1,PT: SPORT TV2 HD
-http://startimes.mine.nu:8080/live/startimes/10012016/707.m3u8
-#EXTINF:-1,PT: SPORT TV1 HD
-http://startimes.mine.nu:8080/live/startimes/10012016/706.m3u8
-#EXTINF:-1,PT: SPORT TV 5
-http://startimes.mine.nu:8080/live/startimes/10012016/710.m3u8
+﻿#EXTM3U
+ 
+#EXTINF:-1 tvg-id="Duarte IPTV" tvg-logo="http://s9.postimg.org/vbkxfrezj/12105705_1501189766870911_6961792465969690998_n.jpg", 17/01 12:50
+#EXTSIZE: middle
+#EXTBG: 11609e
+http://0.0.0.0:6666
+ 
+#EXTINF:-1 tvg-id="Duarte IPTV" tvg-logo="http://www.fastandyou.com/uploads/2/3/6/2/23620028/s782333958681989678_p5_i1_w400.jpeg", Premium ON
+#EXTSIZE: middle
+#EXTBG: 11609e
+http://0.0.0.0:6666
+ 
+#EXTINF:-1,SPORTTV 1 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/101.ts
+#EXTINF:-1,SPORT.TV 1
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/102.ts
+#EXTINF:-1,SPORT.TV 2 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/415.ts
+#EXTINF:-1,SPORT.TV.2
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/103.ts
+#EXTINF:-1,SPORTTV 3 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/105.ts
+#EXTINF:-1,SPORT.TV.3
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/104.ts
+#EXTINF:-1,Sport.TV4 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/107.ts
+#EXTINF:-1,SPORT.TV.4
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/106.ts
+#EXTINF:-1,Sport.TV5 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/108.ts
+#EXTINF:-1,SPORT.TV.5
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/418.ts
+#EXTINF:-1,Benfica TV  HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/112.ts
+#EXTINF:-1,Benfica TV 1
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/113.ts
+#EXTINF:-1,Benfica TV 2
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/111.ts
+#EXTINF:-1,TVCINE 1
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/89.ts
+#EXTINF:-1,TVCine 1 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/422.ts
+#EXTINF:-1,TVCINE 2
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/90.ts
+#EXTINF:-1,TVCine 2 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/423.ts
+#EXTINF:-1,TVCINE 3
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/91.ts
+#EXTINF:-1,TVCine 3 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/424.ts
+#EXTINF:-1,TVCINE 4
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/92.ts
+#EXTINF:-1,TVCine 4 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/425.ts
+#EXTINF:-1,TVC SERIES
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/426.ts
+#EXTINF:-1,SYFY HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/93.ts
+#EXTINF:-1,AXN White
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/429.ts
+#EXTINF:-1,Fox Crime
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/99.ts
+#EXTINF:-1,SIC K
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/121.ts
+#EXTINF:-1,PANDA BIGGS
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/123.ts
+#EXTINF:-1,Canal Panda
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/120.ts
+#EXTINF:-1,Disney Junior
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/119.ts
+#EXTINF:-1,Nickelodeon
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/122.ts
+#EXTINF:-1,Globo
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/433.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/134.ts
+#EXTINF:-1,SKY SPORT 2HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/219.ts
+#EXTINF:-1,SKY SPORT 1 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/220.ts
+#EXTINF:-1,Sky Family
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/234.ts
+#EXTINF:-1,Sky Disney XD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/235.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/726.ts
+#EXTINF:-1,SKY SPORTS 3 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/833.ts
+#EXTINF:-1,Sky Sports 24 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/701.ts
+#EXTINF:-1,SKY SPORTS 2 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/834.ts
+#EXTINF:-1,SKY SPORT PLUS HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/727.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/702.ts
+#EXTINF:-1, Fox HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/772.ts
+#EXTINF:-1, Fox Crime HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/773.ts
+#EXTINF:-1,Fox Comedy HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/774.ts
+#EXTINF:-1,Fox Animation HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/k54523dsfdfc21/775.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="Duarte IPTV" tvg-logo="http://imagenesmlm.s3.amazonaws.com/BlogPosts/multinivel-gratis.jpg", Lista Gratuita
+#EXTSIZE: middle
+#EXTBG: 11609e
+http://0.0.0.0:6666
+ 
+#EXTINF:-1 tvg-id="rtp.pt",RTP 1
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="rtp.pt" tvg-logo="",RTP 2
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtp3_01.jpg" ,RTP 3
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="",SIC
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/kigcvtdfc21/74.ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="",TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+#EXTINF:-1,RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+#EXTINF:-1,RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+#EXTINF:-1 ,RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+ 
+#EXTINF:-1,RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1,RTP AÇORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1,RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.zaask.pt/_assets/static_pages_logos/sic.jpg" ,SIC Noticias
+http://213.13.26.12:1935/live/sicnoticias/hasbahca.m3u8
+#EXTINF:-1,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
+#EXTINF:-1 , ECONOMICO TV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
 #EXTINF:-1,PT: PLAYBOY HD
 http://iptvtt.ddns.net:8000/live/salvador/salvador/12.ts
