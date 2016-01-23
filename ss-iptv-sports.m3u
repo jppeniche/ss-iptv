@@ -2,54 +2,22 @@
 
 
 #EXTINF:-1 group-title="Sport TV",Sport TV 1
-http://192.168.1.97:8000/pid/c39db61fd585ebfa446983d0af9d9d637df9678c/stream.mp4
+http://192.168.1.97:8000/pid/359a65b9d81e5bf1eaaa8467fd888e08152dc5be/stream.mp4
 #EXTINF:-1 group-title="Sport TV",Sport TV 2
-http://192.168.1.97:8000/pid/a3776be8c08f52b3366c83fff09609721e28cd69/stream.mp4
+http://192.168.1.97:8000/pid/14468e2d369fabdff33d5c546e9585ec52af815f/stream.mp4
 #EXTINF:-1 group-title="Sport TV",Sport TV 3
-http://192.168.1.97:8000/pid/9cc147cb9e58eb6db7c3445e50a24e62d22be9f1/stream.mp4
+http://192.168.1.97:8000/pid/7a80e5b44f50faa3c802e8da53ac7a22be0171be/stream.mp4
 #EXTINF:-1 group-title="Sport TV",Sport TV 4
-http://192.168.1.97:8000/pid/4f256982b213a8b3346b01683b82261db8dcd524/stream.mp4
+http://192.168.1.97:8000/pid/ad5b5478899b693238d8b96238f86d715737c230/stream.mp4
 
 #EXTINF:-1 group-title="Sport TV",Sport TV 5
-http://192.168.1.97:8000/pid/e4bb9e8c9d080a418047686bd7891f545bc777d4/stream.mp4
+http://192.168.1.97:8000/pid/592445fe3244632cb50e4eb0dc66e3f61c3f3a6b/stream.mp4
 
 #EXTINF:-1 group-title="Sport TV",BTV 1
-http://192.168.1.97:8000/pid/5d56b45fa2bbdeea98669c48848d01347f95e00f/stream.mp4
-
-#EXTINF:-1 group-title="Sport TV",Sport TV 1 HD
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1 group-title="Sport TV",Sport TV 2 HD
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
-#EXTINF:-1 group-title="Sport TV",Sport TV 3 HD
-http://31.204.128.112:8081/live/portugal3/playlist.m3u8
-#EXTINF:-1 group-title="Sport TV",Sport TV 4 HD
-http://31.204.128.112:8081/live/portugal4/playlist.m3u8
-#EXTINF:-1 group-title="Sport TV",Sport TV 5 HD
-http://31.204.128.112:8081/live/portugal5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="sporttv3.png" group-title=“Sport TV", SPORT TV 3 HD
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title="Sport TV",SPORT TV AMÉRICAS HD
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-
-#EXTINF:-1 group-title="Bein Sports",Bein Sports 1 HD 
-http://192.168.1.97:8000/pid/6aee464bcf506d9b72e57e13acead0ba1ef74cfd/stream.mp4
-#EXTINF:-1 group-title="Bein Sports",Bein Sports 2 HD 
-http://192.168.1.97:8000/pid/a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995/stream.mp4
-
-#EXTINF:-1,Motors TV
-http://192.168.1.97:8000/pid/84c27a15472ee950e0567667dfd270cc81b01498/stream.mp4
-
-#EXTINF:-1 group-title="Bein Sports",Movistar F1
-http://192.168.1.97:8000/pid/98b327d19a16be09070212124826e9209cb97540/stream.mp4
-#EXTINF:-1 group-title="Bein Sports",Movistar MotoGP
-http://192.168.1.97:8000/pid/ed9387ebbf6caac72e04e7b66880fd4b69999069/stream.mp4
-#EXTINF:-1 group-title="Bein Sports",Sky Sports F1
-http://192.168.1.97:8000/pid/02c14347959f78d8bf18f898c56f429ab5a44c7b/stream.mp4
-
-#EXTINF:-1,BTV 1
 http://192.168.1.97:8000/pid/4e0b64e76d0463e96cefa68bdec74674d9c6f721/stream.mp4
+#EXTINF:-1 group-title="Sport TV",BTV 2
+http://192.168.1.97:8000/pid/b65b8012d9cabc96b74013fb2f2ba9ead3e0b262/stream.mp4
+
 
 #EXTINF:-1 group-title="Eurosport",EUROSPORT
 http://192.168.1.97:8000/pid/ca89ed764a7767ae71e937e78d284c5577d8ee5b/stream.mp4
