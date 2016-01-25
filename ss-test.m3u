@@ -1,337 +1,313 @@
-#EXTM3U
-#EXTINF:-1,PT: RTP 1
-http://iptvtt.ddns.net:8000/live/salvador/salvador/1.ts
-#EXTINF:-1,PT: RTP 2
-http://iptvtt.ddns.net:8000/live/salvador/salvador/2.ts
-#EXTINF:-1,PT: RTP 3
-http://iptvtt.ddns.net:8000/live/salvador/salvador/54.ts
-#EXTINF:-1,PT: SIC
-http://iptvtt.ddns.net:8000/live/salvador/salvador/3.ts
-#EXTINF:-1,PT: TVI
-http://iptvtt.ddns.net:8000/live/salvador/salvador/4.ts
-#EXTINF:-1,PT: TVI 24
-http://iptvtt.ddns.net:8000/live/salvador/salvador/29.ts
-#EXTINF:-1,PT: SIC NOTÍCIAS
-http://iptvtt.ddns.net:8000/live/salvador/salvador/32.ts
-#EXTINF:-1,PT: CMTV
-http://iptvtt.ddns.net:8000/live/salvador/salvador/27.ts
-#EXTINF:-1,PT: PORTO CANAL
-http://iptvtt.ddns.net:8000/live/salvador/salvador/36.ts
-#EXTINF:-1,PT: TVI REALITY
-http://iptvtt.ddns.net:8000/live/salvador/salvador/48.ts
-#EXTINF:-1,PT: CÂMARA REALITY
-http://iptvtt.ddns.net:8000/live/salvador/salvador/120.ts
-#EXTINF:-1,PT: TVI FICÇÃO
-http://iptvtt.ddns.net:8000/live/salvador/salvador/63.ts
-#EXTINF:-1,PT: SIC MULHER
-http://iptvtt.ddns.net:8000/live/salvador/salvador/53.ts
-#EXTINF:-1,PT: SIC RADICAL
-http://iptvtt.ddns.net:8000/live/salvador/salvador/76.ts
-#EXTINF:-1,PT: SIC CARAS
-http://iptvtt.ddns.net:8000/live/salvador/salvador/80.ts
-#EXTINF:-1,PT: RTP MEMÓRIA
-http://iptvtt.ddns.net:8000/live/salvador/salvador/109.ts
-#EXTINF:-1,PT: RTP MADEIRA
-http://iptvtt.ddns.net:8000/live/salvador/salvador/111.ts
-#EXTINF:-1,PT: RTP ÁFRICA
-http://iptvtt.ddns.net:8000/live/salvador/salvador/110.ts
-#EXTINF:-1,PT: RTP AÇORES
-http://iptvtt.ddns.net:8000/live/salvador/salvador/112.ts
-#EXTINF:-1,PT: RTP INTERNACIONAL
-http://iptvtt.ddns.net:8000/live/salvador/salvador/121.ts
-#EXTINF:-1,PT: TV GLOBO
-http://iptvtt.ddns.net:8000/live/salvador/salvador/73.ts
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-http://iptvtt.ddns.net:8000/live/salvador/salvador/18.ts
-#EXTINF:-1,PT: TV RECORD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/26.ts
-#EXTINF:-1,PT: SPORT.TV 1 HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/5.ts
-#EXTINF:-1,PT: SPORT.TV 1 HQ
-http://iptvtt.ddns.net:8000/live/salvador/salvador/96.ts
-#EXTINF:-1,PT: SPORT.TV 1 HD (teste)
-http://iptvtt.ddns.net:8000/live/salvador/salvador/455.ts
-#EXTINF:-1,PT: SPORT.TV 2 HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/6.ts
-#EXTINF:-1,PT: SPORT.TV 3 HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/7.ts
-#EXTINF:-1,PT: SPORT.TV 4 HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/8.ts
-#EXTINF:-1,PT: SPORT.TV 5 HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/9.ts
-#EXTINF:-1,PT: BTV 1 HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/10.ts
-#EXTINF:-1,PT: BTV 1 HQ
-http://iptvtt.ddns.net:8000/live/salvador/salvador/98.ts
-#EXTINF:-1,PT: BTV 2 HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/11.ts
-#EXTINF:-1,PT: PFC
-http://iptvtt.ddns.net:8000/live/salvador/salvador/95.ts
-#EXTINF:-1,PT: EUROSPORT HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/61.ts
-#EXTINF:-1,PT: EUROSPORT 2
-http://iptvtt.ddns.net:8000/live/salvador/salvador/101.ts
-#EXTINF:-1,PT: EUROSPORT NEWS
-http://iptvtt.ddns.net:8000/live/salvador/salvador/87.ts
-#EXTINF:-1,PT: SPORTING TV HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/105.ts
-#EXTINF:-1,PT: SPORTING TV
-http://iptvtt.ddns.net:8000/live/salvador/salvador/65.ts
-#EXTINF:-1,PT: MOTORVISION
-http://iptvtt.ddns.net:8000/live/salvador/salvador/124.ts
-#EXTINF:-1,PT: REAL MADRID
-http://iptvtt.ddns.net:8000/live/salvador/salvador/123.ts
-#EXTINF:-1,PT: CHELSEA TV
-http://iptvtt.ddns.net:8000/live/salvador/salvador/113.ts
-#EXTINF:-1,PT: FUEL TV
-http://iptvtt.ddns.net:8000/live/salvador/salvador/62.ts
-#EXTINF:-1,PT: A BOLA
-http://iptvtt.ddns.net:8000/live/salvador/salvador/37.ts
-#EXTINF:-1,PT: TVCINE 1 HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/21.ts
-#EXTINF:-1,PT: TVCINE 2 HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/22.ts
-#EXTINF:-1,PT: TVCINE 3 HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/23.ts
-#EXTINF:-1,PT: TVCINE 4 HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/24.ts
-#EXTINF:-1,PT: MOV HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/102.ts
-#EXTINF:-1,PT: CINEMUNDO HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/64.ts
-#EXTINF:-1,PT: TVSÉRIES HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/25.ts
-#EXTINF:-1,PT: HOLLYWOOD HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/103.ts
-#EXTINF:-1,PT: HOLLYWOOD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/40.ts
-#EXTINF:-1,PT: FOX MOVIES HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/17.ts
-#EXTINF:-1,PT: AMC
-http://iptvtt.ddns.net:8000/live/salvador/salvador/115.ts
-#EXTINF:-1,PT: FOX LIFE
-http://iptvtt.ddns.net:8000/live/salvador/salvador/78.ts
-#EXTINF:-1,PT: FOX CRIME HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/50.ts
-#EXTINF:-1,PT: FOX HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/33.ts
-#EXTINF:-1,PT: SYFY
-http://iptvtt.ddns.net:8000/live/salvador/salvador/46.ts
-#EXTINF:-1,PT: AXN HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/38.ts
-#EXTINF:-1,PT: AXN WHITE HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/49.ts
-#EXTINF:-1,PT: AXN BLACK HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/100.ts
-#EXTINF:-1,PT: FOX COMEDY
-http://iptvtt.ddns.net:8000/live/salvador/salvador/84.ts
-#EXTINF:-1,PT: TLC
-http://iptvtt.ddns.net:8000/live/salvador/salvador/77.ts
-#EXTINF:-1,PT: CBS REALITY
-http://iptvtt.ddns.net:8000/live/salvador/salvador/43.ts
-#EXTINF:-1,PT: A&E
-http://iptvtt.ddns.net:8000/live/salvador/salvador/81.ts
-#EXTINF:-1,PT: DISCOVERY
-http://iptvtt.ddns.net:8000/live/salvador/salvador/60.ts
-#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
-http://iptvtt.ddns.net:8000/live/salvador/salvador/93.ts
-#EXTINF:-1,PT: CANAL HISTÓRIA
-http://iptvtt.ddns.net:8000/live/salvador/salvador/52.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/85.ts
-#EXTINF:-1,PT: NAT GEO WILD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/94.ts
-#EXTINF:-1,PT: ODISSEIA
-http://iptvtt.ddns.net:8000/live/salvador/salvador/31.ts
-#EXTINF:-1,PT: TRAVEL CHANNEL
-http://iptvtt.ddns.net:8000/live/salvador/salvador/108.ts
-#EXTINF:-1,PT: WOOHOO
-http://iptvtt.ddns.net:8000/live/salvador/salvador/116.ts
-#EXTINF:-1,PT: E! ENTERTAINMENT
-http://iptvtt.ddns.net:8000/live/salvador/salvador/57.ts
-#EXTINF:-1,PT: NICKELODEON
-http://iptvtt.ddns.net:8000/live/salvador/salvador/15.ts
-#EXTINF:-1,PT: BIGGS
-http://iptvtt.ddns.net:8000/live/salvador/salvador/118.ts
-#EXTINF:-1,PT: SIC KIDS
-http://iptvtt.ddns.net:8000/live/salvador/salvador/83.ts
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://iptvtt.ddns.net:8000/live/salvador/salvador/58.ts
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://iptvtt.ddns.net:8000/live/salvador/salvador/19.ts
-#EXTINF:-1,PT: CARTOON NETWORK
-http://iptvtt.ddns.net:8000/live/salvador/salvador/79.ts
-#EXTINF:-1,PT: BABY TV
-http://iptvtt.ddns.net:8000/live/salvador/salvador/114.ts
-#EXTINF:-1,PT: JIMJAM
-http://iptvtt.ddns.net:8000/live/salvador/salvador/104.ts
-#EXTINF:-1,PT: CANAL PANDA
-http://iptvtt.ddns.net:8000/live/salvador/salvador/35.ts
-#EXTINF:-1,PT: VH1
-http://iptvtt.ddns.net:8000/live/salvador/salvador/69.ts
-#EXTINF:-1,PT: C-MUSIC
-http://iptvtt.ddns.net:8000/live/salvador/salvador/117.ts
-#EXTINF:-1,PT: MTV PORTUGAL
-http://iptvtt.ddns.net:8000/live/salvador/salvador/75.ts
-#EXTINF:-1,PT: AFRO MUSIC
-http://iptvtt.ddns.net:8000/live/salvador/salvador/28.ts
-#EXTINF:-1,PT: CAÇA E PESCA
-http://iptvtt.ddns.net:8000/live/salvador/salvador/66.ts
-#EXTINF:-1,PT: TOROS
-http://iptvtt.ddns.net:8000/live/salvador/salvador/59.ts
-#EXTINF:-1,PT: FOOD NETWORK HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/122.ts
-#EXTINF:-1,PT: 24 KITCHEN HD
-http://iptvtt.ddns.net:8000/live/salvador/salvador/106.ts
-#EXTINF:-1,PT: CAÇAVISION
-http://iptvtt.ddns.net:8000/live/salvador/salvador/107.ts
-#EXTINF:-1,PT: CANÇÃO NOVA
-http://iptvtt.ddns.net:8000/live/salvador/salvador/125.ts
- 
-#EXTINF:-1 tvg-id="Duarte IPTV" tvg-logo="http://s9.postimg.org/vbkxfrezj/12105705_1501189766870911_6961792465969690998_n.jpg", 25/01 11:05
-#EXTSIZE: middle
-#EXTBG: 11609e
-http://0.0.0.0:6666
- 
-#EXTINF:-1 tvg-logo="http://aprenderbrincando.no.sapo.pt/images/b_portugal.gif",CANAIS ON
-#EXTSIZE: middle
-#EXTBG: 11609e
-http://0.0.0.0:6666
-
-
-
-#EXTINF:-1, WWE
-https://origin01-lax.streamup.com/app/zonax1azs-channel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NQpxt8FzNkc/hqdefault.jpg",Red Bull TV
-http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:-1,PFC
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/980.m3u8
-#EXTINF:-1,Benfica TV HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/112.m3u8
-#EXTINF:-1,SPORTTV 1 HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/101.m3u8
-#EXTINF:-1,SPORT.TV 1
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/102.m3u8
-#EXTINF:-1,SPORT.TV 2
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/103.m3u8
-#EXTINF:-1,TVCINE 4
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/92.m3u8
-#EXTINF:-1,TVCINE 3
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/91.m3u8
-#EXTINF:-1,TVCINE 2
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/90.m3u8
-#EXTINF:-1,TVCINE 1
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/89.m3u8
-#EXTINF:-1,Premium Calcio 7
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/289.m3u8
-#EXTINF:-1,Premium Calcio 6
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/290.m3u8
-#EXTINF:-1,Premium Calcio 5
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/291.m3u8
-#EXTINF:-1,Premium Calcio 4
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/292.m3u8
-#EXTINF:-1,Premium Calcio 3
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/293.m3u8
-#EXTINF:-1,Premium Calcio 2 HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/294.m3u8
-#EXTINF:-1,Premium Calcio 1 HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/295.m3u8
-#EXTINF:-1,Premium Calcio
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/296.m3u8
-#EXTINF:-1,PANDA BIGGS
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/123.m3u8
-#EXTINF:-1,MCM POP
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/1305.m3u8
-#EXTINF:-1,GB: Sky Sport F1 HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/215.m3u8
-#EXTINF:-1,GB: SKY SPORT 5 HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/216.m3u8
-#EXTINF:-1,GB: Sky Sport 4 HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/217.m3u8
-#EXTINF:-1,GB: Sky Sport 3 HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/218.m3u8
-#EXTINF:-1,GB: SKY SPORT 2HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/219.m3u8
-#EXTINF:-1,GB: SKY SPORT 1 HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/220.m3u8
-#EXTINF:-1,GB: Sky Sport 1
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/221.m3u8
-#EXTINF:-1,GB: BT SPORT 2 HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/413.m3u8
-#EXTINF:-1,GB: BT SPORT 1 HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/414.m3u8
-#EXTINF:-1,FOX HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/98.m3u8
-#EXTINF:-1,AXN HD
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/999.m3u8
-#EXTINF:-1,A BOLA
-http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/1002.m3u8
-
-
-
-
-
- 
-
- 
- 
-#EXTINF:-1 tvg-id="Duarte IPTV" tvg-logo="http://cdn2.hubspot.net/hub/211194/file-20073341-jpeg/images/free_2.jpeg", Canais Livres
-#EXTSIZE: middle
-#EXTBG: 11609e
-http://0.0.0.0:6666
- 
-#EXTINF:-1 tvg-id="rtp.pt",RTP 1
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="rtp.pt" tvg-logo="",RTP 2
-http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtp3_01.jpg" ,RTP 3
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="",SIC
-http://213.13.26.11:1935/live/sic/hasbahca.m3u8
-#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="",TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-#EXTINF:-1,RTP INTERNACIONAL
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
-#EXTINF:-1,RTP MEMÓRIA
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
-#EXTINF:-1 ,RTP ÁFRICA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1,RTP MADEIRA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1,RTP AÇORES
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1,RTP ÁFRICA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.zaask.pt/_assets/static_pages_logos/sic.jpg" ,SIC Noticias
-http://213.13.26.12:1935/live/sicnoticias/hasbahca.m3u8
+#EXTINF:-1,==Portugal==
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12017.ts
+#EXTINF:-1,RTP 1 SD/HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12051.ts
+#EXTINF:-1,RTP 1
+http://www.t12v.com:8000/live/francy/francy/1119.ts
+#EXTINF:-1,RTP 2
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12050.ts
+#EXTINF:-1,RTP 3
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12049.ts
+#EXTINF:-1,RTP Acores
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12048.ts,
+#EXTINF:-1,RTP África
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12047.ts
+#EXTINF:-1,RTP Madeira
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12046.ts
+#EXTINF:-1,RTP Memoria
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12045.ts
+#EXTINF:-1,SIC
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12044.ts
+#EXTINF:-1,SIC Kids
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12043.ts
+#EXTINF:-1,SIC Noticias
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12042.ts
+#EXTINF:-1,TVI
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12023.ts
 #EXTINF:-1,TVI 24
-http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
-#EXTINF:-1 , ECONOMICO TV
-http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.zaask.pt/_assets/static_pages_logos/sic.jpg" ,SIC Noticias
-http://213.13.26.12:1935/live/sicnoticias/hasbahca.m3u8
-#EXTINF:-1 tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png",Sport Tv Americas
-http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/e/e6/FootballTV_logo.png",Telekanal
-http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" ,MIMUSICA
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1,HEART TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,ONE 1
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-logo="http://www.digihost360.co.uk/ch/images/channels/Vevo.png",VEVO TV 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-#EXTINF:-1 tvg-logo="http://www.digihost360.co.uk/ch/images/channels/Vevo.png",VEVO TV 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
-#EXTINF:-1 tvg-logo="http://www.digihost360.co.uk/ch/images/channels/Vevo.png",VEVO TV 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
-#EXTINF:-1,Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
-#EXTINF:-1,laSexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
-#EXTINF:-1, MEXICO TRAVEL
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/chunklist_b750000.m3u8
-#EXTINF:-1, GRAN HERMANO
-http://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12022.ts
+#EXTINF:-1,Tvi ficcao
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12021.ts
+#EXTINF:-1,Plus TVI
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12054.ts
+#EXTINF:-1,CMTV
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12075.ts
+#EXTINF:-1,TV Globo Premium
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12030.ts
+#EXTINF:-1,TV Record
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12029.ts
+#EXTINF:-1,TV Globo
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12031.ts
+#EXTINF:-1,TPA
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12032.ts
+
+
+#EXTINF:-1,SportTV 1 HD/SD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12039.ts
+#EXTINF:-1,SportTV 2 HD/SD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12038.ts
+#EXTINF:-1,SportTV 3
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12037.ts
+#EXTINF:-1,SportTV 4 HD/SD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12036.ts
+#EXTINF:-1,SportTV 5
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12035.ts
+#EXTINF:-1,SPORT TV AMERICA
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12041.ts
+
+
+#EXTINF:-1,Sporting TV HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12040.ts
+#EXTINF:-1,BTV 1 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12083.ts
+#EXTINF:-1,Benfica TV 1 Full HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12085.ts
+#EXTINF:-1,Benfica TV 2 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12084.ts
+#EXTINF:-1,Porto Canal
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12053.ts
+#EXTINF:-1,Real Madrid TV HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12052.ts
+#EXTINF:-1,PFC HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12055.ts
+#EXTINF:-1,EuroSport 1 HD/SD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12069.ts
+#EXTINF:-1,Abola TV
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12090.ts
+#EXTINF:-1,Motors TV
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12062.ts
+#EXTINF:-1,Toros TV
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12033.ts
+
+
+
+
+
+#EXTINF:-1,Panda Biggs
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12056.ts
+#EXTINF:-1,Niclelodeon
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12058.ts
+#EXTINF:-1,Disney Junior
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12072.ts
+#EXTINF:-1,Disney Channel
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12073.ts
+#EXTINF:-1,Cartoon NetWork
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12078.ts
+#EXTINF:-1,CANAL PANDA
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12080.ts
+
+#EXTINF:-1,AXN HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12087.ts
+#EXTINF:-1,AXN WHITE HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12086.ts
+#EXTINF:-1,AXN Black HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12088.ts
+
+#EXTINF:-1,Fox Life HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12066.ts
+#EXTINF:-1,Fox HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12067.ts
+#EXTINF:-1,FOX Crime HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12068.ts
+
+
+#EXTINF:-1,Sy-Fy
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12034.ts
+
+#EXTINF:-1,Nat Geographic Channel
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12059.ts
+#EXTINF:-1,Nat Geo Wild
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12060.ts
+#EXTINF:-1,Odisseia
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12057.ts
+#EXTINF:-1,Discovery HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12074.ts
+#EXTINF:-1,CBS Reality
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12077.ts
+#EXTINF:-1,Canal Historia HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12081.ts
+#EXTINF:-1,Caca & Pesca
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12082.ts
+#EXTINF:-1,A&E
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12091.ts
+#EXTINF:-1,24 Kitchen
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12092.ts
+
+#EXTINF:-1,TVCine 1 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12027.ts
+#EXTINF:-1,TVCine 2 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12026.ts
+#EXTINF:-1,TVCine 3 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12025.ts
+#EXTINF:-1,TVCine 4 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12024.ts
+
+#EXTINF:-1,TV Series SD/HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12028.ts
+#EXTINF:-1,MOV HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12061.ts
+#EXTINF:-1,HollyWood SD/HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12063.ts
+#EXTINF:-1,FOX Movies
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12065.ts
+#EXTINF:-1,FX
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12064.ts
+#EXTINF:-1,CineMundo
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12076.ts
+
+
+#EXTINF:-1,Economico TV
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12070.ts
+#EXTINF:-1,E! Entertaunment
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12071.ts
+
+
+#EXTINF:-1,VeVo 1 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12020.ts
+#EXTINF:-1,VeVo 2 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12019.ts
+#EXTINF:-1,VeVo 3 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12018.ts
+#EXTINF:-1,AFRO MUSIC HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/12089.ts
+
+#EXTINF:-1,==França==
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/3640.ts
+#EXTINF:-1,Eurosport 1 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/7356.ts
+#EXTINF:-1,Eurosport 2 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/7357.ts
+#EXTINF:-1,Beinsport 1
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/7353.ts
+#EXTINF:-1,Beinsport 2
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/7354.ts
+#EXTINF:-1,Beinsport 3
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/7355.ts
+#EXTINF:-1,Canal  Sport
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/7360.ts
+#EXTINF:-1,Canal  Serie
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/7380.ts
+#EXTINF:-1,Cine  Fil
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/7378.ts
+#EXTINF:-1,Cine  Classic
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/7379.ts
+
+#EXTINF:-1,==Inglaterra==
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/4134.ts
+#EXTINF:-1,Sky News
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8025.ts
+#EXTINF:-1,Sky Sports News HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8036.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8013.ts
+#EXTINF:-1,Sky Sport F1
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8014.ts
+#EXTINF:-1,Sky Sport 1
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8024.ts
+#EXTINF:-1,Sky Sport 2
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8022.ts
+#EXTINF:-1,Sky Sport 3
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8020.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8019.ts
+#EXTINF:-1,Sky Sport 4
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8018.ts
+#EXTINF:-1,Sky Sport 4 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8017.ts
+#EXTINF:-1,Sky Sport 5
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8016.ts
+#EXTINF:-1,SKY SPORT 5 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8015.ts
+#EXTINF:-1,Setanta Sport
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8026.ts
+#EXTINF:-1,Racing
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8027.ts
+#EXTINF:-1,Premiere Sport
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8028.ts
+#EXTINF:-1,ITV 1
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8008.ts
+#EXTINF:-1,ITV 2
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8009.ts
+#EXTINF:-1,ITV 3
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8010.ts
+#EXTINF:-1,ITV 4
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8011.ts
+#EXTINF:-1,EuroSport 1
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8030.ts
+#EXTINF:-1,Eurosport 1 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8038.ts
+#EXTINF:-1,EuroSport 2
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8029.ts
+#EXTINF:-1,Eurosport 2 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8037.ts
+#EXTINF:-1,ESPN HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8033.ts
+#EXTINF:-1,Chelsea FC
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8039.ts
+#EXTINF:-1,BT Sports 1 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8041.ts
+#EXTINF:-1,BT Sports 2 HD
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8040.ts
+#EXTINF:-1,BT Sport 1
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8032.ts
+#EXTINF:-1,BT Sport 2
+http://luckyiptv.ddns.net:23000/live/alberto/alberto/8031.ts
+
+#EXTINF:-1,==Adulto==
+http://0.0.0.0
+#EXTINF:-1,Adulto 1
+http://www.t12v.com:8000/live/francy/francy/811.ts
+#EXTINF:-1,Adulto 2
+http://www.t12v.com:8000/live/francy/francy/812.ts
+#EXTINF:-1,Adulto 3
+http://www.t12v.com:8000/live/francy/francy/813.ts
+#EXTINF:-1,Adulto 4
+http://www.t12v.com:8000/live/francy/francy/814.ts
+#EXTINF:-1,Adulto 5
+http://www.t12v.com:8000/live/francy/francy/783.ts
+#EXTINF:-1,Adulto 6
+http://www.t12v.com:8000/live/francy/francy/782.ts
+#EXTINF:-1,Adulto 7
+http://www.t12v.com:8000/live/francy/francy/780.ts
+#EXTINF:-1,Adulto 8
+http://www.t12v.com:8000/live/francy/francy/773.ts
+#EXTINF:-1,Adulto 9
+http://www.t12v.com:8000/live/francy/francy/772.ts
+#EXTINF:-1,Adulto 10
+http://www.t12v.com:8000/live/francy/francy/771.ts
+#EXTINF:-1,Adulto 11
+http://www.t12v.com:8000/live/francy/francy/770.ts
+#EXTINF:-1,Adulto 12
+http://www.t12v.com:8000/live/francy/francy/906.ts
+#EXTINF:-1,Adulto 13
+http://www.t12v.com:8000/live/francy/francy/907.ts
+#EXTINF:-1,Adulto 14
+http://www.t12v.com:8000/live/francy/francy/908.ts
+#EXTINF:-1,Adulto 15
+http://www.t12v.com:8000/live/francy/francy/1197.ts
+#EXTINF:-1,Adulto 16
+http://www.t12v.com:8000/live/francy/francy/1198.ts
+#EXTINF:-1,Adulto 17
+http://www.t12v.com:8000/live/francy/francy/1199.ts
+#EXTINF:-1,Adulto 18
+http://www.t12v.com:8000/live/francy/francy/1200.ts
+#EXTINF:-1,Adulto 19
+http://www.t12v.com:8000/live/francy/francy/1201.ts
+#EXTINF:-1,Adulto 20
+http://www.t12v.com:8000/live/francy/francy/1202.ts
+#EXTINF:-1,Adulto 21
+http://www.t12v.com:8000/live/francy/francy/1203.ts
+#EXTINF:-1,Adulto 22
+http://www.t12v.com:8000/live/francy/francy/1204.ts
+#EXTINF:-1,Adulto 23
+http://www.t12v.com:8000/live/francy/francy/1205.ts
+#EXTINF:-1,Adulto 24
+http://www.t12v.com:8000/live/francy/francy/1206.ts
+#EXTINF:-1,Adulto 25
+http://www.t12v.com:8000/live/francy/francy/1345.ts
+#EXTINF:-1,Adulto 26
+http://www.t12v.com:8000/live/francy/francy/1346.ts
+#EXTINF:-1,Adulto 27
+http://www.t12v.com:8000/live/francy/francy/1347.ts
+
+
