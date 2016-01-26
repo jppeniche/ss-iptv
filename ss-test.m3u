@@ -253,6 +253,25 @@ http://luckyiptv.ddns.net:23000/live/alberto/alberto/8032.ts
 #EXTINF:-1,BT Sport 2
 http://luckyiptv.ddns.net:23000/live/alberto/alberto/8031.ts
 
+#EXTINF:-1,======PORTUGUESE LIVE CHANNELS======
+http://iptv-supplier.com:8000/live/dif/dif/1878.ts
+#EXTINF:-1,PT:TVCINE1
+http://iptv-supplier.com:8000/live/dif/dif/1871.ts
+#EXTINF:-1,PT:TVC4
+http://iptv-supplier.com:8000/live/dif/dif/1873.ts
+#EXTINF:-1,PT:TVC2
+http://iptv-supplier.com:8000/live/dif/dif/1872.ts
+#EXTINF:-1,PT:SPORT_TV4
+http://iptv-supplier.com:8000/live/dif/dif/1868.ts
+#EXTINF:-1,PT:SPORT_TV3
+http://iptv-supplier.com:8000/live/dif/dif/1867.ts
+#EXTINF:-1,PT:SPORTING_TV
+http://iptv-supplier.com:8000/live/dif/dif/1870.ts
+#EXTINF:-1,PT:SPORT_TV1
+http://iptv-supplier.com:8000/live/dif/dif/1865.ts
+#EXTINF:-1,PT:PORTO_CANAL
+http://iptv-supplier.com:8000/live/dif/dif/1864.ts
+
 #EXTINF:-1,==Adulto==
 http://0.0.0.0
 #EXTINF:-1,Adulto 1
