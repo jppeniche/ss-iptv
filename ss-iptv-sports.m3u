@@ -13,8 +13,8 @@ http://192.168.1.97:8000/pid/ad5b5478899b693238d8b96238f86d715737c230/stream.mp4
 #EXTINF:-1 group-title="Sport TV",Sport TV 5
 http://192.168.1.97:8000/pid/592445fe3244632cb50e4eb0dc66e3f61c3f3a6b/stream.mp4
 
-#EXTINF:-1 group-title="Sport TV",BTV 1
-http://192.168.1.97:8000/pid/4e0b64e76d0463e96cefa68bdec74674d9c6f721/stream.mp4
+#EXTINF:-1 group-title="Sport TV",Arouca vs Sporting
+http://192.168.1.97:8000/pid/c13b198dc78ceee3fccfec808ffc71843fe7684e/stream.mp4
 #EXTINF:-1 group-title="Sport TV",BTV 2
 http://192.168.1.97:8000/pid/b65b8012d9cabc96b74013fb2f2ba9ead3e0b262/stream.mp4
 
