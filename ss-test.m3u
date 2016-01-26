@@ -255,23 +255,126 @@ http://luckyiptv.ddns.net:23000/live/alberto/alberto/8031.ts
 
 #EXTINF:-1,======PORTUGUESE LIVE CHANNELS======
 http://iptv-supplier.com:8000/live/dif/dif/1878.ts
-#EXTINF:-1,PT:TVCINE1
-http://iptv-supplier.com:8000/live/dif/dif/1871.ts
-#EXTINF:-1,PT:TVC4
-http://iptv-supplier.com:8000/live/dif/dif/1873.ts
-#EXTINF:-1,PT:TVC2
-http://iptv-supplier.com:8000/live/dif/dif/1872.ts
-#EXTINF:-1,PT:SPORT_TV4
-http://iptv-supplier.com:8000/live/dif/dif/1868.ts
-#EXTINF:-1,PT:SPORT_TV3
-http://iptv-supplier.com:8000/live/dif/dif/1867.ts
-#EXTINF:-1,PT:SPORTING_TV
-http://iptv-supplier.com:8000/live/dif/dif/1870.ts
-#EXTINF:-1,PT:SPORT_TV1
-http://iptv-supplier.com:8000/live/dif/dif/1865.ts
-#EXTINF:-1,PT:PORTO_CANAL
-http://iptv-supplier.com:8000/live/dif/dif/1864.ts
-
+#EXTINF:-1,PT-TVI SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3442.ts
+#EXTINF:-1,PT-TVI 24  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3443.ts
+#EXTINF:-1,PT-TV SERIES  HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3444.ts
+#EXTINF:-1,PT-TV GLOBO PORTUGAL  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3445.ts
+#EXTINF:-1,PT-TV CINE 4 HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3446.ts
+#EXTINF:-1,PT-TV CINE 3  HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3447.ts
+#EXTINF:-1,PT-TV CINE 2  HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3448.ts
+#EXTINF:-1,PT-TV CINE 1  HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3449.ts
+#EXTINF:-1,PT-TOROS TV SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3450.ts
+#EXTINF:-1,PT-SYFY SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3451.ts
+#EXTINF:-1,PT-SPORTING TV  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3452.ts
+#EXTINF:-1,PT-SPORT TV AMERICAS ( Canal de Internet )
+http://cp.dmbshare.net:8000/live/kunal/kunal/3453.ts
+#EXTINF:-1,PT-SPORT TV 5  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3454.ts
+#EXTINF:-1,PT-SPORT TV 4  HD  720p
+http://cp.dmbshare.net:8000/live/kunal/kunal/3455.ts
+#EXTINF:-1,PT-SPORT TV 3 HD  720p
+http://cp.dmbshare.net:8000/live/kunal/kunal/3458.ts
+#EXTINF:-1,PT-SPORT TV 2  HD  720p
+http://cp.dmbshare.net:8000/live/kunal/kunal/3456.ts
+#EXTINF:-1,PT-SPORT TV 1 HD 720p
+http://cp.dmbshare.net:8000/live/kunal/kunal/3457.ts
+#EXTINF:-1,PT-SIC SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3459.ts
+#EXTINF:-1,PT-SIC NOTICIAS  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3460.ts
+#EXTINF:-1,PT-SIC CARAS  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3461.ts
+#EXTINF:-1,PT-RTP INTERNACIONAL SD ( Canal Internet )
+http://cp.dmbshare.net:8000/live/kunal/kunal/3462.ts
+#EXTINF:-1,PT-RTP INFORMAÇÃO  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3463.ts
+#EXTINF:-1,PT-RTP 2  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3464.ts
+#EXTINF:-1,PT-RTP 1  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3465.ts
+#EXTINF:-1,PT-REAL MADRID TV SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3466.ts
+#EXTINF:-1,PT-PORTO CANAL  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3467.ts
+#EXTINF:-1,PT-PANDA SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3468.ts
+#EXTINF:-1,PT-ODISSEIA SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3469.ts
+#EXTINF:-1,PT-NICKELODEON  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3470.ts
+#EXTINF:-1,PT-NATIONAL GEOGRAPHIC HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3471.ts
+#EXTINF:-1,PT-NAT GEO WILD  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3472.ts
+#EXTINF:-1,PT-MOV  HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3473.ts
+#EXTINF:-1,PT-MOTORS TV SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3474.ts
+#EXTINF:-1,PT-HOLLYWOD SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3475.ts
+#EXTINF:-1,PT-FOX NEWS SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3476.ts
+#EXTINF:-1,PT-FOX MOVIES  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3477.ts
+#EXTINF:-1,PT-FOX LIFE  HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3478.ts
+#EXTINF:-1,PT-FOX CRIME  HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3479.ts
+#EXTINF:-1,PT-FOX  HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3480.ts
+#EXTINF:-1,PT-EUROSPORT 2 SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3481.ts
+#EXTINF:-1,PT-EUROSPORT  HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3482.ts
+#EXTINF:-1,PT-E! ENTERTAINMENT  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3483.ts
+#EXTINF:-1,PT-DISNEY JUNIOR SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3484.ts
+#EXTINF:-1,PT-DISNEY CHANNEL SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3485.ts
+#EXTINF:-1,PT-DISCOVERY SHOWCASE HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3486.ts
+#EXTINF:-1,PT-DISCOVERY CHANNEL  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3487.ts
+#EXTINF:-1,PT-CMTV  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3488.ts
+#EXTINF:-1,PT-CINEMUNDO  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3489.ts
+#EXTINF:-1,PT-CHELSEA TV SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3490.ts
+#EXTINF:-1,PT-CARTOON NETWORK  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3491.ts
+#EXTINF:-1,PT-CANAL Q  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3492.ts
+#EXTINF:-1,PT-CANAL HISTORIA SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3493.ts
+#EXTINF:-1,PT-CACA E PESCA SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3494.ts
+#EXTINF:-1,PT-BENFICA TV 2 HD   720p
+http://cp.dmbshare.net:8000/live/kunal/kunal/3495.ts
+#EXTINF:-1,PT-BENFICA TV 1  HD 720p
+http://cp.dmbshare.net:8000/live/kunal/kunal/3496.ts
+#EXTINF:-1,PT-BABY TV SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3497.ts
+#EXTINF:-1,PT-AXN  HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3498.ts
+#EXTINF:-1,PT-AMC  SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3499.ts
+#EXTINF:-1,PT-A&E SD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3500.ts
+#EXTINF:-1,PT-24 Kitchen  HD
+http://cp.dmbshare.net:8000/live/kunal/kunal/3501.ts
 #EXTINF:-1,==Adulto==
 http://0.0.0.0
 #EXTINF:-1,Adulto 1
