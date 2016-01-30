@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 group-title="Sport TV",Sport TV 1
-http://192.168.1.97:8000/pid/c39db61fd585ebfa446983d0af9d9d637df9678c/stream.mp4
+http://192.168.1.97:8000/pid/359a65b9d81e5bf1eaaa8467fd888e08152dc5be/stream.mp4
 #EXTINF:-1 group-title="Sport TV",Sport TV 2
 http://192.168.1.97:8000/pid/14468e2d369fabdff33d5c546e9585ec52af815f/stream.mp4
 #EXTINF:-1 group-title="Sport TV",Sport TV 3
