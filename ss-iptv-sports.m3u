@@ -18,7 +18,16 @@ http://192.168.1.97:8000/pid/c13b198dc78ceee3fccfec808ffc71843fe7684e/stream.mp4
 #EXTINF:-1 group-title="Sport TV",BTV 2
 http://192.168.1.97:8000/pid/b65b8012d9cabc96b74013fb2f2ba9ead3e0b262/stream.mp4
 
-
+#EXTINF:-1 group-title="Sport TV",Sport TV 5
+http://bit.do/iptvsportt-por5
+#EXTINF:-1 group-title="Sport TV",Sport TV 4
+http://bit.do/iptvsportt-por4
+#EXTINF:-1 group-title="Sport TV",Sport TV 3
+http://bit.do/iptvsportt-por3
+#EXTINF:-1 group-title="Sport TV",Sport TV 2
+http://bit.do/iptvsportt-por2
+#EXTINF:-1 group-title="Sport TV",Sport TV 1
+http://bit.do/iptvsportt-por1
 #EXTINF:-1 group-title="Eurosport",EUROSPORT
 http://192.168.1.97:8000/pid/ca89ed764a7767ae71e937e78d284c5577d8ee5b/stream.mp4
 #EXTINF:-1 group-title="Eurosport",Eurosport 2 British
