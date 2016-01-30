@@ -1,5 +1,76 @@
 #EXTM3U
 #EXTINF:-1,==27/01/2016
+
+
+
+
+#EXTINF:0,Portugal: TVI FICCAO
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/645.m3u8
+#EXTINF:0,Portugal: TVCINE 4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/647.m3u8
+#EXTINF:0,Portugal: TVCINE 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/648.m3u8
+#EXTINF:0,Portugal: TVCINE 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/649.m3u8
+#EXTINF:0,Portugal: TVCINE 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/650.m3u8
+#EXTINF:0,Portugal: TV SERIES
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/651.m3u8
+#EXTINF:0,Portugal: SportTV 5 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/637.m3u8
+#EXTINF:0,Portugal: SportTV 4 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/638.m3u8
+#EXTINF:0,Portugal: SportTV 3 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/639.m3u8
+#EXTINF:0,Portugal: SportTV 2 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/640.m3u8
+#EXTINF:0,Portugal: SportTV 1 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/641.m3u8
+#EXTINF:0,Portugal: SPORTING TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/652.m3u8
+#EXTINF:0,Portugal: SIC NOTICIAS
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/653.m3u8
+#EXTINF:0,Portugal: SIC
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/655.m3u8
+#EXTINF:0,Portugal: RTP 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/656.m3u8
+#EXTINF:0,Portugal: RTP 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/657.m3u8
+#EXTINF:0,Portugal: PORTO CANAL (test)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/658.m3u8
+#EXTINF:0,Portugal: ODISSEIA
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/659.m3u8
+#EXTINF:0,Portugal: NATIONAL GEOGRAPHIC HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/660.m3u8
+#EXTINF:0,Portugal: FX Portuga
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/665.m3u8
+#EXTINF:0,Portugal: FOX HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/666.m3u8
+#EXTINF:0,Portugal: Eurosport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/667.m3u8
+#EXTINF:0,Portugal: DISNEY JUNIOR (test)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/668.m3u8
+#EXTINF:0,Portugal: DISNEY Channel
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/669.m3u8
+#EXTINF:0,Portugal: CM TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/671.m3u8
+#EXTINF:0,Portugal: CINEMUNDO
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/672.m3u8
+#EXTINF:0,Portugal: Cartoon Network Portugal
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/673.m3u8
+#EXTINF:0,Portugal: CANAL PANDA
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/674.m3u8
+#EXTINF:0,Portugal: BENFICA TV 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/676.m3u8
+#EXTINF:0,Portugal: BENFICA TV 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/677.m3u8
+#EXTINF:0,Portugal: AXN WHITE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/678.m3u8
+#EXTINF:0,Portugal: AXN BLACK
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/679.m3u8
+#EXTINF:0,Portugal: A BOLA TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/680.m3u8
+
 #EXTINF:-1,==iptv.ndasat.com
 #EXTINF:-1,PT-SportTV4
 http://iptv.ndasat.com:88/live/000001/000001/67.ts
