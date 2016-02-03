@@ -422,7 +422,822 @@ http://cp.dmbshare.net:8000/live/derya/derya/3500.ts
 http://cp.dmbshare.net:8000/live/derya/derya/3501.ts
 
 
-#EXTINF:-1,==luckyiptv.ddns.net==
+#EXTINF:-1,==teste==
 http://0.0.0.0
 #EXTINF:-1,OFFLINE
-http://0.0.0.0
+#EXTINF:-1,RTP 1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/71.ts
+#EXTINF:-1,RTP 2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/72.ts
+#EXTINF:-1,SIC
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/74.ts
+#EXTINF:-1,TVI
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/75.ts
+#EXTINF:-1,RTP MEMORIA
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/80.ts
+#EXTINF:-1,RTP MADEIRA
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/81.ts
+#EXTINF:-1,RTP INTERNACIONAL
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/76.ts
+#EXTINF:-1,RTP África
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/82.ts
+#EXTINF:-1,RTP ACORES
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/85.ts
+#EXTINF:-1,RTP 3
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/73.ts
+#EXTINF:-1,SIC CARAS
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/978.ts
+#EXTINF:-1,SIC Radical
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/84.ts
+#EXTINF:-1,SIC NOTICIAS
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/77.ts
+#EXTINF:-1,SIC MULHER
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/87.ts
+#EXTINF:-1,TVI REALITY
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/86.ts
+#EXTINF:-1,CÂMARA REALITY
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/993.ts
+#EXTINF:-1,TVI FICCAO
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/88.ts
+#EXTINF:-1,Tvi 24
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/78.ts
+#EXTINF:-1,TVI International
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/637.ts
+#EXTINF:-1,TV PARLAMENTO
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1207.ts
+#EXTINF:-1,CANAL Q
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1252.ts
+#EXTINF:-1,CM TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/132.ts
+#EXTINF:-1,A BOLA
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1002.ts
+#EXTINF:-1,Económico TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/144.ts
+#EXTINF:-1,SPORT TV Américas HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/143.ts
+#EXTINF:-1,SPORTTV 1 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/101.ts
+#EXTINF:-1,SPORT.TV 1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/102.ts
+#EXTINF:-1,SPORT.TV 2 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/415.ts
+#EXTINF:-1,SPORT.TV 2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/103.ts
+#EXTINF:-1,SPORT.TV 3 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/974.ts
+#EXTINF:-1,SPORT.TV 3
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/104.ts
+#EXTINF:-1,Sport.TV4 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/107.ts
+#EXTINF:-1,SPORT.TV 4
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/106.ts
+#EXTINF:-1,Sport.TV5 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/108.ts
+#EXTINF:-1,SPORT.TV 5
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/418.ts
+#EXTINF:-1,BTV 1 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/112.ts
+#EXTINF:-1,BTV 1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/113.ts
+#EXTINF:-1,BTV 2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/111.ts
+#EXTINF:-1,PFC
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/980.ts
+#EXTINF:-1,Viasat Sport
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/146.ts
+#EXTINF:-1,SPORTING TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/109.ts
+#EXTINF:-1,Porto Canal
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/83.ts
+#EXTINF:-1,REAL MADRID TV HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/114.ts
+#EXTINF:-1,BARÇA TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/110.ts
+#EXTINF:-1,CHELSEA TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/115.ts
+#EXTINF:-1,EUROSPORT SD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/139.ts
+#EXTINF:-1,Eurosport
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/126.ts
+#EXTINF:-1,EUROSPORT NEWS
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/133.ts
+#EXTINF:-1,EUROSPORT HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/135.ts
+#EXTINF:-1,EUROSPORT 2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/136.ts
+#EXTINF:-1,FUEL TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/986.ts
+#EXTINF:-1,WOOHOO
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/963.ts
+#EXTINF:-1,MOTORVISION
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/984.ts
+#EXTINF:-1,FOX SPORTS
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/405.ts
+#EXTINF:-1,MOTORS TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/116.ts
+#EXTINF:-1,TVCINE 1 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1256.ts
+#EXTINF:-1,TVCINE 1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/89.ts
+#EXTINF:-1,TVCINE 2 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1255.ts
+#EXTINF:-1,TVCINE 2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/90.ts
+#EXTINF:-1,TVCINE 3 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1254.ts
+#EXTINF:-1,TVCINE 3
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/91.ts
+#EXTINF:-1,TVCINE 4 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1253.ts
+#EXTINF:-1,TVCINE 4
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/92.ts
+#EXTINF:-1,TVSÉRIES HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1257.ts
+#EXTINF:-1,TVCINE SERIES
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1096.ts
+#EXTINF:-1,SYFY HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/93.ts
+#EXTINF:-1,AMC
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/131.ts
+#EXTINF:-1,MOV HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/983.ts
+#EXTINF:-1,Cinemundo
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/96.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/94.ts
+#EXTINF:-1,Hollywood
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/95.ts
+#EXTINF:-1,FOX MOVIES HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/97.ts
+#EXTINF:-1,FOX COMEDY
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/988.ts
+#EXTINF:-1,FOX HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/98.ts
+#EXTINF:-1,FOX CRIME HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/99.ts
+#EXTINF:-1,Fox Life HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/430.ts
+#EXTINF:-1,Axn White HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/429.ts
+#EXTINF:-1,AXN HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/999.ts
+#EXTINF:-1,AXN BLACK HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/100.ts
+#EXTINF:-1,BABY TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/117.ts
+#EXTINF:-1,JIM JAM
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/125.ts
+#EXTINF:-1,SIC K
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/121.ts
+#EXTINF:-1,PANDA BIGGS
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/123.ts
+#EXTINF:-1,Canal Panda
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/120.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/990.ts
+#EXTINF:-1,Disney Junior
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/119.ts
+#EXTINF:-1,Nickelodeon
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/122.ts
+#EXTINF:-1,CARTOON NETWORK
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/994.ts
+#EXTINF:-1,MCM POP
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1305.ts
+#EXTINF:-1,Trace TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1304.ts
+#EXTINF:-1,Mtv Portugal
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/124.ts
+#EXTINF:-1,MTV Dance
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1095.ts
+#EXTINF:-1,VH1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/403.ts
+#EXTINF:-1,C-MUSIC
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/996.ts
+#EXTINF:-1,AFRO MUSIC
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1000.ts
+#EXTINF:-1,VEVO TV 1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/149.ts
+#EXTINF:-1,VEVO TV 2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/151.ts
+#EXTINF:-1,VEVO TV 3
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/152.ts
+#EXTINF:-1,VEVO Music HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/148.ts
+#EXTINF:-1,Eska Rock HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1094.ts
+#EXTINF:-1,ONE 1 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/157.ts
+#EXTINF:-1,ONE 2 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/158.ts
+#EXTINF:-1,Djing
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/156.ts
+#EXTINF:-1,Tv Record
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/79.ts
+#EXTINF:-1,TV GLOBO PREMIUM
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/970.ts
+#EXTINF:-1,TV GLOBO
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/433.ts
+#EXTINF:-1,TV CANÇÃO NOVA
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/419.ts
+#EXTINF:-1,REDETV!
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/421.ts
+#EXTINF:-1,RECORD NEWS
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/420.ts
+#EXTINF:-1,Toros TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/432.ts
+#EXTINF:-1,CAÇAVISION
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/995.ts
+#EXTINF:-1,Caza y Pesca
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/641.ts
+#EXTINF:-1,24 KITCHEN HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1003.ts
+#EXTINF:-1,Food Network
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/130.ts
+#EXTINF:-1,Canal de Histðria
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/138.ts
+#EXTINF:-1,TLC
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/971.ts
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/129.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/989.ts
+#EXTINF:-1,CBS REALITY
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/992.ts
+#EXTINF:-1,A&E
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1001.ts
+#EXTINF:-1,Odisseia
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/127.ts
+#EXTINF:-1,Discovery Channel
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/128.ts
+#EXTINF:-1,Discovery Science
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/870.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/134.ts
+#EXTINF:-1,National Geography Wild
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/869.ts
+#EXTINF:-1,NAT GEO WILD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/982.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/981.ts
+#EXTINF:-1,OUTDOOR HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/137.ts
+#EXTINF:-1,GINX(test)
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/412.ts
+#EXTINF:-1,BBC Entertainment
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/416.ts
+#EXTINF:-1,Fashion HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/436.ts
+#EXTINF:-1,Fashion TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/638.ts
+#EXTINF:-1,laSexta
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/408.ts
+#EXTINF:-1,Galicia
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/407.ts
+#EXTINF:-1,Euronews
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/435.ts
+#EXTINF:-1,France 24
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/868.ts
+#EXTINF:-1,TVE 24 Horas
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/642.ts
+#EXTINF:-1,Sky News
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/867.ts
+#EXTINF:-1,Bloomberg
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1093.ts
+#EXTINF:-1,(XXX)
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/140.ts
+#EXTINF:-1,Hustler HD (XXX)
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/437.ts
+#EXTINF:-1,VENUS (xxx)
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/964.ts
+#EXTINF:-1,PLAYBOY HD XXX
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/979.ts
+#EXTINF:-1,HOT HD (XXX)
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/985.ts
+#EXTINF:-1,Jasmin TV HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/417.ts
+#EXTINF:-1,ES: Viajar
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1196.ts
+#EXTINF:-1,ES: TVE 24
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1206.ts
+#EXTINF:-1,ES: TV 3 Catalunya
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1191.ts
+#EXTINF:-1,ES: Toros
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1182.ts
+#EXTINF:-1,ES: TNT
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1172.ts
+#EXTINF:-1,ES: Teledeporte
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1185.ts
+#EXTINF:-1,ES: Telecinco
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1157.ts
+#EXTINF:-1,ES: TCM
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1171.ts
+#EXTINF:-1,ES: SYFY
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1177.ts
+#EXTINF:-1,ES: Sol Musica
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1192.ts
+#EXTINF:-1,ES: Real Madrid TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1186.ts
+#EXTINF:-1,ES: Nova
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1159.ts
+#EXTINF:-1,ES: Nat Geograph
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1193.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1194.ts
+#EXTINF:-1,ES: MoviStar MotoGP
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1190.ts
+#EXTINF:-1,ES: La Sexta
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1158.ts
+#EXTINF:-1,ES: Historia
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1197.ts
+#EXTINF:-1,ES: Fox
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1174.ts
+#EXTINF:-1,ES: Fashion TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1181.ts
+#EXTINF:-1,ES: Disney XD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1204.ts
+#EXTINF:-1,ES: Disney JR
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1203.ts
+#EXTINF:-1,ES: Disney Channel
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1202.ts
+#EXTINF:-1,ES: Dcine Español
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1170.ts
+#EXTINF:-1,ES: Cuatro
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1156.ts
+#EXTINF:-1,ES: Cosmopolitan
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1180.ts
+#EXTINF:-1,ES: Comedy Central
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1179.ts
+#EXTINF:-1,ES: Clan TVE
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1162.ts
+#EXTINF:-1,ES: Caza y Pesca
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1199.ts
+#EXTINF:-1,ES: Canal Odisea
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1198.ts
+#EXTINF:-1,ES: Canal Decasa
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1200.ts
+#EXTINF:-1,ES: Canal Cocina
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1201.ts
+#EXTINF:-1,ES: Canal  Xtra
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1173.ts
+#EXTINF:-1,ES: CANAL  LIGA
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1187.ts
+#EXTINF:-1,ES: Canal  Futbol
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1184.ts
+#EXTINF:-1,ES: Canal  Deportes 2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1188.ts
+#EXTINF:-1,ES: Canal  Deportes
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1183.ts
+#EXTINF:-1,ES: Canal
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1164.ts
+#EXTINF:-1,ES: Calle 13
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1178.ts
+#EXTINF:-1,ES: C  Series
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1165.ts
+#EXTINF:-1,ES: C  Estrenos
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1166.ts
+#EXTINF:-1,ES: C  Dcine
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1169.ts
+#EXTINF:-1,ES: C  Comedia
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1168.ts
+#EXTINF:-1,ES: C  Accion
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1167.ts
+#EXTINF:-1,ES: AXN White
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1176.ts
+#EXTINF:-1,ES: AXN
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1175.ts
+#EXTINF:-1,ES: Antenna 3
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1155.ts
+#EXTINF:-1,ES: Andalucia
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1160.ts
+#EXTINF:-1,ES: A & E
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1195.ts
+#EXTINF:-1,ES: 40 TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1163.ts
+#EXTINF:-1,ES: 24 Horas
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1205.ts
+#EXTINF:-1,ES:  MoviStar F1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/1189.ts
+#EXTINF:-1,ES: Nickelodeon
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/301.ts
+#EXTINF:-1,ES: NBA TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/302.ts
+#EXTINF:-1,ES: National Geographic Wild
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/303.ts
+#EXTINF:-1,ES: National Geographic
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/304.ts
+#EXTINF:-1,ES: Movis Star Moto Gp
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/305.ts
+#EXTINF:-1,ES: Movi Star F1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/306.ts
+#EXTINF:-1,ES: La 2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/307.ts
+#EXTINF:-1,ES: La 1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/308.ts
+#EXTINF:-1,ES: La  Sexta HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/309.ts
+#EXTINF:-1,ES: Kiss TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/310.ts
+#EXTINF:-1,ES: IB 3
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/312.ts
+#EXTINF:-1,ES: Hollywood
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/313.ts
+#EXTINF:-1,ES: History HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/314.ts
+#EXTINF:-1,ES: Fox Sport 2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/315.ts
+#EXTINF:-1,ES: Fox Life
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/316.ts
+#EXTINF:-1,ES: FDF
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/317.ts
+#EXTINF:-1,ES: ESPN 2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/318.ts
+#EXTINF:-1,ES: ESPN
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/319.ts
+#EXTINF:-1,ES: Disney Junior
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/320.ts
+#EXTINF:-1,ES: Discovry Chaneel
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/321.ts
+#EXTINF:-1,ES: Cosmo
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/322.ts
+#EXTINF:-1,ES: Canal 7 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/332.ts
+#EXTINF:-1,ES: Canal 3 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/333.ts
+#EXTINF:-1,ES: Canal 2 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/334.ts
+#EXTINF:-1,ES: Canal 13
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/335.ts
+#EXTINF:-1,ES: Canal  Toros
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/323.ts
+#EXTINF:-1,ES: Canal  Series
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/324.ts
+#EXTINF:-1,ES: Canal  HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/325.ts
+#EXTINF:-1,ES: Canal  Golf
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/326.ts
+#EXTINF:-1,ES: Canal  Futpol
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/327.ts
+#EXTINF:-1,ES: Canal  Estrenos HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/328.ts
+#EXTINF:-1,ES: Canal  Deportes HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/329.ts
+#EXTINF:-1,ES: Canal  Dcine
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/330.ts
+#EXTINF:-1,ES: Canal  Costa
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/331.ts
+#EXTINF:-1,ES: Calle 13 Spain
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/336.ts
+#EXTINF:-1,GB:TCM
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/206.ts
+#EXTINF:-1,GB:British muslim tv
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/207.ts
+#EXTINF:-1,GB: ZOUGLA
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/208.ts
+#EXTINF:-1,GB: ZEE CINEMA
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/209.ts
+#EXTINF:-1,GB: True Movies 2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/210.ts
+#EXTINF:-1,GB: TRUE MOVIES 1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/211.ts
+#EXTINF:-1,GB: Sony Movies
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/212.ts
+#EXTINF:-1,GB: Sky Thriller
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/213.ts
+#EXTINF:-1,GB: Sky Sports News HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/214.ts
+#EXTINF:-1,GB: Sky Sport F1 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/215.ts
+#EXTINF:-1,GB: SKY SPORT 5 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/216.ts
+#EXTINF:-1,GB: Sky Sport 4 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/217.ts
+#EXTINF:-1,GB: Sky Sport 3 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/218.ts
+#EXTINF:-1,GB: SKY SPORT 2HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/219.ts
+#EXTINF:-1,GB: SKY SPORT 1 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/220.ts
+#EXTINF:-1,GB: Sky Sport 1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/221.ts
+#EXTINF:-1,GB: Sky Sci-Fi
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/222.ts
+#EXTINF:-1,GB: Sky One
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/223.ts
+#EXTINF:-1,GB: Sky News
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/224.ts
+#EXTINF:-1,GB: Sky Movies Thriller HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/225.ts
+#EXTINF:-1,GB: Sky Movies Sci-Fi HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/226.ts
+#EXTINF:-1,GB: Sky Movies Premiere HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/227.ts
+#EXTINF:-1,GB: SKY MOVIES MODERN GREATS
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/228.ts
+#EXTINF:-1,GB: Sky Movies Drama HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/229.ts
+#EXTINF:-1,GB: Sky Movies Action
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/230.ts
+#EXTINF:-1,GB: Sky Living
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/231.ts
+#EXTINF:-1,GB: Sky ITV 4
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/232.ts
+#EXTINF:-1,GB: Sky ITV 3
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/233.ts
+#EXTINF:-1,GB: Sky Family
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/234.ts
+#EXTINF:-1,GB: Sky Disney XD HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/235.ts
+#EXTINF:-1,GB: Sky Disney
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/236.ts
+#EXTINF:-1,GB: Sky Comedy
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/237.ts
+#EXTINF:-1,GB: Sky Atlantic
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/238.ts
+#EXTINF:-1,GB: Sky Arts 1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/239.ts
+#EXTINF:-1,GB: Setanta Sports
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/240.ts
+#EXTINF:-1,GB: Russia Today English
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/241.ts
+#EXTINF:-1,GB: RTE 2 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/242.ts
+#EXTINF:-1,GB: RTE 1 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/243.ts
+#EXTINF:-1,GB: Nick
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/244.ts
+#EXTINF:-1,GB: National Geography Wild
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/245.ts
+#EXTINF:-1,GB: MUTV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/246.ts
+#EXTINF:-1,GB: Movies 4 Men
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/247.ts
+#EXTINF:-1,GB: Mototrs TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/248.ts
+#EXTINF:-1,GB: MOTORS TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/249.ts
+#EXTINF:-1,GB: Living
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/250.ts
+#EXTINF:-1,GB: ITV 1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/251.ts
+#EXTINF:-1,GB: Horror Channel
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/252.ts
+#EXTINF:-1,GB: Home
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/253.ts
+#EXTINF:-1,GB: HISTORY
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/254.ts
+#EXTINF:-1,GB: H2
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/255.ts
+#EXTINF:-1,GB: Good Food
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/256.ts
+#EXTINF:-1,GB: Gold
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/257.ts
+#EXTINF:-1,GB: Fox
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/258.ts
+#EXTINF:-1,GB: Food Network
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/259.ts
+#EXTINF:-1,GB: Five
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/260.ts
+#EXTINF:-1,GB: Film 4
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/261.ts
+#EXTINF:-1,GB: Eurosport 2 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/262.ts
+#EXTINF:-1,GB: Eurosport 1 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/263.ts
+#EXTINF:-1,GB: Discovery Science HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/264.ts
+#EXTINF:-1,GB: Discovery Science
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/265.ts
+#EXTINF:-1,GB: Discovery History
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/266.ts
+#EXTINF:-1,GB: Comedy Central
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/267.ts
+#EXTINF:-1,GB: Channel 5
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/268.ts
+#EXTINF:-1,GB: Channel 4
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/269.ts
+#EXTINF:-1,GB: CBS Action
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/270.ts
+#EXTINF:-1,GB: BT Sports 2 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/271.ts
+#EXTINF:-1,GB: BT SPORT 2 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/413.ts
+#EXTINF:-1,GB: BT SPORT 1 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/414.ts
+#EXTINF:-1,#### PREMIUM ITALY#####
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/272.ts
+#EXTINF:-1,Premium Stories
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/273.ts
+#EXTINF:-1,Premium Sport HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/274.ts
+#EXTINF:-1,Premium Joy
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/275.ts
+#EXTINF:-1,Premium Energy
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/276.ts
+#EXTINF:-1,Premium Emotion
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/277.ts
+#EXTINF:-1,Premium Disney Junior
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/278.ts
+#EXTINF:-1,Premium Disney Channel
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/279.ts
+#EXTINF:-1,Premium Discovery World
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/280.ts
+#EXTINF:-1,Premium Crime HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/281.ts
+#EXTINF:-1,Premium Crime  24
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/282.ts
+#EXTINF:-1,Premium Comedy
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/283.ts
+#EXTINF:-1,Premium Cinema HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/284.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/285.ts
+#EXTINF:-1,Premium Cinema 2  24
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/286.ts
+#EXTINF:-1,Premium Cinema  24
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/287.ts
+#EXTINF:-1,Premium Cartoon Network
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/288.ts
+#EXTINF:-1,Premium Calcio 7
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/289.ts
+#EXTINF:-1,Premium Calcio 6
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/290.ts
+#EXTINF:-1,Premium Calcio 5
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/291.ts
+#EXTINF:-1,Premium Calcio 4
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/292.ts
+#EXTINF:-1,Premium Calcio 3
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/293.ts
+#EXTINF:-1,Premium Calcio 2 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/294.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/295.ts
+#EXTINF:-1,Premium Calcio
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/296.ts
+#EXTINF:-1,Premium BBC
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/297.ts
+#EXTINF:-1,Premium Action HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/298.ts
+#EXTINF:-1,Premium Action  24
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/299.ts
+#EXTINF:-1,Premium  Studio Universal
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/300.ts
+#EXTINF:-1,#### france#########
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/160.ts
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/633.ts
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/634.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 4
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/635.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 5
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/636.ts
+#EXTINF:-1,(FR) CINE  FRISSON
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/165.ts
+#EXTINF:-1,(FR) CINE  FAMIZ
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/166.ts
+#EXTINF:-1,(FR) CINE  CLASSIC
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/167.ts
+#EXTINF:-1,(FR)CANAL  SPORT
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/168.ts
+#EXTINF:-1,(FR) CANAL  SERIES
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/169.ts
+#EXTINF:-1,(FR)CANAL  FAMILY
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/170.ts
+#EXTINF:-1,(FR) CANAL  CINEMA
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/172.ts
+#EXTINF:-1,(FR) CANAL  DECALE
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/171.ts
+#EXTINF:-1,(FR) PLANETE  CI
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/161.ts
+#EXTINF:-1,(FR) OCS CHOC
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/162.ts
+#EXTINF:-1,(FR) NON STOP PEOPLE
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/163.ts
+#EXTINF:-1,(FR)MA CHAINE SPORT
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/164.ts
+#EXTINF:-1,(FR) W9
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/173.ts
+#EXTINF:-1,(FR) TMC
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/174.ts
+#EXTINF:-1,(FR) Sport
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/175.ts
+#EXTINF:-1,(FR) Science Et Vie
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/176.ts
+#EXTINF:-1,(FR) OLTV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/177.ts
+#EXTINF:-1,(FR) OCS Géants
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/178.ts
+#EXTINF:-1,(FR) OCS City
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/179.ts
+#EXTINF:-1,(FR) NT1
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/180.ts
+#EXTINF:-1,(FR) Mangas
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/181.ts
+#EXTINF:-1,(FR) Ma Chaine Sport
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/182.ts
+#EXTINF:-1,(FR) La Tele
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/183.ts
+#EXTINF:-1,(FR) France O
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/184.ts
+#EXTINF:-1,(FR) France 5
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/185.ts
+#EXTINF:-1,(FR) France 4
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/186.ts
+#EXTINF:-1,(FR) France 3
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/187.ts
+#EXTINF:-1,(FR) France 24
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/188.ts
+#EXTINF:-1,(FR) Enorme TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/189.ts
+#EXTINF:-1,(FR) Cinq
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/190.ts
+#EXTINF:-1,(FR) Ciné  Emotion
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/191.ts
+#EXTINF:-1,(FR) Cherie 25
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/192.ts
+#EXTINF:-1,(FR) Chasse Et Peche
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/193.ts
+#EXTINF:-1,(FR) Canal  Sport
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/194.ts
+#EXTINF:-1,(FR) Canal  Family
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/195.ts
+#EXTINF:-1,(FR) Canal  Décalé
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/196.ts
+#EXTINF:-1,(FR) BFM TV
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/197.ts
+#EXTINF:-1,(FR) Animaux
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/198.ts
+#EXTINF:-1,(FR)  W9
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/199.ts
+#EXTINF:-1,(FR)  TREK
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/200.ts
+#EXTINF:-1,(FR)  TEVA
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/201.ts
+#EXTINF:-1,(FR)  RTL9
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/202.ts
+#EXTINF:-1,(FR)  COMEDY CLASSIC
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/203.ts
+#EXTINF:-1,(FR)  COMEDIE  HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/204.ts
+#EXTINF:-1,(FR)  13EME RUE HD
+http://iptvcolor.myftp.biz:8000/live/ALL/3645sdfg/205.ts
+#EXTINF:-1,The Wedding Ringer (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1264.mkv
+#EXTINF:-1,The Walking Deceased (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1265.mkv
+#EXTINF:-1,The Rise of the Krays (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1266.mkv
+#EXTINF:-1,The Lovers (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1272.mkv
+#EXTINF:-1,The Longest Ride (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1273.mkv
+#EXTINF:-1,The Lazarus Effect (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1274.mkv
+#EXTINF:-1,The Gunman (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1275.mkv
+#EXTINF:-1,The Gallows (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1276.mkv
+#EXTINF:-1,The Fantastic Four 4 2015
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1292.mkv
+#EXTINF:-1,The DUFF (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1277.mkv
+#EXTINF:-1,The D Train (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1278.mkv
+#EXTINF:-1,The Cokeville Miracle (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1279.mkv
+#EXTINF:-1,The Age of Adaline (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1280.mkv
+#EXTINF:-1,Terminator Genisys (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1281.mkv
+#EXTINF:-1,Southpaw (2015) [1080p]
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1271.mkv
+#EXTINF:-1,Slow West (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1258.mkv
+#EXTINF:-1,Shaun the Sheep Movie (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1270.mkv
+#EXTINF:-1,San Andreas (2015) [1080p]
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1269.mkv
+#EXTINF:-1,Road Wars (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1268.mkv
+#EXTINF:-1,Poltergeist (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1267.mkv
+#EXTINF:-1,Pixels (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1290.mkv
+#EXTINF:-1,Paul Blart Mall Cop 2
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1289.mkv
+#EXTINF:-1,Mission Impossible 5 Rogue Nation
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1288.mkv
+#EXTINF:-1,Jurassic Prey (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1287.mkv
+#EXTINF:-1,Insidious Chapter 3 (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1286.mkv
+#EXTINF:-1,Ghost Boat 2015
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1291.mkv
+#EXTINF:-1,Furious Seven (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1285.mkv
+#EXTINF:-1,Freetown (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1284.mkv
+#EXTINF:-1,Focus (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1283.mkv
+#EXTINF:-1,Child 44 (2015)
+http://iptvcolor.myftp.biz:8000/movie/ALL/3645sdfg/1282.SIC
